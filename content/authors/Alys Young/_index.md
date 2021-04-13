@@ -1,37 +1,37 @@
 ---
 # Display name
-title: Kevin Newman
+title: Alys Young
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: PhD Candidate
+role: PhD Candidate / Research Assistant
 
 # Organizations/Affiliations
 organizations:
-- name: University of Melbourne
-  url: "https://kdnresearch.wordpress.com/"
+- name: Deakin University
+  url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include imperfect detection, species surveillance and the optimisation of detection of species. 
+bio:  
 
 interests:
-- Imperfect Detection
-- Quantitative Ecology
-- Australian Native Species
+- Modelling Biodiversity
+- ShinyApps
+- R Coding
 
 education:
   courses:
-  - course: PhD in Imperfect Detection
-    institution: University of Melbourne
-    year: 2021 - ongoing
-  - course: BSc (Hons) in Biosciences
+  - course: PhD on modelling the biodiversity of the Tiwi Islands
+    institution: Deakin University
+    year: 2020 - ongoing
+  - course: Master of Science (Biosciences)
     institution: University of Melbourne
     year: 2019 - 2020
-  - course: BSc in Zoology and Statistics
-    institution: La Trobe University
-    year: 2016 - 2019
+  - course: BSc 
+    institution: University of Melbourne
+    year: 2015 - 2018
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -40,13 +40,13 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:kdnewman@student.unimelb.edu.au'
+  link: 'mailto:'
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/kdnewman87
+  link: https://twitter.com/EcoAlys
 - icon: github
   icon_pack: fab
-  link: https://github.com/kdnewman87
+  link: https://github.com/AlysY
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -66,6 +66,4 @@ user_groups:
 ---
 
 
-Kevin Newman holds a Bachelor of Science majoring in Zoology and Statistics from La Trobe University and Honours in Biosciences at the University of Melbourne Quantitative and Applied Ecology lab (QAEco) with Professor Mick McCarthy on optimal surveillance for Leadbeater’s Possum. He is currently undertaking a PhD into Imperfect Detection and species surveillance with Professor Mick McCarthy and Dr Gurutzeta Guillera-Arroita.
-
-His career goal is to assist in the development of sustainable conservation strategies for Australia’s unique biodiversity through statistical analysis with meaningful and accessible results.
+Alys is a PhD candidate at Deakin University modelling biodiversity on the Tiwi Islands. 
