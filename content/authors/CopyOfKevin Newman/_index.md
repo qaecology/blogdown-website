@@ -1,35 +1,38 @@
 ---
 # Display name
-title: Alys Young
+title: (insert name here followed by pronouns in (they/them) format)
 
 # Is this the primary user of the site?
-superuser: true
+superuser: FALSE
 
 # Role/position
-role: PhD Candidate / Research Assistant
+role: (Insert role here ie. PhD Candidate/Research Fellow/etc.)
 
 # Organizations/Affiliations
 organizations:
-- name: Deakin University
-  url: ""
+- name: (organisation name / affiliation)
+  url: "(url for organisation website)"
 
 # Short bio (displayed in user profile at end of posts)
-bio:  
+bio: (short 1 - 2 sentence bio)
 
 interests:
-- Alys is a PhD candidate at Deakin University modelling biodiversity on the Tiwi Islands. 
+- (General topic areas of interest)
+- (General topic areas of interest)
+- (General topic areas of interest)
+- (General topic areas of interest)
 
-education:
-  courses:
-  - course: PhD on modelling the biodiversity of the Tiwi Islands
-    institution: Deakin University
-    year: 2020 - ongoing
-  - course: Master of Science (Biosciences)
-    institution: University of Melbourne
-    year: 2019 - 2020
-  - course: BSc
-    institution: University of Melbourne
-    year: 2015 - 2018
+education: #please leave blank
+  # courses:
+  # - course:
+  #   institution:
+  #   year:
+  # - course:
+  #   institution:
+  #   year:
+  # - course:
+  #   institution:
+  #   year:
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -38,13 +41,21 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:'
+  link: 'mailto:(email address)'
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/EcoAlys
+  link: https://twitter.com/(twitterurl)
 - icon: github
   icon_pack: fab
-  link: https://github.com/AlysY
+  link: https://github.com/(githuburl)
+- icon: address-card
+  icon_pack: fas
+  link: (personal website URL)
+- icon: book
+  icon_pack: fas
+  link: (research gate / google scholar URL)
+    
+  
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -59,9 +70,12 @@ highlight_name: false
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-user_groups:
+user_groups: #(please choose one from below and remove the others that aren't needed)
+- Principal Investigators
+- Researchers
+- Administrators
 - Affiliates
 ---
 
 
-Alys is a PhD candidate at Deakin University modelling biodiversity on the Tiwi Islands. 
+Insert Bio Here (one paragraph, in 3rd person narrative style)

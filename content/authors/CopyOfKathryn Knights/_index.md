@@ -1,35 +1,37 @@
 ---
 # Display name
-title: Alys Young
+title: K Knights
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: PhD Candidate / Research Assistant
+role: PhD Candidate
 
 # Organizations/Affiliations
 organizations:
-- name: Deakin University
+- name: University of Melbourne
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio:  
+bio: K is interested in trade-offs in monitoring, and is looking into the interplay between effort, precision and resolution using tools such as double sampling and management strategy evaluation (MSE).
 
 interests:
-- Alys is a PhD candidate at Deakin University modelling biodiversity on the Tiwi Islands. 
+- Monitoring Trade-Offs
+- Management Strategy Evaluation
+- Distance Sampling
 
 education:
   courses:
-  - course: PhD on modelling the biodiversity of the Tiwi Islands
-    institution: Deakin University
-    year: 2020 - ongoing
-  - course: Master of Science (Biosciences)
+  - course: PhD
     institution: University of Melbourne
-    year: 2019 - 2020
-  - course: BSc
-    institution: University of Melbourne
-    year: 2015 - 2018
+    year: 2018 - ongoing
+  - course: 
+    institution: 
+    year: 
+  - course: 
+    institution: 
+    year: 
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -38,13 +40,13 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:'
+  link: 'mailto:k.a.knights@gmail.com'
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/EcoAlys
+  link: https://twitter.com/
 - icon: github
   icon_pack: fab
-  link: https://github.com/AlysY
+  link: https://github.com/
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -60,8 +62,8 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Affiliates
+- Researchers
 ---
 
 
-Alys is a PhD candidate at Deakin University modelling biodiversity on the Tiwi Islands. 
+K is interested in trade-offs in monitoring, and is looking into the interplay between effort, precision and resolution using tools such as double sampling and management strategy evaluation (MSE).
