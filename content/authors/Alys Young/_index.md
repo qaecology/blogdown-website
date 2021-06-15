@@ -17,9 +17,7 @@ organizations:
 bio:  
 
 interests:
-- Modelling Biodiversity
-- ShinyApps
-- R Coding
+- Alys is a PhD candidate at Deakin University modelling biodiversity on the Tiwi Islands. 
 
 education:
   courses:
@@ -29,7 +27,7 @@ education:
   - course: Master of Science (Biosciences)
     institution: University of Melbourne
     year: 2019 - 2020
-  - course: BSc 
+  - course: BSc
     institution: University of Melbourne
     year: 2015 - 2018
 
@@ -62,7 +60,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Researchers
+- Affiliates
 ---
 
 

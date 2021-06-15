@@ -1,37 +1,38 @@
 ---
 # Display name
-title: Kevin Newman
+title: (insert name here followed by pronouns in (they/them) format)
 
 # Is this the primary user of the site?
-superuser: true
+superuser: FALSE
 
 # Role/position
-role: PhD Candidate
+role: (Insert role here ie. PhD Candidate/Research Fellow/etc.)
 
 # Organizations/Affiliations
 organizations:
-- name: University of Melbourne
-  url: "https://kdnresearch.wordpress.com/"
+- name: (organisation name / affiliation)
+  url: "(url for organisation website)"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include imperfect detection, species surveillance and the optimisation of detection of species. 
+bio: (short 1 - 2 sentence bio)
 
 interests:
-- Imperfect Detection
-- Quantitative Ecology
-- Australian Native Species
+- (General topic areas of interest)
+- (General topic areas of interest)
+- (General topic areas of interest)
+- (General topic areas of interest)
 
-education:
-  courses:
-  - course: PhD in Imperfect Detection
-    institution: University of Melbourne
-    year: 2021 - ongoing
-  - course: BSc (Hons) in Biosciences
-    institution: University of Melbourne
-    year: 2019 - 2020
-  - course: BSc in Zoology and Statistics
-    institution: La Trobe University
-    year: 2016 - 2019
+education: #please leave blank
+  # courses:
+  # - course:
+  #   institution:
+  #   year:
+  # - course:
+  #   institution:
+  #   year:
+  # - course:
+  #   institution:
+  #   year:
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -40,13 +41,21 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:kdnewman87@gmail.com'
+  link: 'mailto:(email address)'
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/kdnewman87
+  link: https://twitter.com/(twitterurl)
 - icon: github
   icon_pack: fab
-  link: https://github.com/kdnewman87
+  link: https://github.com/(githuburl)
+- icon: address-card
+  icon_pack: fas
+  link: (personal website URL)
+- icon: book
+  icon_pack: fas
+  link: (research gate / google scholar URL)
+    
+  
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -61,11 +70,12 @@ highlight_name: false
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-user_groups:
+user_groups: #(please choose one from below and remove the others that aren't needed)
+- Principal Investigators
 - Researchers
+- Administrators
+- Affiliates
 ---
 
 
-Kevin Newman holds a Bachelor of Science majoring in Zoology and Statistics from La Trobe University and Honours in Biosciences at the University of Melbourne Quantitative and Applied Ecology lab (QAEco) with Professor Mick McCarthy on optimal surveillance for Leadbeater’s Possum. He is currently undertaking a PhD into Imperfect Detection and species surveillance with Professor Mick McCarthy and Dr Gurutzeta Guillera-Arroita.
-
-His career goal is to assist in the development of sustainable conservation strategies for Australia’s unique biodiversity through statistical analysis with meaningful and accessible results.
+Insert Bio Here (one paragraph, in 3rd person narrative style)

@@ -1,52 +1,54 @@
 ---
 # Display name
-title: K Knights
+title: Kathryn Knights (she/her)
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: PhD Candidate
+role: PhD Candidate, Research Assistant
 
 # Organizations/Affiliations
 organizations:
-- name: University of Melbourne
-  url: ""
+- name: The University of Melbourne
+  url: "https://www.unimelb.edu.au/"
+
 
 # Short bio (displayed in user profile at end of posts)
-bio: K is interested in trade-offs in monitoring, and is looking into the interplay between effort, precision and resolution using tools such as double sampling and management strategy evaluation (MSE).
+bio: 
+
 
 interests:
-- Monitoring Trade-Offs
-- Management Strategy Evaluation
-- Distance Sampling
+- Wildlife Monitoring
+- Survey Design
+- Mathematical Methods in Ecology
 
-education:
-  courses:
-  - course: PhD
-    institution: University of Melbourne
-    year: 2018 - ongoing
-  - course: 
-    institution: 
-    year: 
-  - course: 
-    institution: 
-    year: 
-
+# education:
+#   courses: 
+#   - course: PhD Quantitative Ecology
+#     institution: University of Melbourne
+#     year: 2018 - 
+#   - course: MSc Conservation Science
+#     institution: Imperial College London
+#     year: 2008
+#   - course: BA Hons Biological Anthropology
+#     institution: University of Cambridge
+#     year: 2005
+    
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-- icon: envelope
-  icon_pack: fas
-  link: 'mailto:k.a.knights@gmail.com'
+# - icon: envelope
+#   icon_pack: fas
+#   link: 'mailto:'
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/
+  link: https://twitter.com/Eco_KKnights
 - icon: github
   icon_pack: fab
-  link: https://github.com/
+  link: https://github.com/kaknights
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -65,5 +67,4 @@ user_groups:
 - Researchers
 ---
 
-
-K is interested in trade-offs in monitoring, and is looking into the interplay between effort, precision and resolution using tools such as double sampling and management strategy evaluation (MSE).
+K is a PhD student working on efficiency in wildlife monitoring methods. She is particularly interested in cost efficient survey design and distance sampling. Her work can be applied in a variety of monitoring contexts (plant or animal surveys in various habitats) but she is particularly keen on forests with big trees.
