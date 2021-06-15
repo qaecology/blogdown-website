@@ -10,15 +10,15 @@ active: true
 headless: true
 
 # Order that this section appears on the page.
-weight: 10
+weight: 30
 
-title:
+title: 
 subtitle:
 
 design:
   columns: "1"
   background:
-    image: img_1977.jpg
+    image: qaeco-group-photo-e1571108026748.jpg
     image_darken: 0
     image_parallax: false
     image_position: center
