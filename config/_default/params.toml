@@ -13,7 +13,9 @@
 #   Guide to color themes: https://wowchemy.com/docs/customization/#color-themes
 #   Browse the latest built-in font sets at https://github.com/wowchemy/wowchemy-hugo-modules/tree/master/wowchemy/themes/
 #   Browse user installed themes in `data/themes/`
+
 theme = "Forest"
+
 
 # Enable users to switch between day and night mode?
 day_night = false
@@ -22,6 +24,7 @@ day_night = false
 #   Guide to font sets: https://wowchemy.com/docs/customization/#fonts
 #   Browse the latest built-in font sets at https://github.com/wowchemy/wowchemy-hugo-modules/tree/master/wowchemy/data/fonts
 #   Browse user installed font sets in `data/fonts/`
+
 font = "minimal"
 
 # Choose a font size.

@@ -7,8 +7,8 @@
 [[main]]
   name = "People"
   url = "people"
-  weight = 30
-
+  weight = 20
+  
 [[main]]
   name = "About Our Work"
   url = "about-us"
