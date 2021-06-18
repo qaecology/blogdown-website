@@ -11,7 +11,7 @@
   
 [[main]]
   name = "About Our Work"
-  url = "about-us"
+  url = "landing"
   weight = 40
 
 [[main]]
