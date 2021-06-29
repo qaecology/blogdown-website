@@ -103,7 +103,7 @@ Figure from Hauser, C., et al., (2019).
 
 
 
-## Bayesian Statics and Modelling
+## Bayesian Statistics and Modelling
 Description here
 
 #### Key contacts:
