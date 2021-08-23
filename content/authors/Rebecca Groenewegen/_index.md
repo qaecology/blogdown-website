@@ -1,27 +1,28 @@
 ---
 # Display name
-title: Kevin Newman (he/him)
+title: Rebecca Groenewegen (she/her)
 
 # Is this the primary user of the site?
-superuser: true
+superuser: FALSE
 
 # Role/position
 role: PhD Candidate
 
 # Organizations/Affiliations
 organizations:
-- name: University of Melbourne
-  url: "http://unimelb.edu.au"
+- name: The University of Melbourne
+  url: "https://www.unimelb.edu.au/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include imperfect detection, species surveillance and the optimisation of detection of species. 
+bio: 
 
 interests:
-- Imperfect Detection
-- Quantitative Ecology
-- Australian Native Species
+- Integrated Population Models
+- Conservation Planning
+- Optimising Monitoring
+- JAGS/NIMBLE
 
-education:
+education: #please leave blank
   # courses:
   # - course:
   #   institution:
@@ -40,19 +41,19 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:kdnewman87@gmail.com'
+  link: 'mailto:groenewegen.rebecca@gmail.com'
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/kdnewman87
+  link: https://twitter.com/bEcologist
 - icon: github
   icon_pack: fab
-  link: https://github.com/kdnewman87
+  link: https://github.com/rgroenewegen
 - icon: address-card
   icon_pack: fas
-  link: https://kdnresearch.wordpress.com/
+  link: https://rebeccagroenewegenresearch.wordpress.com
 - icon: book
   icon_pack: fas
-  link: https://www.researchgate.net/profile/Kevin-Newman-3
+  link: https://scholar.google.com/citations?view_op=list_works&hl=en&authuser=2&user=RTTm6-cAAAAJ
     
   
 # Link to a PDF of your resume/CV from the About widget.
@@ -69,11 +70,9 @@ highlight_name: false
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-user_groups:
+user_groups: #(please choose one from below and remove the others that aren't needed)
 - Researchers
 ---
 
 
-Kevin Newman holds a Bachelor of Science majoring in Zoology and Statistics from La Trobe University and Honours in Biosciences at the University of Melbourne Quantitative and Applied Ecology lab (QAEco) with Professor Mick McCarthy on optimal surveillance for Leadbeater's Possum. He is currently undertaking a PhD into Imperfect Detection and species surveillance with Professor Michael McCarthy and Dr Gurutzeta Guillera-Arroita.
-
-His career goal is to assist in the development of sustainable conservation strategies for Australia'ss unique biodiversity through statistical analysis with meaningful and accessible results.
+Alongside partner organisations, Bec's work focuses on refining monitoring and modelling methods in conservation applications. For example, using Bayesian methods to estimate invasive predator densities in management scenarios, and to develop integrated population models to elicit crucial population parameters in threatened species translocations. Bec also works as a research assitant in the repliCATS project's Data Management and Analysis Team.

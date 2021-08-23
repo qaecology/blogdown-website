@@ -1,27 +1,27 @@
 ---
 # Display name
-title: Kevin Newman (he/him)
+title: Payal Bal (she/her)
 
 # Is this the primary user of the site?
-superuser: true
+superuser: FALSE
 
 # Role/position
-role: PhD Candidate
+role: Postdoctoral Research Fellow
 
 # Organizations/Affiliations
 organizations:
-- name: University of Melbourne
-  url: "http://unimelb.edu.au"
+- name: The University of Melbourne
+  url: "https://www.unimelb.edu.au/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include imperfect detection, species surveillance and the optimisation of detection of species. 
+bio: (short 1 - 2 sentence bio)
 
 interests:
-- Imperfect Detection
-- Quantitative Ecology
-- Australian Native Species
+- Ecological Modelling
+- Data Science
+- Conservation Decision-Making
 
-education:
+education: #please leave blank
   # courses:
   # - course:
   #   institution:
@@ -40,19 +40,16 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:kdnewman87@gmail.com'
+  link: 'mailto:payal.bal@unimelb.edu.au'
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/kdnewman87
+  link: https://twitter.com/payalbal
 - icon: github
   icon_pack: fab
-  link: https://github.com/kdnewman87
-- icon: address-card
-  icon_pack: fas
-  link: https://kdnresearch.wordpress.com/
+  link: https://github.com/payalbal
 - icon: book
   icon_pack: fas
-  link: https://www.researchgate.net/profile/Kevin-Newman-3
+  link: https://scholar.google.com.au/citations?hl=en&user=RNri_C0AAAAJ
     
   
 # Link to a PDF of your resume/CV from the About widget.
@@ -69,11 +66,9 @@ highlight_name: false
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-user_groups:
+user_groups: #(please choose one from below and remove the others that aren't needed)
 - Researchers
 ---
 
 
-Kevin Newman holds a Bachelor of Science majoring in Zoology and Statistics from La Trobe University and Honours in Biosciences at the University of Melbourne Quantitative and Applied Ecology lab (QAEco) with Professor Mick McCarthy on optimal surveillance for Leadbeater's Possum. He is currently undertaking a PhD into Imperfect Detection and species surveillance with Professor Michael McCarthy and Dr Gurutzeta Guillera-Arroita.
-
-His career goal is to assist in the development of sustainable conservation strategies for Australia'ss unique biodiversity through statistical analysis with meaningful and accessible results.
+Payal is developing an integrated modelling approach to assess the impacts of economic trade on land-use and biodiversity on a global scale. She has previously worked with principles of decision theory and optimal monitoring to help improve the use and selection of biodiversity indicators for conservation decision making.

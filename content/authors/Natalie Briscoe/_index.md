@@ -1,12 +1,12 @@
 ---
 # Display name
-title: Kevin Newman (he/him)
+title: Natalie Briscoe (she/her)
 
 # Is this the primary user of the site?
-superuser: true
+superuser: FALSE
 
 # Role/position
-role: PhD Candidate
+role: Research Fellow
 
 # Organizations/Affiliations
 organizations:
@@ -14,14 +14,14 @@ organizations:
   url: "http://unimelb.edu.au"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include imperfect detection, species surveillance and the optimisation of detection of species. 
+bio: (short 1 - 2 sentence bio)
 
 interests:
-- Imperfect Detection
-- Quantitative Ecology
-- Australian Native Species
+- Species Distribution Modelling
+- Ecophysiology
+- Threatened Species Conservation
 
-education:
+education: #please leave blank
   # courses:
   # - course:
   #   institution:
@@ -40,19 +40,13 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:kdnewman87@gmail.com'
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/kdnewman87
-- icon: github
-  icon_pack: fab
-  link: https://github.com/kdnewman87
+  link: 'mailto:nbriscoe@unimelb.edu.au'
 - icon: address-card
   icon_pack: fas
-  link: https://kdnresearch.wordpress.com/
+  link: https://wordpress.com/pages/njbriscoeresearch.wordpress.com
 - icon: book
   icon_pack: fas
-  link: https://www.researchgate.net/profile/Kevin-Newman-3
+  link: https://scholar.google.com.au/citations?hl=en&user=E-GA72EAAAAJ&view_op=list_works&sortby=pubdate
     
   
 # Link to a PDF of your resume/CV from the About widget.
@@ -69,11 +63,8 @@ highlight_name: false
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-user_groups:
+user_groups: #(please choose one from below and remove the others that aren't needed)
 - Researchers
 ---
 
-
-Kevin Newman holds a Bachelor of Science majoring in Zoology and Statistics from La Trobe University and Honours in Biosciences at the University of Melbourne Quantitative and Applied Ecology lab (QAEco) with Professor Mick McCarthy on optimal surveillance for Leadbeater's Possum. He is currently undertaking a PhD into Imperfect Detection and species surveillance with Professor Michael McCarthy and Dr Gurutzeta Guillera-Arroita.
-
-His career goal is to assist in the development of sustainable conservation strategies for Australia'ss unique biodiversity through statistical analysis with meaningful and accessible results.
+Natalie's research aims to understand the factors that constrain species distributions and test and improve methods for forecasting species responses to environmental change. She has particular expertise in eco-physiological or mechanistic niche modelling, and is fond of marsupials that live in trees.   

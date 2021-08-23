@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Kevin Newman (he/him)
+title: David E. Uribe-Rivera (he/him)
 
 # Is this the primary user of the site?
 superuser: true
@@ -14,12 +14,13 @@ organizations:
   url: "http://unimelb.edu.au"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include imperfect detection, species surveillance and the optimisation of detection of species. 
+bio: 
 
 interests:
-- Imperfect Detection
-- Quantitative Ecology
-- Australian Native Species
+- Ecoogical Forecasting
+- Global Change Ecology
+- Process-explicit Models
+- Conservation Planning
 
 education:
   # courses:
@@ -40,19 +41,19 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:kdnewman87@gmail.com'
+  link: 'mailto:de.uribe.r@gmail.com'
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/kdnewman87
+  link: https://twitter.com/David_Uribe_R
 - icon: github
   icon_pack: fab
-  link: https://github.com/kdnewman87
+  link: https://github.com/duriber
 - icon: address-card
   icon_pack: fas
-  link: https://kdnresearch.wordpress.com/
+  link: https://www.researchgate.net/profile/David-Uribe-R
 - icon: book
   icon_pack: fas
-  link: https://www.researchgate.net/profile/Kevin-Newman-3
+  link: https://scholar.google.com/citations?user=6YLRGp4AAAAJ
     
   
 # Link to a PDF of your resume/CV from the About widget.
@@ -74,6 +75,6 @@ user_groups:
 ---
 
 
-Kevin Newman holds a Bachelor of Science majoring in Zoology and Statistics from La Trobe University and Honours in Biosciences at the University of Melbourne Quantitative and Applied Ecology lab (QAEco) with Professor Mick McCarthy on optimal surveillance for Leadbeater's Possum. He is currently undertaking a PhD into Imperfect Detection and species surveillance with Professor Michael McCarthy and Dr Gurutzeta Guillera-Arroita.
+David is a quantitative and spatial ecologist specialising in global change ecology. He is interested in the processes that drive species range changes under human-induced global change. Currently investigating how to generate more reliable predictions of biodiversity redistribution under future global change scenarios to better inform conservation decision making. 
 
-His career goal is to assist in the development of sustainable conservation strategies for Australia'ss unique biodiversity through statistical analysis with meaningful and accessible results.
+Other research interests include disequilibrium in range dynamics under recent climatic change, emerging infectious diseases, monitoring global change effects on biodiversity, and spatial dynamics of biological invasions.

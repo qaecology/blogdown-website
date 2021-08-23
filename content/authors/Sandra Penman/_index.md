@@ -1,9 +1,9 @@
 ---
 # Display name
-title: Kevin Newman (he/him)
+title: Sandra Penman (she/her)
 
 # Is this the primary user of the site?
-superuser: true
+superuser: FALSE
 
 # Role/position
 role: PhD Candidate
@@ -14,14 +14,16 @@ organizations:
   url: "http://unimelb.edu.au"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include imperfect detection, species surveillance and the optimisation of detection of species. 
+bio: (short 1 - 2 sentence bio)
 
 interests:
-- Imperfect Detection
-- Quantitative Ecology
-- Australian Native Species
+- Fire Ecology
+- Community Ecology
+- Bats
+- Terrestrial LiDAR
 
-education:
+
+education: #please leave blank
   # courses:
   # - course:
   #   institution:
@@ -40,19 +42,13 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:kdnewman87@gmail.com'
+  link: 'mailto:sandra.penman@unimelb.edu.au'
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/kdnewman87
-- icon: github
-  icon_pack: fab
-  link: https://github.com/kdnewman87
-- icon: address-card
-  icon_pack: fas
-  link: https://kdnresearch.wordpress.com/
+  link: https://twitter.com/shpenman
 - icon: book
   icon_pack: fas
-  link: https://www.researchgate.net/profile/Kevin-Newman-3
+  link: https://scholar.google.com.au/citations?user=R-xFm5EAAAAJ&hl=en
     
   
 # Link to a PDF of your resume/CV from the About widget.
@@ -69,11 +65,8 @@ highlight_name: false
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-user_groups:
-- Researchers
+user_groups: #(please choose one from below and remove the others that aren't needed)
+- Affiliates
 ---
 
-
-Kevin Newman holds a Bachelor of Science majoring in Zoology and Statistics from La Trobe University and Honours in Biosciences at the University of Melbourne Quantitative and Applied Ecology lab (QAEco) with Professor Mick McCarthy on optimal surveillance for Leadbeater's Possum. He is currently undertaking a PhD into Imperfect Detection and species surveillance with Professor Michael McCarthy and Dr Gurutzeta Guillera-Arroita.
-
-His career goal is to assist in the development of sustainable conservation strategies for Australia'ss unique biodiversity through statistical analysis with meaningful and accessible results.
+Sandra is completing a PhD on how bat communities are affected by fire. Her work focusses on the indirect impacts of fire, specifically changes in vegetation structure and prey availability. Sandra's work is based in forests of SE Australia where she likes to look at trees and contemplate future fire regimes.

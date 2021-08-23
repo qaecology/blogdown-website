@@ -1,9 +1,9 @@
 ---
 # Display name
-title: Kevin Newman (he/him)
+title: Vishnu Ramachandran Menon (he/him)
 
 # Is this the primary user of the site?
-superuser: true
+superuser: false
 
 # Role/position
 role: PhD Candidate
@@ -14,12 +14,12 @@ organizations:
   url: "http://unimelb.edu.au"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include imperfect detection, species surveillance and the optimisation of detection of species. 
+bio: 
 
 interests:
-- Imperfect Detection
-- Quantitative Ecology
-- Australian Native Species
+- Field Ecology
+- Predator-Human Conflicts
+- Occupancy Modelling
 
 education:
   # courses:
@@ -40,20 +40,14 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:kdnewman87@gmail.com'
+  link: 'mailto:vishnu@student.unimelb.edu.au'
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/kdnewman87
-- icon: github
-  icon_pack: fab
-  link: https://github.com/kdnewman87
+  link: https://twitter.com/vishnumenon94
 - icon: address-card
   icon_pack: fas
-  link: https://kdnresearch.wordpress.com/
-- icon: book
-  icon_pack: fas
-  link: https://www.researchgate.net/profile/Kevin-Newman-3
-    
+  link: https://wildliferambler.home.blog/
+
   
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -73,7 +67,6 @@ user_groups:
 - Researchers
 ---
 
+Vishnu's PhD looks at threatened native mammal responses to fire across fox-controlled landscapes in south-west Victoria. Working closely with DELWP and Parks Victoria, his PhD will help inform integrated fire management and fox control approaches and so design efficient strategies for conserving native mammals. 
 
-Kevin Newman holds a Bachelor of Science majoring in Zoology and Statistics from La Trobe University and Honours in Biosciences at the University of Melbourne Quantitative and Applied Ecology lab (QAEco) with Professor Mick McCarthy on optimal surveillance for Leadbeater's Possum. He is currently undertaking a PhD into Imperfect Detection and species surveillance with Professor Michael McCarthy and Dr Gurutzeta Guillera-Arroita.
-
-His career goal is to assist in the development of sustainable conservation strategies for Australia'ss unique biodiversity through statistical analysis with meaningful and accessible results.
+Having done his undergrad in Electronics Engineering in India, his interest in wildlife management stemmed through his Masters on Sustainable Resource Management in TU Munich, Germany. Vishnu has previously worked on leopard-stray dog interactions in Mumbai, tracking Eurasian wolves in Poland and various other projects in Europe and India. 

@@ -1,25 +1,28 @@
 ---
 # Display name
-title: Kevin Newman (he/him)
+title: Katharine Senior (she/her)
 
 # Is this the primary user of the site?
-superuser: true
+superuser: false
 
 # Role/position
-role: PhD Candidate
+role: Research Fellow
 
 # Organizations/Affiliations
 organizations:
 - name: University of Melbourne
   url: "http://unimelb.edu.au"
+- name: Museums Victoria
+  url: "https://museumsvictoria.com.au/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include imperfect detection, species surveillance and the optimisation of detection of species. 
+bio: 
 
 interests:
-- Imperfect Detection
-- Quantitative Ecology
-- Australian Native Species
+- Fire Ecology
+- Mammology
+- Spatial Ecology and Modelling
+- Field Ecology
 
 education:
   # courses:
@@ -40,20 +43,14 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:kdnewman87@gmail.com'
+  link: 'mailto:senior.k@unimelb.edu.au'
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/kdnewman87
-- icon: github
-  icon_pack: fab
-  link: https://github.com/kdnewman87
-- icon: address-card
-  icon_pack: fas
-  link: https://kdnresearch.wordpress.com/
+  link: https://twitter.com/KateLSenior
 - icon: book
   icon_pack: fas
-  link: https://www.researchgate.net/profile/Kevin-Newman-3
-    
+  link: https://www.researchgate.net/profile/Katharine-Senior
+
   
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -70,10 +67,9 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Researchers
+- Affiliates
 ---
 
+Kate is a research fellow in the Biodiversity Dynamics Research Group. Her current research focuses on the effects of fire on plant resilience in fire-prone ecosystems in Victoria, as part of a state-wide ecosystem resilience monitoring program implemented by the state government. 
 
-Kevin Newman holds a Bachelor of Science majoring in Zoology and Statistics from La Trobe University and Honours in Biosciences at the University of Melbourne Quantitative and Applied Ecology lab (QAEco) with Professor Mick McCarthy on optimal surveillance for Leadbeater's Possum. He is currently undertaking a PhD into Imperfect Detection and species surveillance with Professor Michael McCarthy and Dr Gurutzeta Guillera-Arroita.
-
-His career goal is to assist in the development of sustainable conservation strategies for Australia'ss unique biodiversity through statistical analysis with meaningful and accessible results.
+She completed her PhD with QAECO from 2017-2020, exploring drivers of mammal and reptile abundance in fire-prone, 'mallee' woodlands of south-eastern Australia. She is a keen field ecologist and has a particular love for small mammals. Kate aims to conduct applied research that can inform environmental management and works closely with land managers to achieve this.

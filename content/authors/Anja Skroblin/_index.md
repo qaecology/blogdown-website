@@ -1,12 +1,12 @@
 ---
 # Display name
-title: Kevin Newman (he/him)
+title: Anja Katharina Skroblin (she/her)
 
 # Is this the primary user of the site?
-superuser: true
+superuser: false
 
 # Role/position
-role: PhD Candidate
+role: Research Fellow
 
 # Organizations/Affiliations
 organizations:
@@ -14,12 +14,14 @@ organizations:
   url: "http://unimelb.edu.au"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include imperfect detection, species surveillance and the optimisation of detection of species. 
+bio: 
 
 interests:
-- Imperfect Detection
-- Quantitative Ecology
-- Australian Native Species
+- Threatened Species Conservation
+- Designing Monitoring
+- Combining Knowledges
+- Evidence Based Land Management
+
 
 education:
   # courses:
@@ -40,20 +42,8 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:kdnewman87@gmail.com'
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/kdnewman87
-- icon: github
-  icon_pack: fab
-  link: https://github.com/kdnewman87
-- icon: address-card
-  icon_pack: fas
-  link: https://kdnresearch.wordpress.com/
-- icon: book
-  icon_pack: fas
-  link: https://www.researchgate.net/profile/Kevin-Newman-3
-    
+  link: 'mailto:anja.skroblin@gmail.com'
+
   
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -73,7 +63,4 @@ user_groups:
 - Researchers
 ---
 
-
-Kevin Newman holds a Bachelor of Science majoring in Zoology and Statistics from La Trobe University and Honours in Biosciences at the University of Melbourne Quantitative and Applied Ecology lab (QAEco) with Professor Mick McCarthy on optimal surveillance for Leadbeater's Possum. He is currently undertaking a PhD into Imperfect Detection and species surveillance with Professor Michael McCarthy and Dr Gurutzeta Guillera-Arroita.
-
-His career goal is to assist in the development of sustainable conservation strategies for Australia'ss unique biodiversity through statistical analysis with meaningful and accessible results.
+Anja Skroblin is an applied wildlife biologist who has worked extensively to bridge academic and on-ground conservation practice. Her background includes working for and with NGOs, university, Indigenous groups and government, and her research focus spans designing monitoring for threatened species, understanding how partnerships improve conservation outcomes, and combining knowledges for environmental outcomes. Anja is committed to working with Traditional Owners and communities to support caring for Country. 

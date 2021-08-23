@@ -1,12 +1,12 @@
 ---
 # Display name
-title: Kevin Newman (he/him)
+title: David Duncan (he/him)
 
 # Is this the primary user of the site?
-superuser: true
+superuser: FALSE
 
 # Role/position
-role: PhD Candidate
+role: Research Fellow
 
 # Organizations/Affiliations
 organizations:
@@ -14,14 +14,15 @@ organizations:
   url: "http://unimelb.edu.au"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include imperfect detection, species surveillance and the optimisation of detection of species. 
+bio: (short 1 - 2 sentence bio)
 
 interests:
-- Imperfect Detection
-- Quantitative Ecology
-- Australian Native Species
+- Ecology of Plants
+- Ecological Restoration
+- Design of Monitoring and Evaluation in Conservation
+- Open Science
 
-education:
+education: #please leave blank
   # courses:
   # - course:
   #   institution:
@@ -40,21 +41,15 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:kdnewman87@gmail.com'
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/kdnewman87
+  link: 'mailto:david.duncan@unimelb.edu.au'
 - icon: github
   icon_pack: fab
-  link: https://github.com/kdnewman87
-- icon: address-card
-  icon_pack: fas
-  link: https://kdnresearch.wordpress.com/
+  link: https://github.com/dhduncan
 - icon: book
   icon_pack: fas
-  link: https://www.researchgate.net/profile/Kevin-Newman-3
+  link: https://orcid.org/0000-0003-4411-8214
     
-  
+
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -65,15 +60,13 @@ social:
 email: ""
 
 # Highlight the author in author lists? (true/false)
-highlight_name: false
+highlight_name: true
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-user_groups:
+user_groups: #(please choose one from below and remove the others that aren't needed)
 - Researchers
+
 ---
 
-
-Kevin Newman holds a Bachelor of Science majoring in Zoology and Statistics from La Trobe University and Honours in Biosciences at the University of Melbourne Quantitative and Applied Ecology lab (QAEco) with Professor Mick McCarthy on optimal surveillance for Leadbeater's Possum. He is currently undertaking a PhD into Imperfect Detection and species surveillance with Professor Michael McCarthy and Dr Gurutzeta Guillera-Arroita.
-
-His career goal is to assist in the development of sustainable conservation strategies for Australia'ss unique biodiversity through statistical analysis with meaningful and accessible results.
+David rejoined QAEco as a Research Fellow in 2017. He is a plant ecologist and survival skills in ecological modelling. David has considerable experience in the design of monitoring and evaluation of conservation investment by government agencies, and has worked on themes of ecosystem assessment and conservation across semi-arid, temperate and tropical ecosystems in Australia, Ecuador and Spain.

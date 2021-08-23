@@ -1,27 +1,28 @@
 ---
 # Display name
-title: Kevin Newman (he/him)
+title: Saras Windecker (she/her)
 
 # Is this the primary user of the site?
-superuser: true
+superuser: FALSE
 
 # Role/position
-role: PhD Candidate
+role: Research Fellow
 
 # Organizations/Affiliations
 organizations:
 - name: University of Melbourne
-  url: "http://unimelb.edu.au"
+  url: "http://www.unimelb.edu.au/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include imperfect detection, species surveillance and the optimisation of detection of species. 
+bio: Saras is a Research Fellow working on trait-based distribution models of Eucalypt species, and is interested in ecological forecasting, reproducible science, and research software.
 
 interests:
-- Imperfect Detection
-- Quantitative Ecology
-- Australian Native Species
+- Species Distriubtion Modelling
+- Functional Traits
+- Forecasting
+- Reproducible Research
 
-education:
+education: #please leave blank
   # courses:
   # - course:
   #   institution:
@@ -38,21 +39,15 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-- icon: envelope
-  icon_pack: fas
-  link: 'mailto:kdnewman87@gmail.com'
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/kdnewman87
+  link: https://twitter.com/smwindecker
 - icon: github
   icon_pack: fab
-  link: https://github.com/kdnewman87
+  link: https://github.com/smwindecker
 - icon: address-card
   icon_pack: fas
-  link: https://kdnresearch.wordpress.com/
-- icon: book
-  icon_pack: fas
-  link: https://www.researchgate.net/profile/Kevin-Newman-3
+  link: http://smwindecker.com
     
   
 # Link to a PDF of your resume/CV from the About widget.
@@ -69,11 +64,9 @@ highlight_name: false
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-user_groups:
+user_groups: #(please choose one from below and remove the others that aren't needed)
 - Researchers
 ---
 
 
-Kevin Newman holds a Bachelor of Science majoring in Zoology and Statistics from La Trobe University and Honours in Biosciences at the University of Melbourne Quantitative and Applied Ecology lab (QAEco) with Professor Mick McCarthy on optimal surveillance for Leadbeater's Possum. He is currently undertaking a PhD into Imperfect Detection and species surveillance with Professor Michael McCarthy and Dr Gurutzeta Guillera-Arroita.
-
-His career goal is to assist in the development of sustainable conservation strategies for Australia'ss unique biodiversity through statistical analysis with meaningful and accessible results.
+Saras is a Research Fellow working on trait-based distribution models of Eucalypt species, and is interested in ecological forecasting, reproducible science, and research software. She is an Associate Editor of applications at Methods in Ecology and Evolution and a committee member for the Ecological Society of Australia's Quantitative Ecology Research Chapter. 
