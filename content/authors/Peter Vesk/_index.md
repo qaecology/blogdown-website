@@ -1,26 +1,27 @@
 ---
 # Display name
-title: Rebecca Groenewegen (she/her)
+title: Peter Vesk (he/him)
 
 # Is this the primary user of the site?
 superuser: FALSE
 
 # Role/position
-role: PhD Candidate
+role: Professor 
 
 # Organizations/Affiliations
 organizations:
-- name: The University of Melbourne
-  url: "https://www.unimelb.edu.au/"
+- name: University of Melbourne
+  url: "http://unimelb.edu.au"
 
 # Short bio (displayed in user profile at end of posts)
-bio: 
+bio:  Peter is a quantitative ecologist bridging the gaps between field ecology of plants, functional traits, modelling and conservation decisions. 
 
 interests:
-- Integrated Population Models
-- Conservation Planning
-- Optimising Monitoring
-- JAGS/NIMBLE
+- Plants and Vegetation
+- Functional Traits
+- Ecological Modelling, mainly statistical
+- Eucalypt Tree Ecology
+- Vegetation Management and Conservation
 
 education: #please leave blank
   # courses:
@@ -41,19 +42,16 @@ education: #please leave blank
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:groenewegen.rebecca@gmail.com'
+  link: 'mailto:pvesk@unimelb.edu.au'
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/bEcologist
-- icon: github
-  icon_pack: fab
-  link: https://github.com/rgroenewegen
+  link: https://twitter.com/pveski
 - icon: address-card
   icon_pack: fas
-  link: https://rebeccagroenewegenresearch.wordpress.com
+  link: https://petervesk.wordpress.com
 - icon: book
   icon_pack: fas
-  link: https://scholar.google.com/citations?view_op=list_works&hl=en&authuser=2&user=RTTm6-cAAAAJ
+  link: https://www.researchgate.net/profile/Peter-Vesk
     
   
 # Link to a PDF of your resume/CV from the About widget.
@@ -71,8 +69,10 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups: #(please choose one from below and remove the others that aren't needed)
-- Researchers
+- Principal Investigators
 ---
 
 
-Alongside partner organisations, Bec's work focuses on refining monitoring and modelling methods in conservation applications. For example, using Bayesian methods to estimate invasive predator densities in management scenarios, and to develop integrated population models to elicit crucial population parameters in threatened species translocations. Bec also works as a research assitant in the repliCATS project's Data Management and Analysis Team.
+Peter is a quantitative ecologist who integrates fundamental and applied research, working mainly with plants. A clear challenge in plant ecology is how to generalise understanding, how to move beyond treating every study and every species as a special case.
+
+Research in Peter's group mainly falls in two fields: (a) the analysis of plant functional traits and types and their generality; (b) predicting, planning and measuring the outcomes of vegetation conservation, management and landscape restoration. Most of the work includes developing and applying conceptual and quantitative ecological models appropriate to the problem at hand.

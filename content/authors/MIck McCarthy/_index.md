@@ -1,12 +1,12 @@
 ---
 # Display name
-title: Rebecca Groenewegen (she/her)
+title: Michael McCarthy (he/him)
 
 # Is this the primary user of the site?
 superuser: FALSE
 
 # Role/position
-role: PhD Candidate
+role: Principal Researcher
 
 # Organizations/Affiliations
 organizations:
@@ -14,25 +14,28 @@ organizations:
   url: "https://www.unimelb.edu.au/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: 
+bio:  Casey models the effects of the built environment on nature and then mitigate using collaborative design solutions.
 
 interests:
-- Integrated Population Models
-- Conservation Planning
-- Optimising Monitoring
-- JAGS/NIMBLE
+- Statistical Ecology
+- Imperfect Detection
+- Population Ecology
+- Ecological Modelling
 
 education: #please leave blank
   # courses:
   # - course:
-  #   institution:
-  #   year:
+  #   institution: 
+  #   year: 
   # - course:
-  #   institution:
-  #   year:
+  #   institution: 
+  #   year: 
   # - course:
-  #   institution:
-  #   year:
+  #   institution: 
+  #   year: 
+  # - course: 
+  #   institution: 
+  #   year: 
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -41,19 +44,19 @@ education: #please leave blank
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:groenewegen.rebecca@gmail.com'
+  link: 'mailto:mamcca@unimelb.edu.au'
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/bEcologist
-- icon: github
-  icon_pack: fab
-  link: https://github.com/rgroenewegen
+  link: https://twitter.com/mickresearch
+# - icon: github
+#   icon_pack: fab
+#   link: https://github.com/cvisintin
 - icon: address-card
   icon_pack: fas
-  link: https://rebeccagroenewegenresearch.wordpress.com
+  link: https://mickresearch.wordpress.com/
 - icon: book
   icon_pack: fas
-  link: https://scholar.google.com/citations?view_op=list_works&hl=en&authuser=2&user=RTTm6-cAAAAJ
+  link: https://scholar.google.com.au/citations?user=vQ5iqnUAAAAJ
     
   
 # Link to a PDF of your resume/CV from the About widget.
@@ -71,8 +74,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups: #(please choose one from below and remove the others that aren't needed)
-- Researchers
+- Principal Investigators
 ---
 
-
-Alongside partner organisations, Bec's work focuses on refining monitoring and modelling methods in conservation applications. For example, using Bayesian methods to estimate invasive predator densities in management scenarios, and to develop integrated population models to elicit crucial population parameters in threatened species translocations. Bec also works as a research assitant in the repliCATS project's Data Management and Analysis Team.
+Mick builds and evaluates models that can assist improved environmental managers. He has worked across a range of ecosystems (aquatic to terrestrial) and species (plants, fungi, invertebrates, vertebrates). He likes combining mathematics with ecology, and has interests in statistical ecology. He is also currently the Deputy Dean of the Faculty of Science.
