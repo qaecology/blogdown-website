@@ -1,42 +1,40 @@
 ---
 # Display name
-title: Michael McCarthy (he/him)
+title: Naomi Indigo (she/her)
 
 # Is this the primary user of the site?
 superuser: FALSE
 
 # Role/position
-role: Principal Researcher
+role: Science Communications Officer (TSR Hub), Post Doctoral Research Assistant
 
 # Organizations/Affiliations
 organizations:
-- name: The University of Melbourne
-  url: "https://www.unimelb.edu.au/"
+- name: University of Queensland
+  url: "https://www.uq.edu.au/"
+- name: Society of Conservation Biology - Greater Melbourne Chapter  
+  url: "https://scbgreatermelbourne.wordpress.com/"
 
 # Short bio (displayed in user profile at end of posts)
-=======
-bio:
+bio: 
 
 interests:
-- Statistical Ecology
-- Imperfect Detection
-- Population Ecology
-- Ecological Modelling
+- Australian Wildlife Ecology
+- Conservation Biology
+- Two-way-science
+- Population Monitoring for Threat Mitigation and Management
 
 education: #please leave blank
   # courses:
   # - course:
-  #   institution: 
-  #   year: 
+  #   institution:
+  #   year:
   # - course:
-  #   institution: 
-  #   year: 
+  #   institution:
+  #   year:
   # - course:
-  #   institution: 
-  #   year: 
-  # - course: 
-  #   institution: 
-  #   year: 
+  #   institution:
+  #   year:
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -45,19 +43,13 @@ education: #please leave blank
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:mamcca@unimelb.edu.au'
+  link: 'mailto:naomi.l.indigo@gmail.com'
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/mickresearch
-# - icon: github
-#   icon_pack: fab
-#   link: https://github.com/cvisintin
-- icon: address-card
-  icon_pack: fas
-  link: https://mickresearch.wordpress.com/
+  link: https://twitter.com/NaomiIndigo
 - icon: book
   icon_pack: fas
-  link: https://scholar.google.com.au/citations?user=vQ5iqnUAAAAJ
+  link: https://scholar.google.com.au/citations?view_op=list_works&hl=en&hl=en&user=y7mv7jUAAAAJ
     
   
 # Link to a PDF of your resume/CV from the About widget.
@@ -75,7 +67,8 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups: #(please choose one from below and remove the others that aren't needed)
-- Principal Investigators
+- Affiliates
 ---
 
-Mick builds and evaluates models that can assist improved environmental managers. He has worked across a range of ecosystems (aquatic to terrestrial) and species (plants, fungi, invertebrates, vertebrates). He likes combining mathematics with ecology, and has interests in statistical ecology. He is also currently the Deputy Dean of the Faculty of Science.
+Naomi is a PhD graduate in Ecology and is currently employed as a Science Communications Officer/ Post-Doctoral Research Assistant for the Threatened Species Recovery Hub. She is also the president of the Greater Melbourne SCB Chapter.
+Naomi is particularly passionate about conservation, ecological research, animal welfare and two-way-science. She endeavours to work with groups collaboratively, building capacity to address the social, economic, and environmental registers of biodiversity conservation. 

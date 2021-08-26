@@ -1,42 +1,37 @@
 ---
 # Display name
-title: Michael McCarthy (he/him)
+title: Ezra Janetzki (he/him)
 
 # Is this the primary user of the site?
 superuser: FALSE
 
 # Role/position
-role: Principal Researcher
+role: Masters Student
 
 # Organizations/Affiliations
 organizations:
-- name: The University of Melbourne
-  url: "https://www.unimelb.edu.au/"
+- name: University of Melbourne
+  url: "http://unimelb.edu.au"
 
 # Short bio (displayed in user profile at end of posts)
-=======
-bio:
+bio: (short 1 - 2 sentence bio)
 
 interests:
-- Statistical Ecology
-- Imperfect Detection
-- Population Ecology
-- Ecological Modelling
+- Plant Functional Traits
+- Bushfire Recovery
+
 
 education: #please leave blank
   # courses:
   # - course:
-  #   institution: 
-  #   year: 
+  #   institution:
+  #   year:
   # - course:
-  #   institution: 
-  #   year: 
+  #   institution:
+  #   year:
   # - course:
-  #   institution: 
-  #   year: 
-  # - course: 
-  #   institution: 
-  #   year: 
+  #   institution:
+  #   year:
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -45,19 +40,8 @@ education: #please leave blank
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:mamcca@unimelb.edu.au'
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/mickresearch
-# - icon: github
-#   icon_pack: fab
-#   link: https://github.com/cvisintin
-- icon: address-card
-  icon_pack: fas
-  link: https://mickresearch.wordpress.com/
-- icon: book
-  icon_pack: fas
-  link: https://scholar.google.com.au/citations?user=vQ5iqnUAAAAJ
+  link: 'mailto:ejanetzki@student.unimelb.edu.au'
+
     
   
 # Link to a PDF of your resume/CV from the About widget.
@@ -75,7 +59,9 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups: #(please choose one from below and remove the others that aren't needed)
-- Principal Investigators
+
+- Researchers
+
 ---
 
-Mick builds and evaluates models that can assist improved environmental managers. He has worked across a range of ecosystems (aquatic to terrestrial) and species (plants, fungi, invertebrates, vertebrates). He likes combining mathematics with ecology, and has interests in statistical ecology. He is also currently the Deputy Dean of the Faculty of Science.
+Ezra Janetzki has completed a Bachelor of Science with a major in Plant Science at the University of Melbourne. Currently, he is undertaking a Master of Science within the University's Quantitative and Applied Ecology lab (QAEco). For his research project, he is working under the supervision of Professor Peter Vesk and Matt White from the Arthur Rylah Institute for Environmental Research, as well as other researchers from within and outside QAEco. His project aims to use eucalypt species functional traits to predict fire-induced mortality and resprout vigour of trees in East Gippsland following the 2020 Black Summer fires.
