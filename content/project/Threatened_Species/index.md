@@ -2,9 +2,9 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "Threatened Species and Communities"
-summary: "Globally, biodiversity is declining. Australia has a high rate of mammal extinctions with many more speices at risk of extinction. At QAEco many researchers are involved in threatened species and community studies to combate this issue, particularly in association with the National Environmental Science Programme (NESP) Threatened Species Hub (2014-2021)."
-tags: ["Threatened Species"]
-categories: [""]
+summary: "Globally, biodiversity is declining. Australia has the highest rate of mammal extinctions with many more species at risk of extinction. At QAEco we are passionate about conservation. We apply the principles of our other research themes to threatened species."
+tags: ["tag1"]
+categories: ["cat1"]
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -37,15 +37,17 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 #   slides: ""
 ---
+Globally, biodiversity is declining. Australia has the highest rate of mammal extinctions with many more species at risk of extinction. At QAEco we are passionate about conservation. We apply the principles of our other research themes to threatened species. 
 
-Globally, biodiversity is declining. Australia has a high rate of mammal extinctions with many more speices at risk of extinction. At QAEco many researchers are involved in threatened species and community studies to combate this issue, particularly in association with the National Environmental Science Programme (NESP) Threatened Species Hub (2014-2021).
+#### Researchers: 
+Brendan Wintle, David Duncan, Peter Vesk, Mick McCarthy, Anja Skroblin, Linda Riquelme, Megan Good, Kylie Soanes, Mathew Rees, David Wilkinson, Rebecca Groenewegen, Adam Smart, Matt Rees, Naomi Indigo  
 
-#### Key contacts:
-Brendan, Mick, David Duncan, Pete, Anja,
+#### Affiliate researchers:
+Ami Bennett, Pia Lentini  
 
 #### Publications:
-[Bennett, A., Duncan, D.H., Rumpff, L. and Vesk, P.A., 2020.](https://esajournals.onlinelibrary.wiley.com/doi/full/10.1002/ecs2.2998) Disentangling chronic regeneration failure in endangered woodland ecosystems. Ecosphere, 11(1), p.e02998.
+[Bennett, A., Duncan, D.H., Rumpff, L. and Vesk, P.A., 2020.](https://esajournals.onlinelibrary.wiley.com/doi/full/10.1002/ecs2.2998) Disentangling chronic regeneration failure in endangered woodland ecosystems. Ecosphere, 11(1), p.e02998.  
 
-[Mott, R., Selwood, K.E. and Wintle, B.A., 2020.](https://www.nespthreatenedspecies.edu.au/media/1qcbawcm/4-4-7-mdb-bird-model-report_v5.pdf) Threatened bird conservation in Murray-Darling Basin wetland and floodplain habitat: Final report. TSR Hub. 
+[Mott, R., Selwood, K.E. and Wintle, B.A., 2020.](https://www.nespthreatenedspecies.edu.au/media/1qcbawcm/4-4-7-mdb-bird-model-report_v5.pdf) Threatened bird conservation in Murray-Darling Basin wetland and floodplain habitat: Final report. TSR Hub.  
 
-[Soanes, K. and Lentini, P.E., 2019.](https://esajournals.onlinelibrary.wiley.com/doi/full/10.1002/fee.2032?casa_token=z8BxtkDyGK8AAAAA%3ARhpELwlyYu31pggK9gGK_eAQvJe9QNoCqJmTDj9d8sfySqPRS0UshDJWOXvab_hrIXw84BQDXEWVAg) When cities are the last chance for saving species. Frontiers in Ecology and the Environment, 17(4), pp.225-231.
+[Soanes, K. and Lentini, P.E., 2019.](https://esajournals.onlinelibrary.wiley.com/doi/full/10.1002/fee.2032?casa_token=z8BxtkDyGK8AAAAA%3ARhpELwlyYu31pggK9gGK_eAQvJe9QNoCqJmTDj9d8sfySqPRS0UshDJWOXvab_hrIXw84BQDXEWVAg) When cities are the last chance for saving species. Frontiers in Ecology and the Environment, 17(4), pp.225-231.  

@@ -14,7 +14,7 @@ organizations:
   url: "https://www.unimelb.edu.au/"
 
 # Short bio (displayed in user profile at end of posts)
-bio:  Casey models the effects of the built environment on nature and then mitigate using collaborative design solutions.
+bio:  
 
 interests:
 - Statistical Ecology

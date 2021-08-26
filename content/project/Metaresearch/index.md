@@ -1,8 +1,8 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Reproducibility and Open-access Science and Data"
-summary: "Role of reproducibility in good science"
+title: "Metaresearch and reproduciblity"
+summary: "Related to the Interdisciplinary Meta-Research Group (IMeRG), we study the science of how science is done. This is called metaresearch or metascience, and is important in understanding credibility, replicability and reproducibility of scientific claims."
 tags: []
 categories: []
 
@@ -20,8 +20,8 @@ image:
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
 # links:
-# - name: Follow
-#   url: https://twitter.com
+- name: Interdisciplinary Meta-Research Group (IMeRG)
+  url: https://imerg.info
 #   icon_pack: fab
 #   icon: twitter
 
@@ -38,16 +38,15 @@ url_video: ""
 slides: ""
 ---
 
-Role of reproducibility in good science
+Related to the Interdisciplinary Meta-Research Group (IMeRG), we study the science of how science is done. This is called metaresearch or metascience, and is important in understanding credibility, replicability and reproducibility of scientific claims.
 
-
-#### Key contacts:
-Fiona, David, Elliot
+#### Researchers:
+Fiona Fidler, David Wilkinson, Elliot Gould, Hannah Fraser, Bonnie Wintle, Peter Vesk, Mick McCarthy, Rebecca Groenewegen, Libby Rumpff, Anca Hanea
 
 #### Publications:
 [Wintle, B., Mody, F., Smith, E., Hanea, A., Wilkinson, D.P., Hemming, V., Bush, M., Fraser, H., Thorn, F.S., McBride, M. and Gould, E., 2021.](https://osf.io/preprints/metaarxiv/vtpmb/) Predicting and reasoning about replicability using structured groups.
 
 [Fraser, H., Bush, M., Wintle, B., Mody, F., Smith, E., Hanea, A., Gould, E., Hemming, V., Hamilton, D., Rumpff, L. & Wilkinson, D.P., 2021.](https://osf.io/preprints/metaarxiv/2pczv/) Predicting reliability through structured expert elicitation with repliCATS (Collaborative Assessments for Trustworthy Science).
 
-[Fidler, F., & Wilcox, J., 2018.](www.google.com) Reproducibility of scientific results.
+[Fidler, F., & Wilcox, J., 2018.](https://plato.stanford.edu/entries/scientific-reproducibility/) Reproducibility of scientific results.
 
