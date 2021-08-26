@@ -40,7 +40,7 @@ url_video: ""
 Globally, biodiversity is declining. Australia has the highest rate of mammal extinctions with many more species at risk of extinction. At QAEco we are passionate about conservation. We apply the principles of our other research themes to threatened species. 
 
 #### Researchers: 
-Brendan Wintle, David Duncan, Peter Vesk, Mick McCarthy, Anja Skroblin, Linda Riquelme, Megan Good, Kylie Soanes, Mathew Rees, David Wilkinson, Rebecca Groenewegen, Adam Smart, Matt Rees, Naomi Indigo  
+Brendan Wintle, David Duncan, Peter Vesk, Mick McCarthy, Anja Skroblin, Linda Riquelme, Megan Good, Kylie Soanes, Mathew Rees, David Wilkinson, Rebecca Groenewegen, Adam Smart, Matt Rees, Naomi Indigo, Islay McDougall, Olivia Tunney, Matthew Whitney
 
 #### Affiliate researchers:
 Ami Bennett, Pia Lentini  

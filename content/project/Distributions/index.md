@@ -40,7 +40,7 @@ slides: ""
 Understanding where species may be is essential to spatial conservation planning. Species Distribution Models (SDMs, also known as niche or habitat models), attempt to predict a species distribution by relating where they are known to occur and possibly known not to occur with environmental characteristics. Our research on SDMs is broad with topics ranging from theoretical, mathematical and management applications. We are investigating both correlative and mechanistic models, particularly for threatened species, invasive species, fire, or scenario planning such as climate change.
 
 #### Researchers:  
-Jose Lahoz-Monfort, Guruzeta Guillera-Arroita, Mick McCarthy, Peter Vesk, Jane Elith, David Wilkinson, Natalie Briscoe, Gerry Ryan, Anwar Hossain, Ian Flint, Roozbeh Valavi, August Hao, Brendan Wintle, Saras Windecker, David E. Uribe-Rivera, Alys Young, Islay Mcdougall  
+Jose Lahoz-Monfort, Guruzeta Guillera-Arroita, Mick McCarthy, Peter Vesk, Jane Elith, David Wilkinson, Natalie Briscoe, Gerry Ryan, Anwar Hossain, Ian Flint, Roozbeh Valavi, August Hao, Brendan Wintle, Saras Windecker, David E. Uribe-Rivera, Alys Young, Islay Mcdougall, Olivia Tunney, Rohan Knot
 
 ####Affiliate researchers:  
 Pia Lentini  

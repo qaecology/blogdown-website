@@ -48,7 +48,7 @@ Pia Lentini
 
 
 #### Publications:
-[Cantele, M., Bal, P., Kompas, T., Hadjikakou, M., and Wintle, B.A., 2021.](https://doi.org/10.1029/2020EF001923) Equilibrium modeling for environmental science: Exploring the nexus of economic systems and environmental change. Earth’s Future, (forthcoming).
+[Cantele, M., Bal, P., Kompas, T., Hadjikakou, M., and Wintle, B.A., 2021.](https://doi.org/10.1029/2020EF001923) Equilibrium modeling for environmental science: Exploring the nexus of economic systems and environmental change. Earth’s Future, 9, e2020EF001923.
 
 [Kapitza, S., Van Ha, P., Kompas, T., Golding, N., Cadenhead, N.C., Bal, P. and Wintle, B.A., 2021.](https://www.nature.com/articles/s41598-021-82474-z) Assessing biophysical and socio-economic impacts of climate change on regional avian biodiversity. Scientific reports, 11(1), pp.1-10.
 

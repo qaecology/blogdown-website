@@ -42,7 +42,7 @@ Biodiversity is declining globally and therefore we must understand and manage t
 #### Researchers:
 Invasive predators: Bronwyn Hradsky, Adam Smart, Matt Rees  
 
-Fire: Kate Giljohann, Mick McCarthy, Bronwyn Hradsky, Vishnu Menon, Erica Marshall, Libby Rumpff, Kate Senior, Sandra Penman, Mark Le Pla, Shona Ellior-Kerr
+Fire: Kate Giljohann, Mick McCarthy, Bronwyn Hradsky, Vishnu Menon, Erica Marshall, Libby Rumpff, Kate Senior, Sandra Penman, Mark Le Pla, Shona Ellior-Kerr, Jenny (Shih Wen) Huang
 
 #### Affiliate researchers:  
 Fire: Luke Kelly  

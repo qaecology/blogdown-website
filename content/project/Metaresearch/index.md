@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Metaresearch and reproduciblity"
+title: "Metaresearch and reproducibility"
 summary: "Related to the Interdisciplinary Meta-Research Group (IMeRG), we study the science of how science is done. This is called metaresearch or metascience, and is important in understanding credibility, replicability and reproducibility of scientific claims."
 tags: []
 categories: []

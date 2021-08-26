@@ -41,7 +41,7 @@ slides: ""
 Choosing between management options and balancing multiple or competing stakeholder goals is challenging. We investigate how the decision making can be best informed by science. Structured Decision Making provides a framework for working through the decision-making process in a logical manner, often dealing with conflicting objectives and scientific uncertainty. Prioritisation and optimisation are quantitative techniques based on data aiming to produce the best outcome within some constraints. With scarce funding and often conflicts between conservation and economic developments, methods that support decision making are becoming more prominent and essential to achieving conservation outcomes.
 
 #### Researchers:  
-Libby Rumpff, Terry Walsh, Jutta Beher, Jose Lahoz-Monfort, Brendan Wintle, Payal Bal, Mick McCarthy,  Megan Good, Teagan Goolmeer, Jenny Huang, Elliot Gould, Anca Hanea
+Libby Rumpff, Terry Walsh, Jutta Beher, Jose Lahoz-Monfort, Brendan Wintle, Payal Bal, Mick McCarthy,  Megan Good, Teagan Goolmeer, Jenny (Shih Wen) Huang, Elliot Gould, Anca Hanea
 
 #### Affiliate researchers:  
 Pia Lentini, Heini Kujala, Cindy Hauser, Erica Marshall, Kat Selwood, Emily Nicholson  
