@@ -45,10 +45,12 @@ Understanding where species may be is essential to spatial conservation planning
 #### Researchers:  
 Jose Lahoz-Monfort, Guruzeta Guillera-Arroita, Mick McCarthy, Peter Vesk, Jane Elith, David Wilkinson, Natalie Briscoe, Gerry Ryan, Anwar Hossain, Ian Flint, Roozbeh Valavi, August Hao, Brendan Wintle, Saras Windecker, David E. Uribe-Rivera, Alys Young, Islay Mcdougall, Olivia Tunney, Rohan Knot
 
-####Affiliate researchers:  
+[Mick McCarthy]({{< ref "/authors/Mick McCarthy" >}}), [Peter Vesk]({{< ref "/authors/Peter Vesk" >}}), [Brendan Wintle]({{< ref "/authors/Brendan Wintle" >}}), [Natalie Briscoe]({{< ref "/authors/Natalie Briscoe" >}}), [Saras Windecker]({{< ref "/authors/Saras Windecker" >}}), [Anwar Hossain]({{< ref "/authors/Anwar Hossain" >}}), [August Hao]({{< ref "/authors/August Hao" >}}), [David E. Uribe-Rivera]({{< ref "/authors/David E Uribe-Rivera" >}}), [Alys Young]({{< ref "/authors/Alys Young" >}})
+
+#### Affiliate researchers:  
 Pia Lentini  
 
-#### Publications:  
+#### Selected Publications:  
 [Visintin, C., Briscoe, N., Woolley, S.N.C., Lentini, P.E., Tingley, R., Wintle, B.A. and Golding, N. 2020.](https://besjournals.onlinelibrary.wiley.com/doi/full/10.1111/2041-210X.13354) steps: Software for spatially and temporally explicit population simulations. Methods in ecology and evolution, 11(4), pp.596-603.
 
 [Briscoe, N.J., Elith, J., Salguero‐Gómez, R., Lahoz‐Monfort, J.J., Camac, J.S., Giljohann, K.M., Holden, M.H., Hradsky, B.A., Kearney, M.R., McMahon, S.M. and Phillips, B.L., 2019.](https://onlinelibrary.wiley.com/doi/full/10.1111/ele.13348) Forecasting species range dynamics with process‐explicit models: matching methods to applications. Ecology Letters, 22(11), pp.1940-1956.
