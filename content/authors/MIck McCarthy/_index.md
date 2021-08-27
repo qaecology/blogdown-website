@@ -13,8 +13,7 @@ organizations:
 - name: The University of Melbourne
   url: "https://www.unimelb.edu.au/"
 
-# Short bio (displayed in user profile at end of posts)
-=======
+# Short bio (displayed in user profile at end of posts) =======
 bio:
 
 interests:

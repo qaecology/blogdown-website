@@ -6,7 +6,7 @@ title: Alys Young (she/her)
 superuser: true
 
 # Role/position
-role: PhD Student / Research Assistant
+role: PhD Candidate / Research Assistant
 
 # Organizations/Affiliations
 organizations:
@@ -20,20 +20,19 @@ bio:
 
 interests:
 - Species Distribution Modelling
-- Remote-Sensing
 - Indigenous Ecological Knowledge
 
 education:
-  # courses:
-  # - course: PhD on modelling the biodiversity of the Tiwi Islands
-  #   institution: Deakin University
-  #   year: 2020 - ongoing
-  # - course: Master of Science (Biosciences)
-  #   institution: University of Melbourne
-  #   year: 2018 - 2019
-  # - course: Bachelor of Science (Zoology)
-  #   institution: University of Melbourne
-  #   year: 2015 - 2017
+  courses:
+  - course: PhD on modelling the biodiversity of the Tiwi Islands
+    institution: Deakin University
+    year: 2020 - ongoing
+  - course: Master of Science (Biosciences)
+    institution: University of Melbourne
+    year: 2018 - 2019
+  - course: Bachelor of Science (Zoology)
+    institution: University of Melbourne
+    year: 2015 - 2017
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
