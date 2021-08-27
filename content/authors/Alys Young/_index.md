@@ -20,6 +20,7 @@ bio:
 
 interests:
 - Species Distribution Modelling
+- Remote-sensing data
 - Indigenous Ecological Knowledge
 
 education:
@@ -68,3 +69,13 @@ user_groups:
 
 
 Alys is a PhD student at Deakin University with supervisors from Deakin, the University of Melbourne, and Charles Darwin University. Working with the Tiwi people and land council on the Tiwi Islands, Alys investigates biodiversity modelling, particularly of threatened or culturally important species, to inform sustainable development. More generally, she is interested in data analysis, modelling, and coding. She is also a Research Assistant at the University of Melbourne undertaking data management, visualisation and creating shiny apps.
+
+
+#### Supervisors:
+Professor Emily Nicholson  
+Dr Guruzeta Guillera-Arroita  
+Dr Hugh Davies   
+
+#### Key themes:
+[Species Distribution Modelling]({{< ref "/project/Distributions" >}})  
+[Indigenous Ecological Knowledge]({{< ref "/project/IEK" >}})
