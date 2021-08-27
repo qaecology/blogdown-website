@@ -3,8 +3,11 @@
 
 title: "Species Distribution Modelling (SDM) and Biogeography"
 summary: "Our research on SDMs is broad with topics ranging from theoretical, mathematical and management applications. We are investigating both correlative and mechanistic models, particularly for threatened species, invasive species, fire, or scenario planning such as climate change."
-tags: ["tag1" "tag2"]
-categories: ["cat1", "cat2"]
+date: 2021-08-26
+weight: 2
+tags:
+- tag2
+categories: []
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -44,7 +47,6 @@ Jose Lahoz-Monfort, Guruzeta Guillera-Arroita, Mick McCarthy, Peter Vesk, Jane E
 
 ####Affiliate researchers:  
 Pia Lentini  
-
 
 #### Publications:  
 [Visintin, C., Briscoe, N., Woolley, S.N.C., Lentini, P.E., Tingley, R., Wintle, B.A. and Golding, N. 2020.](https://besjournals.onlinelibrary.wiley.com/doi/full/10.1111/2041-210X.13354) steps: Software for spatially and temporally explicit population simulations. Methods in ecology and evolution, 11(4), pp.596-603.

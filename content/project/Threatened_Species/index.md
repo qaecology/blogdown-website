@@ -2,9 +2,13 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "Threatened Species and Communities"
-summary: "Globally, biodiversity is declining. Australia has the highest rate of mammal extinctions with many more species at risk of extinction. At QAEco we are passionate about conservation. We apply the principles of our other research themes to threatened species."
-tags: ["tag1"]
-categories: ["cat1"]
+summary: "We are passionate about conservation. We undertake fieldwork to understand management implications and apply the principles of our other research themes to threatened species."
+date: 2021-08-26
+weight: 1
+tags:
+- tag1
+- tag2
+categories: []
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""

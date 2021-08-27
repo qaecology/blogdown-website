@@ -2,7 +2,9 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "Indigenous Ecological Knowledge"
-summary: ""
+summary: "We are interested in understanding IEK and weaving together different knowledges to enhance conservation."
+date: 2021-08-26
+weight: 7
 tags: []
 categories: []
 

@@ -3,8 +3,10 @@
 
 title: "Bio-economic modelling and business/biodiversity trade-offs"
 summary: "We address fundamental questions about the combined impacts of consumption, climate change and land use change on biodiversity to inform mitigation and adaptation measures for climate change and biodiversity loss."
-tags: ["tag1", "tag2"]
-categories: ["cat1" "cat2"]
+date: 2021-08-26
+weight: 8
+tags: []
+categories: []
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""

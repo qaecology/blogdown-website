@@ -3,6 +3,8 @@
 
 title: "Decision analysis for conservation and resource management"
 summary: "We investigate how the decision making can be best informed by science using structured decision-making, prioritisation and optimisation."
+date: 2021-08-26
+weight: 5
 tags: []
 categories: []
 

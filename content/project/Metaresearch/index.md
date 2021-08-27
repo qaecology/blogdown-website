@@ -2,7 +2,9 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "Metaresearch and reproducibility"
-summary: "Related to the Interdisciplinary Meta-Research Group (IMeRG), we study the science of how science is done. This is called metaresearch or metascience, and is important in understanding credibility, replicability and reproducibility of scientific claims."
+summary: "We study the science of how science is done with the MetaMelb Lab. This is called metaresearch or metascience, and is important in understanding credibility, replicability and reproducibility of scientific claims."
+date: 2021-08-26
+weight: 6
 tags: []
 categories: []
 
@@ -19,9 +21,9 @@ image:
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
-# links:
-- name: Interdisciplinary Meta-Research Group (IMeRG)
-  url: https://imerg.info
+links:
+- name: MetaMelb
+  url: https://www.metamelb.org
 #   icon_pack: fab
 #   icon: twitter
 
