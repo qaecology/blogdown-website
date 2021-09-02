@@ -1,41 +1,36 @@
 ---
 # Display name
-title: Michael McCarthy (he/him)
+title: Rohan Khot (he/him)
 
 # Is this the primary user of the site?
 superuser: FALSE
 
 # Role/position
-role: Principal Researcher
+role: Masters Student
 
 # Organizations/Affiliations
 organizations:
-- name: The University of Melbourne
-  url: "https://www.unimelb.edu.au/"
+- name: University of Melbourne
+  url: "https://unimelb.edu.au"
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
 
 interests:
-- Statistical Ecology
-- Imperfect Detection
-- Population Ecology
-- Ecological Modelling
+- Plant Functional Traits
+- Species Distribution Modelling
 
 education: #please leave blank
   # courses:
   # - course:
-  #   institution: 
-  #   year: 
+  #   institution:
+  #   year:
   # - course:
-  #   institution: 
-  #   year: 
+  #   institution:
+  #   year:
   # - course:
-  #   institution: 
-  #   year: 
-  # - course: 
-  #   institution: 
-  #   year: 
+  #   institution:
+  #   year:
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -44,19 +39,8 @@ education: #please leave blank
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:mamcca@unimelb.edu.au'
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/mickresearch
-# - icon: github
-#   icon_pack: fab
-#   link: https://github.com/cvisintin
-- icon: address-card
-  icon_pack: fas
-  link: https://mickresearch.wordpress.com/
-- icon: book
-  icon_pack: fas
-  link: https://scholar.google.com.au/citations?user=vQ5iqnUAAAAJ
+  link: 'mailto:rkhot@student.unimelb.edu.au'
+
     
   
 # Link to a PDF of your resume/CV from the About widget.
@@ -74,7 +58,9 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups: #(please choose one from below and remove the others that aren't needed)
-- Principal Investigators
+
+- Researchers
+
 ---
 
-Mick builds and evaluates models that can assist improved environmental managers. He has worked across a range of ecosystems (aquatic to terrestrial) and species (plants, fungi, invertebrates, vertebrates). He likes combining mathematics with ecology, and has interests in statistical ecology. He is also currently the Deputy Dean of the Faculty of Science.
+Rohan is currently completing his Masters degree at QAEco, working on a project modelling the distributions of Eucalypt species in the Grampians-Gariwerd National Park using Functional Traits. Outside of the university, Rohan works on the Forest Protection Survey Program doing Flora and Fauna Surveys around Victoria. He also enjoys playing Soccer on the weekend, riding bicycles, and losing chess games on the internet.

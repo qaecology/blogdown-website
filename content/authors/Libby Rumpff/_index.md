@@ -1,26 +1,25 @@
 ---
 # Display name
-title: Brendan Wintle (he/him)
+title: Libby Rumpff (she/her)
 
 # Is this the primary user of the site?
 superuser: FALSE
 
 # Role/position
-role: Professor of Conservation Ecology
+role: Research Fellow
 
 # Organizations/Affiliations
 organizations:
-- name: The University of Melbourne
-  url: "https://www.unimelb.edu.au/"
+- name: University of Melbourne
+  url: "https://unimelb.edu.au"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Brendan is a Professor in Conservation Ecology in the School of Ecosystem and Forest Sciences & one of the PIs in the QAECO group. He is interested in uncertainty and conservation decision making. 
+bio: 
 
 interests:
-- Threatened Species
-- Species Distribution Modelling
-- Making Decisions Under Uncertainty
-- Cost-Effectiveness of Conservation Programs
+- Decision Analysis for Conservation and Research Management
+- Threatened Species and Communities
+- Fire Management
 
 education: #please leave blank
   # courses:
@@ -41,17 +40,14 @@ education: #please leave blank
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:b.wintle@unimelb.edu.au'
+  link: 'mailto:lrumpff@unimelb.edu.au'
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/brenwintle
+  link: https://twitter.com/LibbyRumpff
 - icon: address-card
   icon_pack: fas
-  link: https://brendanwintle.wordpress.com/about/
-- icon: book
-  icon_pack: fas
-  link: https://scholar.google.com.au/citations?user=8lK0AfMAAAAJ&hl=en
-    
+  link: https://rumpffresearch.wordpress.com
+
   
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -72,4 +68,4 @@ user_groups: #(please choose one from below and remove the others that aren't ne
 ---
 
 
-Brendan specializes in modelling and analysis to support decision making and policy in conservation, particularly under uncertainty. He was the recent Director of the National Environmental Science Program's Threatened Species Recovery Hub, has served on Forest Stewardship Council reference committees, and various Commonwealth and State science advisory bodies including the Regional Sustainability Planning Advisory Committee, the Monitoring and Evaluation (MERI) advisory group, and the 'Save the Tasmanian Devil' Science Advisory Group. He is obsessed with arboreal marsupials and soccer. 
+Libby's work draws upon the practices of structured decision-making, adaptive management, and risk assessment. She works closely with management agencies to develop qualitative and quantitative models, facilitate expert elicitation workshops, and apply decision-making frameworks to various contexts. 

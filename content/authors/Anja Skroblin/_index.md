@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Anja Katharina Skroblin (she/her)
+title: Anja Skroblin (she/her)
 
 # Is this the primary user of the site?
 superuser: false
