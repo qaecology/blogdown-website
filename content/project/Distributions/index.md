@@ -3,7 +3,7 @@
 
 title: "Species Distribution Modelling (SDM) and Biogeography"
 summary: "Our research on SDMs is broad with topics ranging from theoretical, mathematical and management applications. We are investigating both correlative and mechanistic models, particularly for threatened species, invasive species, fire, or scenario planning such as climate change."
-tags: ["tag1" "tag2"]
+tags: ["tag1", "tag2"]
 categories: ["cat1", "cat2"]
 
 # Optional external URL for project (replaces project detail page).
