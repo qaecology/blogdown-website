@@ -1,8 +1,8 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Structured decision making, prioritisation and optimisation"
-summary: "description of how this impacts management"
+title: "Decision analysis for conservation and resource management"
+summary: "We investigate how the decision making can be best informed by science using structured decision-making, prioritisation and optimisation."
 tags: []
 categories: []
 
@@ -38,11 +38,13 @@ url_video: ""
 slides: ""
 ---
 
-description of how structured decision making, prioritisation and optimisation impacts management
+Choosing between management options and balancing multiple or competing stakeholder goals is challenging. We investigate how the decision making can be best informed by science. Structured Decision Making provides a framework for working through the decision-making process in a logical manner, often dealing with conflicting objectives and scientific uncertainty. Prioritisation and optimisation are quantitative techniques based on data aiming to produce the best outcome within some constraints. With scarce funding and often conflicts between conservation and economic developments, methods that support decision making are becoming more prominent and essential to achieving conservation outcomes.
 
+#### Researchers:  
+Libby Rumpff, Terry Walsh, Jutta Beher, Jose Lahoz-Monfort, Brendan Wintle, Payal Bal, Mick McCarthy,  Megan Good, Teagan Goolmeer, Jenny (Shih Wen) Huang, Elliot Gould, Anca Hanea
 
-#### Key contacts:
-Libby Rumpff, Jutta, Elliot, Heini, Jose, Brendan Wintle, Erica, Kat Selwood, Cindy, Mick
+#### Affiliate researchers:  
+Pia Lentini, Heini Kujala, Cindy Hauser, Erica Marshall, Kat Selwood, Emily Nicholson  
 
 #### Publications:
 [Marshall, J.,  Valavi, R., Connor, L. O., Cadenhead, N., Southwell, D., Wintle, B. A., & Kujala, H. 2021.](https://conbio.onlinelibrary.wiley.com/doi/full/10.1111/cobi.13600?casa_token=dsEN3aR-GTkAAAAA%3AdeGRA0bonCT11XO9kQ_GFd8ddwO7OQ1ZJaIhOhE5_7iVayxLhPdY2-s8gJpumQxO9MrSheWQX_fFcw) Quantifying the impact of vegetation-based metrics on species persistence when choosing offsets for habitat destruction. Conservastion Biology, 35(2), pp.567-577.

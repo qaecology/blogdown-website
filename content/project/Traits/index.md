@@ -1,8 +1,8 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Traits and Generalisations"
-summary: "How traits link to evolution and why its important"
+title: "Plant Functional Traits and Generalisations"
+summary: "Understanding how traits respond to the environment across multiple species can lead to predictions of distributions, habitat suitability and susceptibility to pressures such as droughts based on traits alone. This area of research is based on Trait-Environment Species Distribution Models and our research is currently focusing on Eucalyptus species."
 tags: []
 categories: []
 
@@ -37,10 +37,13 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
-How traits link to evolution and why its important
+Understanding how traits respond to the environment across multiple species can lead to predictions of distributions, habitat suitability and susceptibility to pressures such as droughts based on traits alone. This area of research is based on Trait-Environment Species Distribution Models and our research is currently focusing on Eucalyptus species.
 
-#### Key contacts:
-Pete, Saras, Will Morris
+#### Researchers:  
+Peter Vesk, Saras Windecker, Rohan Khot, Antoinette Portelli, Ezra Janetzki, Gabrielle Cleary  
+
+#### Affiliate researchers:  
+Will Morris, Laura Pollock, Esti Palma
 
 #### Publications:'
 
