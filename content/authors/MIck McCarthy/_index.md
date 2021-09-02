@@ -14,8 +14,7 @@ organizations:
   url: "https://www.unimelb.edu.au/"
 
 # Short bio (displayed in user profile at end of posts)
-=======
-bio:
+bio: 
 
 interests:
 - Statistical Ecology

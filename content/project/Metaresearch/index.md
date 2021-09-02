@@ -20,8 +20,10 @@ image:
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
 # links:
-- name: Interdisciplinary Meta-Research Group (IMeRG)
-  url: https://imerg.info
+# - name: Interdisciplinary Meta-Research Group (IMeRG)
+#   url: https://imerg.info
+# icon: address-card
+#   icon_pack: fas
 #   icon_pack: fab
 #   icon: twitter
 

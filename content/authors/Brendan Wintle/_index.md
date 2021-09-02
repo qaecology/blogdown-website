@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Brendan wintle (he/him)
+title: Brendan Wintle (he/him)
 
 # Is this the primary user of the site?
 superuser: FALSE
