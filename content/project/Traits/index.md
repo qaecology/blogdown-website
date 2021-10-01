@@ -42,12 +42,14 @@ slides: ""
 Understanding how traits respond to the environment across multiple species can lead to predictions of distributions, habitat suitability and susceptibility to pressures such as droughts based on traits alone. We work to understand the traits and generalisations in various taxa, particularly Eucalyptus species.
 
 #### Researchers:  
-Peter Vesk, Saras Windecker, Mick McCarthy, Rohan Khot, Antoinette Portelli, Ezra Janetzki, Gabrielle Cleary
+[Peter Vesk]({{< ref "/authors/Peter Vesk" >}}), [Saras Windecker]({{< ref "/authors/Saras Windecker" >}}), [Mick McCarthy]({{< ref "/authors/Mick McCarthy" >}}), [Rohan Khot]({{< ref "/authors/Rohan Khot" >}}), Antoinette Portelli, [Ezra Janetzki]({{< ref "/authors/Ezra Janetzki" >}}), [Gabrielle Cleary]({{< ref "/authors/Gabrielle Cleary" >}})  
+  
 
 #### Affiliate researchers:  
-Will Morris, Laura Pollock, Jian Yen, James Camac, Pia Lentini
-
+Will Morris, Laura Pollock, Jian Yen, [James Camac]({{< ref "/authors/James Camac" >}}), Pia Lentini  
+  
 #### Selected publications:'
 [Vesk, P.A., Morris, W.K., Neal, W.C., Mokany, K. and Pollock, L.J., 2021.](https://doi.org/10.1111/ecog.05179) Transferability of trait‐based species distribution models. Ecography, 44(1), pp.134-147.
-
+  
 [Pollock, L.J., Morris, W.K., and Vesk, P.A. 2012.](https://doi.org/10.1111/j.1600-0587.2011.07085.x) The role of functional traits in species distributions revealed through a hierarchical model. Ecography 35: 716-725.
+  

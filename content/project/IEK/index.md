@@ -42,11 +42,12 @@ slides: ""
 Indigenous peoples in Australia represent the oldest living culture on Earth and have a wealth of bioecological knowledge. Indigenous Ecological Knowledge (IEK) refers to the intimate knowledge of and relationship with the natural world. There are many complementary attributes between IEK and western scientific knowledge that can be woven together to co-develop research and co-create new knowledge.  We partner with land councils, ranger groups and Indigenous people to research topics important to them in a collaborative and two-way manner.
 
 #### Researchers:
-Anja Skroblin, Maddi Miller, Teagan Goolmeer, Brendan Wintle, Peter Vesk, Guruzeta Guillera-Arroita, Jane Elith,  Naomi Indigo, Alys Young
+[Anja Skroblin]({{< ref "/authors/Anja Skroblin" >}}), [Maddi Miller]({{< ref "/authors/Maddi Miller" >}}), [Peter Vesk]({{< ref "/authors/Peter Vesk" >}}), [Teagan Goolmeer]({{< ref "/authors/Teagan Goolmeer" >}}), [Brendan Wintle]({{< ref "/authors/Brendan Wintle" >}}), [Alys Young]({{< ref "/authors/Alys Young" >}}), [Naomi Indigo]({{< ref "/authors/Naomi Indigo" >}}), Guruzeta Guillera-Arroita, Jane Elith
 
 #### Affiliate researchers:
 Emily Nicholson, Hugh Davies 
 
 #### Selected publications:
 [Skroblin, A., Carboon, T., Bidu, G., Chapman, N., Miller, M., Taylor, K., Taylor, W., Game, E.T. and Wintle, B.A., 2021.](https://doi.org/10.1111/cobi.13373) Including indigenous knowledge in species distribution modeling for increased ecological insights. Conservation Biology, 35(2), pp.587-597.
+
 [Davies, H.F., Rangers, T.L., Nicholson, E. and Murphy, B.P., 2021.](https://doi.org/10.1071/PC21020) Northern brown bandicoot (Isoodon macrourus) and common brushtail possum (Trichosurus vulpecula) density on the Tiwi Islands: insights and implications. Pacific Conservation Biology.

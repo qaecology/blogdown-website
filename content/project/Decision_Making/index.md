@@ -44,16 +44,16 @@ Choosing between management options and balancing multiple or competing stakehol
 
 
 #### Researchers:  
-Libby Rumpff, Terry Walsh, Jutta Beher, Jose Lahoz-Monfort, Brendan Wintle, Payal Bal, Mick McCarthy, Elliot Gould, Anca Hanea, Jenny (Shih Wen) Huang, Hannah Fraser
+[Libby Rumpff]({{< ref "/authors/Libby Rumpff" >}}),  Terry Walsh, [Jutta Beher]({{< ref "/authors/Jutta Beher" >}}), Jose Lahoz-Monfort, [Brendan Wintle]({{< ref "/authors/Brendan Wintle" >}}), [Payal Bal]({{< ref "/authors/Payal Bal" >}}), [Mick McCarthy]({{< ref "/authors/Mick McCarthy" >}}), [Elliot Gould]({{< ref "/authors/Elliot Gould" >}}), Anca Hanea, [Shih Wen Huang]({{< ref "/authors/Shih Wen Huang" >}}), Hannah Fraser
 
 #### Affiliate researchers:  
-Pia Lentini, Heini Kujala, Cindy Hauser, Erica Marshall, Kat Selwood, Emily Nicholson 
+Pia Lentini, Heini Kujala, [Cindy Hauser]({{< ref "/authors/Cindy Hauser" >}}), Erica Marshall, Kat Selwood, Emily Nicholson
 
 #### Selected publications:
 [Marshall, J., Valavi, R., Connor, L. O., Cadenhead, N., Southwell, D., Wintle, B. A., & Kujala, H. 2021.](https://doi.org/10.1111/cobi.13600) Quantifying the impact of vegetation-based metrics on species persistence when choosing offsets for habitat destruction. Conservation Biology, 35(2), pp.567-577.
-
+  
 [Selwood, K., Wintle, B. A., & Kujala, H. 2019.](https://doi.org/10.1111/conl.12673) Collaborative conservation planning: Quantifying the contribution of expert engagement to identify spatial conservation priorities. Conservation Letters, 12(6).
-
+  
 [Wintle, B.A., Kujala, H., Whitehead, A., Cameron, A., Veloz, S., Kukkala, A., Moilanen, A., Gordon, A., Lentini, P.E., Cadenhead, N.C.R. & Bekessy, S.A. (2019).](https://doi.org/10.1073/pnas.1813051115) Global synthesis of conservation studies reveals the importance of small habitat patches for biodiversity. Proc. Natl. Acad. Sci. U. S. A., 116
-
+  
 [Fraser, H., Rumpff, L., Yen, J.D., Robinson, D. and Wintle, B.A., 2017.](https://doi.org/10.1111/cobi.12939) Integrated models to support multiobjective ecological restoration decisions. Conservation Biology, 31(6), pp.1418-1427.
