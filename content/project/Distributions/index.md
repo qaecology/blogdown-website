@@ -1,8 +1,8 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Species Distribution Modelling (SDM) and Biogeography"
-summary: "Our research on SDMs is broad with topics ranging from theoretical, mathematical and management applications. We are investigating both correlative and mechanistic models, particularly for threatened species, invasive species, fire, or scenario planning such as climate change."
+title: "Species Distribution Modelling (SDM) and Population dynamics"
+summary: "We develop, test and apply methods for predicting species distributions and abundance. Our research in population modelling is broad with topics ranging from theoretical, mathematical and management applications, particularly for threatened species, invasive species, fire, or scenario planning such as climate change."r
 date: 2021-08-26
 weight: 2
 tags:
@@ -40,23 +40,20 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
-Understanding where species may be is essential to spatial conservation planning. Species Distribution Models (SDMs, also known as niche or habitat models), attempt to predict a species distribution by relating where they are known to occur and possibly known not to occur with environmental characteristics. Our research on SDMs is broad with topics ranging from theoretical, mathematical and management applications. We are investigating both correlative and mechanistic models, particularly for threatened species, invasive species, fire, or scenario planning such as climate change.
+Understanding where species occur and how populations will likely respond to future environmental change is essential to conservation. We develop, test and apply methods for predicting species distributions and abundance. Much of our research focuses on correlative species distribution models (SDMs, also known as ecological niche or habitat models) investigating new methods, assumptions and related to biogeography. We also research models that incorporate more mechanisms, including dynamic occupancy models, spatially-explicit population models, eco-physiological or mechanistic niche models and individual-based models.We apply these methods to a broad range of taxa and problems including threatened species, invasive species, fire management and climate change.
 
 #### Researchers:  
-Jose Lahoz-Monfort, Guruzeta Guillera-Arroita, Mick McCarthy, Peter Vesk, Jane Elith, David Wilkinson, Natalie Briscoe, Gerry Ryan, Anwar Hossain, Ian Flint, Roozbeh Valavi, August Hao, Brendan Wintle, Saras Windecker, David E. Uribe-Rivera, Alys Young, Islay Mcdougall, Olivia Tunney, Rohan Knot
+Jose Lahoz-Monfort, Guruzeta Guillera-Arroita, Mick McCarthy, Peter Vesk, Jane Elith, David Wilkinson, Natalie Briscoe, Gerry Ryan, Anwar Hossain, Ian Flint, Roozbeh Valavi, August (Tianxiao) Hao, Brendan Wintle, Saras Windecker, Alys Young, Islay McDougall, Rohan Khot, David Uribe Rivera, Skipton Woolley
 
 [Mick McCarthy]({{< ref "/authors/Mick McCarthy" >}}), [Peter Vesk]({{< ref "/authors/Peter Vesk" >}}), [Brendan Wintle]({{< ref "/authors/Brendan Wintle" >}}), [Natalie Briscoe]({{< ref "/authors/Natalie Briscoe" >}}), [Saras Windecker]({{< ref "/authors/Saras Windecker" >}}), [Anwar Hossain]({{< ref "/authors/Anwar Hossain" >}}), [August Hao]({{< ref "/authors/August Hao" >}}), [David E. Uribe-Rivera]({{< ref "/authors/David E Uribe-Rivera" >}}), [Alys Young]({{< ref "/authors/Alys Young" >}})
 
 #### Affiliate researchers:  
-Pia Lentini  
+Pia Lentini, Nick Golding, Casey Visintin, James Camac, Reid Tingley, Alyson Stobo‐Wilson 
 
 #### Selected Publications:  
-[Visintin, C., Briscoe, N., Woolley, S.N.C., Lentini, P.E., Tingley, R., Wintle, B.A. and Golding, N. 2020.](https://besjournals.onlinelibrary.wiley.com/doi/full/10.1111/2041-210X.13354) steps: Software for spatially and temporally explicit population simulations. Methods in ecology and evolution, 11(4), pp.596-603.
-
-[Briscoe, N.J., Elith, J., Salguero‐Gómez, R., Lahoz‐Monfort, J.J., Camac, J.S., Giljohann, K.M., Holden, M.H., Hradsky, B.A., Kearney, M.R., McMahon, S.M. and Phillips, B.L., 2019.](https://onlinelibrary.wiley.com/doi/full/10.1111/ele.13348) Forecasting species range dynamics with process‐explicit models: matching methods to applications. Ecology Letters, 22(11), pp.1940-1956.
-
-[Valavi, R., Elith, J., Lahoz‐Monfort, J.J. and Guillera‐Arroita, G., 2019.](https://besjournals.onlinelibrary.wiley.com/doi/full/10.1111/2041-210X.13107) blockCV: an R package for generating spatially or environmentally separated folds for k-fold cross-validation of species distribution models. Methods in Ecology and Evolution, 10(2), pp.225-232.
-
-[Guillera‐Arroita, G., Lahoz‐Monfort, J.J., Elith, J., Gordon, A., Kujala, H., Lentini, P.E., McCarthy, M.A., Tingley, R. and Wintle, B.A., 2015.](https://onlinelibrary.wiley.com/doi/full/10.1111/geb.12268) Is my species distribution model fit for purpose? Matching data and models to applications. Global Ecology and Biogeography, 24(3), pp.276-292.  
-
-[Lahoz‐Monfort, J.J., Guillera‐Arroita, G. and Wintle, B.A., 2014.](https://onlinelibrary.wiley.com/doi/full/10.1111/geb.12138) Imperfect detection impacts the performance of species distribution models. Global Ecology and Biogeography, 23(4), pp.504-515. 
+[Visintin, C., Briscoe, N., Woolley, S.N.C., Lentini, P.E., Tingley, R., Wintle, B.A. and Golding, N. 2020.](https://doi.org/10.1111/2041-210X.13354) steps: Software for spatially and temporally explicit population simulations. Methods in ecology and evolution, 11(4), pp.596-603.
+[Briscoe, N.J., Elith, J., Salguero‐Gómez, R., Lahoz‐Monfort, J.J., Camac, J.S., Giljohann, K.M., Holden, M.H., Hradsky, B.A., Kearney, M.R., McMahon, S.M. and Phillips, B.L., 2019.](https://doi.org/10.1111/ele.13348) Forecasting species range dynamics with process‐explicit models: matching methods to applications. Ecology Letters, 22(11), pp.1940-1956.
+[Hradsky, B.A., Kelly, L.T., Robley, A. and Wintle, B.A., 2019.](https://doi.org/10.1111/1365-2664.13374) FoxNet: An individual‐based model framework to support management of an invasive predator, the red fox. Journal of Applied Ecology, 56(6), pp.1460-1470.
+[Valavi, R., Elith, J., Lahoz‐Monfort, J.J. and Guillera‐Arroita, G., 2019.](https://doi.org/10.1111/2041-210X.13107) blockCV: an R package for generating spatially or environmentally separated folds for k-fold cross-validation of species distribution models. Methods in Ecology and Evolution, 10(2), pp.225-232.
+[Guillera‐Arroita, G., Lahoz‐Monfort, J.J., Elith, J., Gordon, A., Kujala, H., Lentini, P.E., McCarthy, M.A., Tingley, R. and Wintle, B.A., 2015.](https://doi.org/10.1111/geb.12268) Is my species distribution model fit for purpose? Matching data and models to applications. Global Ecology and Biogeography, 24(3), pp.276-292.
+[Lahoz‐Monfort, J.J., Guillera‐Arroita, G. and Wintle, B.A., 2014.](https://doi.org/10.1111/geb.12138) Imperfect detection impacts the performance of species distribution models. Global Ecology and Biogeography, 23(4), pp.504-515. 
