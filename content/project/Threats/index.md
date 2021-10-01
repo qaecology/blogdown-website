@@ -3,6 +3,8 @@
 
 title: "Threat management"
 summary: "With a focus on invasive predators and fire, we aim to understand how management actions and changes to these threats can improve conservation."
+date: 2021-08-26
+weight: 10
 tags: []
 categories: []
 

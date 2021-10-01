@@ -50,7 +50,7 @@ social:
   link: https://github.com/bhradsky
 - icon: address-card
   icon_pack: fas
-  link: www.wildzoologist.wordpress.com
+  link: https://wildzoologist.wordpress.com
 - icon: book
   icon_pack: fas
   link: https://scholar.google.com/citations?user=GXszTfUAAAAJ&hl=en&oi=ao

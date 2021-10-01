@@ -3,6 +3,8 @@
 
 title: "Statistical Methods and Monitoring Design"
 summary: "We work on a range of monitoring related projects, including optimal monitoring design, occupancy and detection, long-term trend analysis, and emerging conservation technologies."
+date: 2021-08-26
+weight: 3
 tags: []
 categories: []
 

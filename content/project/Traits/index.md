@@ -2,7 +2,9 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "Plant Functional Traits and Generalisations"
-summary: "Understanding how traits respond to the environment across multiple species can lead to predictions of distributions, habitat suitability and susceptibility to pressures such as droughts based on traits alone. This area of research is based on Trait-Environment Species Distribution Models and our research is currently focusing on Eucalyptus species."
+summary: "We investigate the traits of Eucalyptus species to understand generalisations of the traits, predictings distributions, habitat suitability and susceptibility to pressures such as droughts."
+date: 2021-08-26
+weight: 4
 tags: []
 categories: []
 
