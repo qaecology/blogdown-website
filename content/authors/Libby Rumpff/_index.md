@@ -1,41 +1,37 @@
 ---
 # Display name
-title: Michael McCarthy (he/him)
+title: Libby Rumpff (she/her)
 
 # Is this the primary user of the site?
 superuser: FALSE
 
 # Role/position
-role: Principal Researcher
+role: Research Fellow
 
 # Organizations/Affiliations
 organizations:
-- name: The University of Melbourne
-  url: "https://www.unimelb.edu.au/"
+- name: University of Melbourne
+  url: "https://unimelb.edu.au"
 
 # Short bio (displayed in user profile at end of posts)
-bio:
+bio: 
 
 interests:
-- Statistical Ecology
-- Imperfect Detection
-- Population Ecology
-- Ecological Modelling
+- Decision Analysis for Conservation and Research Management
+- Threatened Species and Communities
+- Fire Management
 
 education: #please leave blank
   # courses:
   # - course:
-  #   institution: 
-  #   year: 
+  #   institution:
+  #   year:
   # - course:
-  #   institution: 
-  #   year: 
+  #   institution:
+  #   year:
   # - course:
-  #   institution: 
-  #   year: 
-  # - course: 
-  #   institution: 
-  #   year: 
+  #   institution:
+  #   year:
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -44,20 +40,14 @@ education: #please leave blank
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:mamcca@unimelb.edu.au'
+  link: 'mailto:lrumpff@unimelb.edu.au'
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/mickresearch
-# - icon: github
-#   icon_pack: fab
-#   link: https://github.com/cvisintin
+  link: https://twitter.com/LibbyRumpff
 - icon: address-card
   icon_pack: fas
-  link: https://mickresearch.wordpress.com/
-- icon: book
-  icon_pack: fas
-  link: https://scholar.google.com.au/citations?user=vQ5iqnUAAAAJ
-    
+  link: https://rumpffresearch.wordpress.com
+
   
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -77,4 +67,5 @@ user_groups: #(please choose one from below and remove the others that aren't ne
 - Principal Investigators
 ---
 
-Mick builds and evaluates models that can assist improved environmental managers. He has worked across a range of ecosystems (aquatic to terrestrial) and species (plants, fungi, invertebrates, vertebrates). He likes combining mathematics with ecology, and has interests in statistical ecology. He is also currently the Deputy Dean of the Faculty of Science.
+
+Libby's work draws upon the practices of structured decision-making, adaptive management, and risk assessment. She works closely with management agencies to develop qualitative and quantitative models, facilitate expert elicitation workshops, and apply decision-making frameworks to various contexts. 

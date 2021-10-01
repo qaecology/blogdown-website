@@ -1,41 +1,38 @@
 ---
 # Display name
-title: Michael McCarthy (he/him)
+title: James Camac (he/him)
 
 # Is this the primary user of the site?
 superuser: FALSE
 
 # Role/position
-role: Principal Researcher
+role: Senior Research Fellow
 
 # Organizations/Affiliations
 organizations:
-- name: The University of Melbourne
-  url: "https://www.unimelb.edu.au/"
+- name: University of Melbourne
+  url: "https://cebra.unimelb.edu.au"
 
 # Short bio (displayed in user profile at end of posts)
-bio:
+bio: (short 1 - 2 sentence bio)
 
 interests:
-- Statistical Ecology
-- Imperfect Detection
-- Population Ecology
-- Ecological Modelling
+- Population Demographics
+- Fire Ecology
+- Biosecurity
+- Climate Change Impacts
 
 education: #please leave blank
   # courses:
   # - course:
-  #   institution: 
-  #   year: 
+  #   institution:
+  #   year:
   # - course:
-  #   institution: 
-  #   year: 
+  #   institution:
+  #   year:
   # - course:
-  #   institution: 
-  #   year: 
-  # - course: 
-  #   institution: 
-  #   year: 
+  #   institution:
+  #   year:
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -44,19 +41,16 @@ education: #please leave blank
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:mamcca@unimelb.edu.au'
+  link: 'mailto:James.camac@gmail.com'
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/mickresearch
-# - icon: github
-#   icon_pack: fab
-#   link: https://github.com/cvisintin
-- icon: address-card
-  icon_pack: fas
-  link: https://mickresearch.wordpress.com/
+  link: https://twitter.com/jscamac
+- icon: github
+  icon_pack: fab
+  link: https://github.com/jscamac
 - icon: book
   icon_pack: fas
-  link: https://scholar.google.com.au/citations?user=vQ5iqnUAAAAJ
+  link: https://scholar.google.com/citations?user=kj-3ipUAAAAJ&hl=en
     
   
 # Link to a PDF of your resume/CV from the About widget.
@@ -74,7 +68,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups: #(please choose one from below and remove the others that aren't needed)
-- Principal Investigators
+- Affiliates
 ---
 
-Mick builds and evaluates models that can assist improved environmental managers. He has worked across a range of ecosystems (aquatic to terrestrial) and species (plants, fungi, invertebrates, vertebrates). He likes combining mathematics with ecology, and has interests in statistical ecology. He is also currently the Deputy Dean of the Faculty of Science.
+James is a Chief Investigator within the Centre of Excellence for Biosecurity Risk Analysis (CEBRA). He is a quantitative and applied ecologist with extensive experience in field ecology, long-term ecological monitoring, experimental design, ecological statistics, reproducible data science, biosecurity risk analysis and project management. James' research focuses on two primary areas: 1) understanding and forecasting changes in biodiversity, especially under climate change; and 2) enhancing post-border surveillance networks to protect Australia's environmental, social and economic values from exotic pests and diseases.
