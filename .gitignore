@@ -2,7 +2,11 @@
 .idea/
 
 # Hugo
+options(blogdown.hugo.version = "0.82.0")
 /resources/
-public/
+/public/
 assets/jsconfig.json
 .Rproj.user
+
+.DS_Store
+Thumbs.db
