@@ -12,8 +12,8 @@ role: Research Fellow
 organizations:
 - name: University of Melbourne
   url: "http://unimelb.edu.au"
-- name: Museums Victoria
-  url: "https://museumsvictoria.com.au/"
+# - name: Museums Victoria
+#   url: "https://museumsvictoria.com.au/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: 

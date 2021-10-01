@@ -1,26 +1,26 @@
 ---
 # Display name
-title: Brendan Wintle (he/him)
+title: Kylie Soanes (she/her)
 
 # Is this the primary user of the site?
 superuser: FALSE
 
 # Role/position
-role: Professor of Conservation Ecology
+role: Research Fellow
 
 # Organizations/Affiliations
 organizations:
-- name: The University of Melbourne
-  url: "https://www.unimelb.edu.au/"
+- name: University of Melbourne
+  url: "https://unimelb.edu.au"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Brendan is a Professor in Conservation Ecology in the School of Ecosystem and Forest Sciences & one of the PIs in the QAECO group. He is interested in uncertainty and conservation decision making. 
+bio: 
 
 interests:
-- Threatened Species
-- Species Distribution Modelling
-- Making Decisions Under Uncertainty
-- Cost-Effectiveness of Conservation Programs
+- Urban Ecology
+- Threatened Species Conservation
+- Road Ecology
+- Artificial Habitats
 
 education: #please leave blank
   # courses:
@@ -39,18 +39,15 @@ education: #please leave blank
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-- icon: envelope
-  icon_pack: fas
-  link: 'mailto:b.wintle@unimelb.edu.au'
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/brenwintle
+  link: https://twitter.com/kyliesoanes
 - icon: address-card
   icon_pack: fas
-  link: https://brendanwintle.wordpress.com/about/
+  link: http://lifeontheverge.com.au
 - icon: book
   icon_pack: fas
-  link: https://scholar.google.com.au/citations?user=8lK0AfMAAAAJ&hl=en
+  link: https://www.researchgate.net/profile/Kylie-Soanes
     
   
 # Link to a PDF of your resume/CV from the About widget.
@@ -68,8 +65,9 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups: #(please choose one from below and remove the others that aren't needed)
-- Principal Investigators
+- Researchers
+
 ---
 
 
-Brendan specializes in modelling and analysis to support decision making and policy in conservation, particularly under uncertainty. He was the recent Director of the National Environmental Science Program's Threatened Species Recovery Hub, has served on Forest Stewardship Council reference committees, and various Commonwealth and State science advisory bodies including the Regional Sustainability Planning Advisory Committee, the Monitoring and Evaluation (MERI) advisory group, and the 'Save the Tasmanian Devil' Science Advisory Group. He is obsessed with arboreal marsupials and soccer. 
+Kylie is a conservation biologist with her sights set on saving species in cities and towns. Whether it's building bridges to help endangered possums cross busy roads,  working with architects to build designer houses for one of Australia's largest owls, or engaging citizen scientists to track the movement of city-dwelling fairy wrens, Kylie is always looking for new ways to help nature thrive in urban environments. Kylie is also a passionate science communicator, sharing her work with broader audiences through the media, public talks and her research blog, and her role as one of Science and Technology Australia's Superstars of STEM.

@@ -1,26 +1,26 @@
 ---
 # Display name
-title: Brendan Wintle (he/him)
+title: James Camac (he/him)
 
 # Is this the primary user of the site?
 superuser: FALSE
 
 # Role/position
-role: Professor of Conservation Ecology
+role: Senior Research Fellow
 
 # Organizations/Affiliations
 organizations:
-- name: The University of Melbourne
-  url: "https://www.unimelb.edu.au/"
+- name: University of Melbourne
+  url: "https://cebra.unimelb.edu.au"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Brendan is a Professor in Conservation Ecology in the School of Ecosystem and Forest Sciences & one of the PIs in the QAECO group. He is interested in uncertainty and conservation decision making. 
+bio: (short 1 - 2 sentence bio)
 
 interests:
-- Threatened Species
-- Species Distribution Modelling
-- Making Decisions Under Uncertainty
-- Cost-Effectiveness of Conservation Programs
+- Population Demographics
+- Fire Ecology
+- Biosecurity
+- Climate Change Impacts
 
 education: #please leave blank
   # courses:
@@ -41,16 +41,16 @@ education: #please leave blank
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:b.wintle@unimelb.edu.au'
+  link: 'mailto:James.camac@gmail.com'
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/brenwintle
-- icon: address-card
-  icon_pack: fas
-  link: https://brendanwintle.wordpress.com/about/
+  link: https://twitter.com/jscamac
+- icon: github
+  icon_pack: fab
+  link: https://github.com/jscamac
 - icon: book
   icon_pack: fas
-  link: https://scholar.google.com.au/citations?user=8lK0AfMAAAAJ&hl=en
+  link: https://scholar.google.com/citations?user=kj-3ipUAAAAJ&hl=en
     
   
 # Link to a PDF of your resume/CV from the About widget.
@@ -68,8 +68,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups: #(please choose one from below and remove the others that aren't needed)
-- Principal Investigators
+- Affiliates
 ---
 
-
-Brendan specializes in modelling and analysis to support decision making and policy in conservation, particularly under uncertainty. He was the recent Director of the National Environmental Science Program's Threatened Species Recovery Hub, has served on Forest Stewardship Council reference committees, and various Commonwealth and State science advisory bodies including the Regional Sustainability Planning Advisory Committee, the Monitoring and Evaluation (MERI) advisory group, and the 'Save the Tasmanian Devil' Science Advisory Group. He is obsessed with arboreal marsupials and soccer. 
+James is a Chief Investigator within the Centre of Excellence for Biosecurity Risk Analysis (CEBRA). He is a quantitative and applied ecologist with extensive experience in field ecology, long-term ecological monitoring, experimental design, ecological statistics, reproducible data science, biosecurity risk analysis and project management. James' research focuses on two primary areas: 1) understanding and forecasting changes in biodiversity, especially under climate change; and 2) enhancing post-border surveillance networks to protect Australia's environmental, social and economic values from exotic pests and diseases.
