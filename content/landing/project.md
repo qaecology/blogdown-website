@@ -6,7 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 55  # Order that this section will appear.
 
 title = "Projects"
-subtitle = "QAEco work on a range of topics, species and locations related to ecosystem management. Overall, we are committment to research regarding conservation and management decisions. We are passionate about modelling using a range of methods to understand more about the natural world. The topic highlighted below are a broad overview of our work. While we are based in Melbourne, Victoria, Australia our prjects are located throughout Australia with many international collaborations. For more information, collaborations or potential students, please contact the key people identified for the topic."
+subtitle = "QAEco work on a range of topics, species and locations related to ecosystem management. Overall, we are committed to research regarding conservation and management decisions. We are passionate about modelling using a range of methods to understand more about the natural world. The topics highlighted below are a broad overview of our work. While we are based in Melbourne, Victoria, Australia our projects are located throughout Australia and with many international collaborations."
 
 [content]
   # Page type to display. E.g. project.
