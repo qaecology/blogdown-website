@@ -6,7 +6,7 @@ title: James Camac (he/him)
 superuser: FALSE
 
 # Role/position
-role: Senior Research Fellow
+role: Research Fellow
 
 # Organizations/Affiliations
 organizations:
