@@ -10,3 +10,6 @@ assets/jsconfig.json
 
 .DS_Store
 Thumbs.db
+
+#R
+.Rhistory
