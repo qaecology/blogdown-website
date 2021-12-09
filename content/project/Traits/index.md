@@ -1,8 +1,10 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Plant Functional Traits and Generalisations"
-summary: "Understanding how traits respond to the environment across multiple species can lead to predictions of distributions, habitat suitability and susceptibility to pressures such as droughts based on traits alone. This area of research is based on Trait-Environment Species Distribution Models and our research is currently focusing on Eucalyptus species."
+title: " Functional Traits and Generalisations"
+summary: "We investigate the traits of Eucalyptus species to understand generalisations of the traits, predictings distributions, habitat suitability and susceptibility to pressures such as droughts."
+date: 2021-08-26
+weight: 4
 tags: []
 categories: []
 
@@ -13,7 +15,7 @@ external_link: ""
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: "Vesk, P.A., et al., (2021)."
+  caption: "Need to ask Peter Vesk for the citation"
   focal_point: ""
   preview_only: false
 
@@ -37,14 +39,17 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
-Understanding how traits respond to the environment across multiple species can lead to predictions of distributions, habitat suitability and susceptibility to pressures such as droughts based on traits alone. This area of research is based on Trait-Environment Species Distribution Models and our research is currently focusing on Eucalyptus species.
+Understanding how traits respond to the environment across multiple species can lead to predictions of distributions, habitat suitability and susceptibility to pressures such as droughts based on traits alone. We work to understand the traits and generalisations in various taxa, particularly Eucalyptus species.
 
 #### Researchers:  
-Peter Vesk, Saras Windecker, Rohan Khot, Antoinette Portelli, Ezra Janetzki, Gabrielle Cleary  
+[Peter Vesk]({{< ref "/authors/Peter Vesk" >}}), [Saras Windecker]({{< ref "/authors/Saras Windecker" >}}), [Mick McCarthy]({{< ref "/authors/Mick McCarthy" >}}), [Rohan Khot]({{< ref "/authors/Rohan Khot" >}}), Antoinette Portelli, [Ezra Janetzki]({{< ref "/authors/Ezra Janetzki" >}}), [Gabrielle Cleary]({{< ref "/authors/Gabrielle Cleary" >}})  
+  
 
 #### Affiliate researchers:  
-Will Morris, Laura Pollock, Esti Palma
-
-#### Publications:'
-
-[Vesk, P.A., Morris, W.K., Neal, W.C., Mokany, K. and Pollock, L.J., 2021.](https://onlinelibrary.wiley.com/doi/full/10.1111/ecog.05179) Transferability of trait‐based species distribution models. Ecography, 44(1), pp.134-147.
+Will Morris, Laura Pollock, Jian Yen, [James Camac]({{< ref "/authors/James Camac" >}}), Pia Lentini  
+  
+#### Selected publications:'
+[Vesk, P.A., Morris, W.K., Neal, W.C., Mokany, K. and Pollock, L.J., 2021.](https://doi.org/10.1111/ecog.05179) Transferability of trait‐based species distribution models. Ecography, 44(1), pp.134-147.
+  
+[Pollock, L.J., Morris, W.K., and Vesk, P.A. 2012.](https://doi.org/10.1111/j.1600-0587.2011.07085.x) The role of functional traits in species distributions revealed through a hierarchical model. Ecography 35: 716-725.
+  

@@ -6,7 +6,7 @@ title: Bonnie Wintle (she/her)
 superuser: FALSE
 
 # Role/position
-role: Senior Research Fellow
+role: Research Fellow
 
 # Organizations/Affiliations
 organizations:

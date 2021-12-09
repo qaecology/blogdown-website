@@ -6,7 +6,7 @@ title: Payal Bal (she/her)
 superuser: FALSE
 
 # Role/position
-role: Postdoctoral Research Fellow
+role: Research Fellow
 
 # Organizations/Affiliations
 organizations:

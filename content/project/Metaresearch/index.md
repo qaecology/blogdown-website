@@ -1,8 +1,10 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Metaresearch and reproducibility"
-summary: "Related to the Interdisciplinary Meta-Research Group (IMeRG), we study the science of how science is done. This is called metaresearch or metascience, and is important in understanding credibility, replicability and reproducibility of scientific claims."
+title: "Metaresearch and Reproducibility"
+summary: "Related to the MetaMelb lab, we study the science of how science is done. This is called metaresearch or metascience, and is important in understanding credibility, replicability and reproducibility of scientific claims."
+date: 2021-08-26
+weight: 6
 tags: []
 categories: []
 
@@ -19,11 +21,9 @@ image:
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
-# links:
-# - name: Interdisciplinary Meta-Research Group (IMeRG)
-#   url: https://imerg.info
-# icon: address-card
-#   icon_pack: fas
+links:
+- name: MetaMelb
+  url: https://www.metamelb.org
 #   icon_pack: fab
 #   icon: twitter
 
@@ -40,15 +40,18 @@ url_video: ""
 slides: ""
 ---
 
-Related to the Interdisciplinary Meta-Research Group (IMeRG), we study the science of how science is done. This is called metaresearch or metascience, and is important in understanding credibility, replicability and reproducibility of scientific claims.
+Related to the MetaMelb lab, we study the science of how science is done. This is called metaresearch or metascience, and is important in understanding credibility, replicability and reproducibility of scientific claims.
 
 #### Researchers:
-Fiona Fidler, David Wilkinson, Elliot Gould, Hannah Fraser, Bonnie Wintle, Peter Vesk, Mick McCarthy, Rebecca Groenewegen, Libby Rumpff, Anca Hanea
+Fiona Fidler, David Wilkinson, [Elliot Gould]({{< ref "/authors/Elliot Gould" >}}), Hannah Fraser, [Bonnie Wintle]({{< ref "/authors/Bonnie Wintle" >}}), [Peter Vesk]({{< ref "/authors/Peter Vesk" >}}), [Mick McCarthy]({{< ref "/authors/Mick McCarthy" >}}), [Rebecca Groenewegen]({{< ref "/authors/Rebecca Groenewegen" >}}), [Libby Rumpff]({{< ref "/authors/Libby Rumpff" >}}),  Anca Hanea
 
-#### Publications:
-[Wintle, B., Mody, F., Smith, E., Hanea, A., Wilkinson, D.P., Hemming, V., Bush, M., Fraser, H., Thorn, F.S., McBride, M. and Gould, E., 2021.](https://osf.io/preprints/metaarxiv/vtpmb/) Predicting and reasoning about replicability using structured groups.
+#### Affiliate researchers:
+Victoria Hemming, Mark Burgman
 
-[Fraser, H., Bush, M., Wintle, B., Mody, F., Smith, E., Hanea, A., Gould, E., Hemming, V., Hamilton, D., Rumpff, L. & Wilkinson, D.P., 2021.](https://osf.io/preprints/metaarxiv/2pczv/) Predicting reliability through structured expert elicitation with repliCATS (Collaborative Assessments for Trustworthy Science).
+#### Selected publications:
+[Wintle, B., Mody, F., Smith, E., Hanea, A., Wilkinson, D.P., Hemming, V., Bush, M., Fraser, H., Thorn, F.S., McBride, M. and Gould, E., 2021.](https://doi.org/10.31222/osf.io/vtpmb) Predicting and reasoning about replicability using structured groups.
 
-[Fidler, F., & Wilcox, J., 2018.](https://plato.stanford.edu/entries/scientific-reproducibility/) Reproducibility of scientific results.
+[Fraser, H., Bush, M., Wintle, B., Mody, F., Smith, E., Hanea, A., Gould, E., Hemming, V., Hamilton, D., Rumpff, L. & Wilkinson, D.P., 2021.](https://doi.org/10.31222/osf.io/2pczv) Predicting reliability through structured expert elicitation with repliCATS (Collaborative Assessments for Trustworthy Science).
+
+[Hemming, V., Burgman, M.A., Hanea, A.M., McBride, M.F. and Wintle, B.C., 2018.](https://doi.org/10.1111/2041-210X.12857) A practical guide to structured expert elicitation using the IDEA protocol. Methods in Ecology and Evolution, 9(1), pp.169-180.
 
