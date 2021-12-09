@@ -92,7 +92,7 @@ phone = ""
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "Bioscieces 2, Building 122, Parkville Campus, University of Melbourne", city = "Parkville", region = "VIC", postcode = "3050", country = "Australia", country_code = "AU"}
+address = {street = "Biosciences 2, Building 122, Parkville Campus, University of Melbourne", city = "Parkville", region = "VIC", postcode = "3050", country = "Australia", country_code = "AU"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.

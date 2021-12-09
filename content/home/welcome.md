@@ -17,4 +17,4 @@ advanced:
   css_class:
 ---
 
-QAEco acknowledge the Traditional Owners of the land on which we live and work, the Wurundjeri people of the Kulin Nations, and pay our respects to their Elders, past, present and emerging.
+QAEco acknowledges the Traditional Owners of the lands on which we live and work, across Australia and the Torres Strait Islands. Sovereignty was never ceded; these lands always were, and always will be, the lands of Aboriginal and Torres Strait Islander People.  We pay our respects to their Elders, past and present.

@@ -11,11 +11,11 @@
   
 [[main]]
   name = "About Our Work"
-  url = "about-us"
+  url = "landing"
   weight = 40
 
 [[main]]
-  name = "Contact Us"
+  name = "Prospective Students"
   url = "contact"
   weight = 50
 

@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Alys Young
+title: Alys Young (she/her)
 
 # Is this the primary user of the site?
 superuser: true
@@ -10,14 +10,18 @@ role: PhD Candidate / Research Assistant
 
 # Organizations/Affiliations
 organizations:
-- name: Deakin University
-  url: ""
+- name: Deakin University 
+  url: "https://www.deakin.edu.au/cie"
+- name: University of Melbourne 
+  url: "https://unimelb.edu.au"
 
 # Short bio (displayed in user profile at end of posts)
 bio:  
 
 interests:
-- Alys is a PhD candidate at Deakin University modelling biodiversity on the Tiwi Islands. 
+- Species Distribution Modelling
+- Remote-sensing data
+- Indigenous Ecological Knowledge
 
 education:
   courses:
@@ -26,10 +30,10 @@ education:
     year: 2020 - ongoing
   - course: Master of Science (Biosciences)
     institution: University of Melbourne
-    year: 2019 - 2020
-  - course: BSc
+    year: 2018 - 2019
+  - course: Bachelor of Science (Zoology)
     institution: University of Melbourne
-    year: 2015 - 2018
+    year: 2015 - 2017
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -38,7 +42,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:'
+  link: 'mailto:alysrhiannon.young@unimelb.edu.au'
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/EcoAlys
@@ -60,8 +64,18 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Affiliates
+- Researchers
 ---
 
 
-Alys is a PhD candidate at Deakin University modelling biodiversity on the Tiwi Islands. 
+Alys is a PhD student at Deakin University with supervisors from Deakin, the University of Melbourne, and Charles Darwin University. Working with the Tiwi people and land council on the Tiwi Islands, Alys investigates biodiversity modelling, particularly of threatened or culturally important species, to inform sustainable development. More generally, she is interested in data analysis, modelling, and coding. She is also a Research Assistant at the University of Melbourne undertaking data management, visualisation and creating shiny apps.
+
+
+#### Supervisors:
+Professor Emily Nicholson  
+Dr Guruzeta Guillera-Arroita  
+Dr Hugh Davies   
+
+#### Key themes:
+[Species Distribution Modelling]({{< ref "/project/Distributions" >}})  
+[Indigenous Ecological Knowledge]({{< ref "/project/IEK" >}})
