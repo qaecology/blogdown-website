@@ -6,7 +6,7 @@ title: Cindy Hauser (she/her)
 superuser: FALSE
 
 # Role/position
-role: Honorary Senior Research Fellow
+role: Honorary Research Fellow
 
 # Organizations/Affiliations
 organizations:
