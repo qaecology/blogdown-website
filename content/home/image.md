@@ -10,7 +10,7 @@ active: true
 headless: true
 
 # Order that this section appears on the page.
-weight: 10
+weight: 1
 
 title:
 subtitle:
@@ -18,14 +18,14 @@ subtitle:
 design:
   columns: "1"
   background:
-    image: img_1977.jpg
+    image: Alys Young - Malleefowl monitoring.jpg
     image_darken: 0
-    image_parallax: false
+    image_parallax: true
     image_position: center
     image_size: cover
     text_color_light: true
   spacing:
-    padding: ["20px", "0", "20px", "0"]
+    padding: ["0", "0", "0", "0"]
 advanced:
   css_class: fullscreen
 ---
