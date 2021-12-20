@@ -6,7 +6,7 @@ title: Michael McCarthy (he/him)
 superuser: FALSE
 
 # Role/position
-role: Principal Researcher
+role: Professor
 
 # Organizations/Affiliations
 organizations:
