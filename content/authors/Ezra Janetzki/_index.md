@@ -14,7 +14,7 @@ organizations:
   url: "http://unimelb.edu.au"
 
 # Short bio (displayed in user profile at end of posts)
-bio: (short 1 - 2 sentence bio)
+bio: 
 
 interests:
 - Plant Functional Traits
