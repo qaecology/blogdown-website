@@ -27,4 +27,4 @@ advanced:
   css_class: fullscreen
 ---
 
-Photo credits: _(home page)_ Top image 'malleefowl monitoring' by Alys Young, no date, bottom image 'Bael Bael ute' by Islay McDougall, 2021. _(Prospective Students page)_ Top image 'Murray Sunset NP' by K Knights, 2018.
+Photo credits: _(home page)_ Top image 'Malleefowl monitoring in Little Desert NP, Victoria' by Alys Young, 2018; Bottom image 'Bael Bael ute' by Islay McDougall, 2021. _(Prospective Students page)_ Top image 'Murray Sunset NP' by K Knights, 2018.
