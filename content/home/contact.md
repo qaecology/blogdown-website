@@ -23,4 +23,4 @@ If you are interested in working with us, visiting the lab or collaborating on a
 
 Prospective students can find details about applying for a course and what to send to potential supervisors on the [Prospective Students]({{< relref "/contact">}}) page.
 
-{{< figure library="true" src="photos2.jpg" title="_(clockwise from top left)_ Peter Vesk, fern; Emily McColl-Gausden, 2021; Pia Lentini, Gould's wattled bat _Chalinolobus gouldii_; Sandra Penman, foothills forest; Pia Lentini, 2018, Leadbeater's fieldwork; Alys Young, malleefowl monitoring; Islay McDougall, 2021, Cobboboonee NP half-burnt." >}}
+{{< figure library="true" src="photos2.jpg" title="_(clockwise from top left)_ Peter Vesk, fern, no date; Emily McColl-Gausden, 2021; Pia Lentini, Gould's wattled bat _Chalinolobus gouldii_, no date; Sandra Penman, foothills forest, no date; Pia Lentini, Leadbeater's fieldwork, 2018; Alys Young, malleefowl monitoring, no date; Islay McDougall, Cobboboonee NP half-burnt, 2021." >}}
