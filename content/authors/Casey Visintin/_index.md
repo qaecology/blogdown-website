@@ -8,7 +8,6 @@ superuser: FALSE
 # Role/position
 role: Research Fellow
 
-
 # Organizations/Affiliations
 organizations:
 - name: RMIT
