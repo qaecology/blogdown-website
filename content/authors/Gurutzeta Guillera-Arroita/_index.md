@@ -45,15 +45,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 'mailto:gurutzeta.guillera@unimelb.edu.au'
- - icon: twitter
-   icon_pack: fab
-   link: https://twitter.com/GGuillera
-#- icon: github
-#  icon_pack: fab
-#  link: https://github.com/cvisintin
-# - icon: address-card
-#   icon_pack: fas
-#   link: (personal website URL)
+- icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/GGuillera
 - icon: book
   icon_pack: fas
   link: https://scholar.google.com/citations?user=ZClrTegAAAAJ&hl=en
