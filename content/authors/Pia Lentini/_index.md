@@ -6,7 +6,7 @@ title: Pia Lentini (she/her)
 superuser: FALSE
 
 # Role/position
-role: Honorary Research Fellow
+role: Research Fellow
 
 # Organizations/Affiliations
 organizations:

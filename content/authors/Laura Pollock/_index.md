@@ -6,7 +6,7 @@ title: Laura Pollock (she/her)
 superuser: FALSE
 
 # Role/position
-role: Affiliate Researcher
+role: Assistant Professor
 
 # Organizations/Affiliations
 organizations:

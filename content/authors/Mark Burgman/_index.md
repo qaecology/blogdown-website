@@ -6,7 +6,7 @@ title: Mark Burgman (he/him)
 superuser: FALSE
 
 # Role/position
-role: Research
+role: Professor
 
 # Organizations/Affiliations
 organizations:

@@ -6,7 +6,7 @@ title: Naomi Indigo (she/her)
 superuser: FALSE
 
 # Role/position
-role: Science Communications Officer (TSR Hub), Post Doctoral Research Assistant
+role: Research Assistant
 
 # Organizations/Affiliations
 organizations:

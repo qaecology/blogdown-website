@@ -6,7 +6,7 @@ title: Alyson Stobo-Wilson (she/her)
 superuser: FALSE
 
 # Role/position
-role: Postdoctoral Fellow
+role: Research Fellow
 
 # Organizations/Affiliations
 organizations:
