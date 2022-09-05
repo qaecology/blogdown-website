@@ -62,7 +62,7 @@ user_groups: #(please choose one from below and remove the others that aren't ne
 ---
 
 
-Olivia is currently completing her Masters of BioSciences under the supervision of Dr Brendan Wintle. She is designing a statewide monitoring program for the Bogong moth (Agrotis Infusa), a species renowned for its annual summer migration to the Australian Alps. This program will be used to understand what drivers may have caused recent declines in this ecologically and culturally important species. 
+Olivia is currently completing her Masters of BioSciences under the supervision of Dr Brendan Wintle. She is designing a statewide monitoring program for the Bogong moth (*Agrotis infusa*), a species renowned for its annual summer migration to the Australian Alps. This program will be used to understand what drivers may have caused recent declines in this ecologically and culturally important species. 
 
-Olivia has had previous experience researching the impact of Artificial Light at Night (ALAN) on native bird species and has interned for the Taungurung Land and Waters Council. She also has a strong interest in Science communication and enjoys spreading knowledge about ecological research through art and film. 
+Olivia has had previous experience researching the impact of Artificial Light at Night (ALAN) on native bird species and has interned for the Taungurung Land and Waters Council. She also has a strong interest in science communication and enjoys spreading knowledge about ecological research through art and film. 
 
