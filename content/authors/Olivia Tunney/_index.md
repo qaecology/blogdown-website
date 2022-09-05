@@ -17,7 +17,7 @@ organizations:
 bio: (short 1 - 2 sentence bio)
 
 interests:
-- Species Distribution MOdelling
+- Species Distribution Modelling
 - Ecological Monitoring
 - Science Communication
 
@@ -41,18 +41,6 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 'mailto:oliviatunney@hotmail.com'
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/
-- icon: github
-  icon_pack: fab
-  link: https://github.com/
-- icon: address-card
-  icon_pack: fas
-  link: 
-- icon: book
-  icon_pack: fas
-  link: 
     
   
 # Link to a PDF of your resume/CV from the About widget.
