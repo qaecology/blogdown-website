@@ -45,10 +45,13 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/palma_estibaliz
+- icon: address-card
+  icon_pack: fas
+  link: https://epalmablog.wordpress.com/about/
 - icon: book
   icon_pack: fas
-  link: https://scholar.google.com.au/citations?user=COzUKMwAAAAJ&hl=en
-    
+  link: https://scholar.google.com.au/citations?user=ZC24JQYAAAAJ&hl=en
+  
   
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
