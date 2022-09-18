@@ -6,10 +6,12 @@ title: Matthew Rees (he/him)
 superuser: FALSE
 
 # Role/position
-role: PhD Candidate
+role: Postdoctoral Fellow
 
 # Organizations/Affiliations
 organizations:
+- name: CSIRO
+  url: "https://www.csiro.au/en/"
 - name: The University of Melbourne
   url: "https://www.unimelb.edu.au/"
 
@@ -71,7 +73,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups: #(please choose one from below and remove the others that aren't needed)
-- Researchers
+- Affiliates
 ---
 
 Matt focuses on the optimal management and monitoring of threatened and invasive species, particularly predators. His PhD details the interactions between introduced foxes, feral cats and threatened prey, set against a backdrop of intensive fox control and prescribed fire. 
