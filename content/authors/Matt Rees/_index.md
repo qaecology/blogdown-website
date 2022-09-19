@@ -19,10 +19,10 @@ organizations:
 bio:  
 
 interests:
-- Spatiotemporal population dynamics
-- Optimal survey design
-- Hierarchical models
-- Predator-prey interactions
+- Invasive Species
+- Predator Ecology
+- Data Integration
+- Conservation and Agricultural Decision-Making
 
 education: #please leave blank
   # courses:
