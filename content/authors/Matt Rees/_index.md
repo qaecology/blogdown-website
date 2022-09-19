@@ -76,4 +76,4 @@ user_groups: #(please choose one from below and remove the others that aren't ne
 - Affiliates
 ---
 
-Matt focuses on the optimal management and monitoring of threatened and invasive species, particularly predators. His PhD details the interactions between introduced foxes, feral cats and threatened prey, set against a backdrop of intensive fox control and prescribed fire. 
+Matt focuses on the optimal management and monitoring of threatened and invasive species, particularly predators. His PhD detailed the interactions between introduced foxes, feral cats and threatened prey, set against a backdrop of intensive fox control and prescribed fire. 
