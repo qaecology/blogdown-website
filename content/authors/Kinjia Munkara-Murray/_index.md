@@ -63,4 +63,4 @@ user_groups: #(please choose one from below and remove the others that aren't ne
 
 ---
 
-Kinjia is studying native ant biodiversity on Bathurst Island, and she is interested in how Species Distribution Modelling can be used to reinforce Indigenous knowledge practices.
+Kinjia studied native ant biodiversity on Bathurst Island, and she is interested in how Species Distribution Modelling can be used to reinforce Indigenous knowledge practices.
