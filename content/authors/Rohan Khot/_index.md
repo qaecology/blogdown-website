@@ -6,7 +6,7 @@ title: Rohan Khot (he/him)
 superuser: FALSE
 
 # Role/position
-role: Master's Student
+role: Former Student
 
 # Organizations/Affiliations
 organizations:
@@ -59,8 +59,8 @@ highlight_name: false
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups: #(please choose one from below and remove the others that aren't needed)
 
-- Researchers
+- Affiliates
 
 ---
 
-Rohan is currently completing his Masters degree at QAEco, working on a project modelling the distributions of Eucalypt species in the Grampians-Gariwerd National Park using Functional Traits. Outside of the university, Rohan works on the Forest Protection Survey Program doing Flora and Fauna Surveys around Victoria. He also enjoys playing Soccer on the weekend, riding bicycles, and losing chess games on the internet.
+Rohan is completed his Masters degree at QAEco, working on a project modelling the distributions of Eucalypt species in the Grampians-Gariwerd National Park using Functional Traits. Outside of the university, Rohan works on the Forest Protection Survey Program doing Flora and Fauna Surveys around Victoria. He also enjoys playing Soccer on the weekend, riding bicycles, and losing chess games on the internet.
