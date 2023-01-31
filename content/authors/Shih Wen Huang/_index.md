@@ -6,7 +6,7 @@ title: Jenny Huang (she/her)
 superuser: false
 
 # Role/position
-role: Master's Student
+role: Former Student
 
 # Organizations/Affiliations
 organizations:
@@ -65,6 +65,6 @@ user_groups:
 - Affiliates
 ---
 
-Jenny Huang holds a Bachelor of Science degree majoring in Environmental Science from the University of Melbourne. She completed her Master thesis in QAEco with Dr Libby Rumpff, Dr Hannah Fraser and Dr Josephine MacHunter on the use of expert knowledge in supporting bushfire management for animal conservation. 
+Jenny Huang holds a Bachelor of Science degree majoring in Environmental Science from the University of Melbourne. She completed her Master's thesis in QAEco with Dr Libby Rumpff, Dr Hannah Fraser and Dr Josephine MacHunter on the use of expert knowledge in supporting bushfire management for animal conservation. 
 
 Her career goal is to continue contributing to ecological conservation through integrating research with management and monitoring.
