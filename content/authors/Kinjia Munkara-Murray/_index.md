@@ -6,7 +6,7 @@ title: Kinjia Munkara-Murray (she/her)
 superuser: FALSE
 
 # Role/position
-role: Master's Student
+role: Former Student
 
 # Organizations/Affiliations
 organizations:
@@ -59,7 +59,7 @@ highlight_name: false
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups: #(please choose one from below and remove the others that aren't needed)
 
-- Researchers
+- Affiliates
 
 ---
 
