@@ -1,12 +1,11 @@
----
-# Display name
+$ Display name
 title: Emily McColl-Gausden (she/her)
 
 # Is this the primary user of the site?
 superuser: FALSE
 
 # Role/position
-role: PhD Candidate
+role: Research Fellow
 
 # Organizations/Affiliations
 organizations:
@@ -41,7 +40,7 @@ education: #please leave blank
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:mccolle@student.unimelb.edu.au'
+  link: 'mailto:emily.mccoll@unimelb.edu.au'
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/EcoEmcg
@@ -68,4 +67,4 @@ user_groups: #(please choose one from below and remove the others that aren't ne
 - Researchers
 
 ---
-Emily is a PhD student working predominately on environmental DNA (eDNA) sampling and detection methods. She is particularly interested in the application of eDNA methods to different ecological questions such as bushfire recovery and large-scale sampling projects. Emily's work spans the eDNA sampling process from fieldwork to statistical analysis and uses various ecological modelling techniques such as site occupancy detection models.  
+Emily is a research fellow developing a Victorian Biodiversity Index and spatial gap analysis with DEECA. She is particularly interested in applying ecological modelling methods to different ecological questions, including imperfect detection and site occupancy-detection models, environmental DNA sampling and large-scale sampling projects. 
