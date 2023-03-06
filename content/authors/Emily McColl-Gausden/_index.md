@@ -1,4 +1,4 @@
-$ Display name
+# Display name
 title: Emily McColl-Gausden (she/her)
 
 # Is this the primary user of the site?
