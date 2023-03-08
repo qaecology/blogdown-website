@@ -1,6 +1,6 @@
 ---
 # Display name
-title: James Kelleher (he/him)
+title: Saoirse Kelleher (she/her)
 
 # Is this the primary user of the site?
 superuser: FALSE
@@ -62,4 +62,4 @@ user_groups: #(please choose one from below and remove the others that aren't ne
 - Researchers
 ---
 
-James Kelleher is a PhD student studying the performance of correlative and mechanistic species distribution models using simulated testing systems. He is also interested in conservation technology and remote sensing, particularly for non-invasive wildlife monitoring and efficient data collection. James has previously worked on projects involving bat-mosquito interactions, sound pollution in national parks, and crustacean signaling pathways.
+Saoirse Kelleher is a PhD student studying the performance of correlative and mechanistic species distribution models using simulated testing systems. She is also interested in conservation technology and remote sensing, particularly for non-invasive wildlife monitoring and efficient data collection. Saoirse has previously worked on projects involving bat-mosquito interactions, sound pollution in national parks, and crustacean signaling pathways.
