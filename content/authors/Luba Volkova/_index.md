@@ -49,6 +49,12 @@ social:
 - icon: book
   icon_pack: fas
   link: https://www.researchgate.net/profile/Liubov-Volkova-3
+- icon: book
+  icon_pack: fas
+  link: https://scholar.google.com.au/citations?hl=en&user=K2K-TTwAAAAJ
+  
+  
+
  
   
 # Link to a PDF of your resume/CV from the About widget.
