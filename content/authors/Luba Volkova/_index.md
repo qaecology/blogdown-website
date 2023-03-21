@@ -48,8 +48,8 @@ social:
   link: 'mailto:lubav@unimelb.edu.au'
 - icon: book
   icon_pack: fas
-  link: 'https://www.researchgate.net/profile/Liubov-Volkova-3'
-    
+  link: https://www.researchgate.net/profile/Liubov-Volkova-3
+ 
   
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -58,14 +58,14 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-#email: ""
+email: ""
 
 # Highlight the author in author lists? (true/false)
-#highlight_name: false
+highlight_name: false
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-#user_groups: #(please choose one from below and remove the others that aren't needed)
+user_groups: #(please choose one from below and remove the others that aren't needed)
 - Affiliates
 ---
 
