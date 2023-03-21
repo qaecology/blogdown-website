@@ -12,8 +12,10 @@ role: Senior Research Fellow
 
 # Organizations/Affiliations
 organizations:
-- name: The University of Melbourne/ CSIRO
+- name: The University of Melbourne
   url: "https://findanexpert.unimelb.edu.au/profile/187750-luba-volkova"
+- name: CSIRO
+  url: "https://www.csiro.au/en/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: Luba has nationally recognised expertise in bushfire fuel management and is the lead author of the publications forming the basis of the current Australian forest fire emissions reporting to the UNFCCC. Luba is a Technical Expert for the UNFCCC for Agriculture, Forestry and Other Land Use and REDD+.
