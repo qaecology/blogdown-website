@@ -48,7 +48,7 @@ social:
   link: 'mailto:lubav@unimelb.edu.au'
 - icon: book
   icon_pack: fas
-  link: https://www.researchgate.net/profile/Liubov-Volkova-3
+  link: 'https://www.researchgate.net/profile/Liubov-Volkova-3'
     
   
 # Link to a PDF of your resume/CV from the About widget.
