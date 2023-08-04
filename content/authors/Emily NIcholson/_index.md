@@ -10,14 +10,16 @@ role: Professor, Conservation Science
 
 # Organizations/Affiliations
 organizations:
-- name: Deakin University
+- name: The University of Melbourne
   url: "https://conservationscience.org.au/"
+- name: Deakin University
+  url: "https://www.deakin.edu.au/about-deakin/people/emily-nicholson"
 
 # Short bio (displayed in user profile at end of posts)
-bio: 
-
+bio: Emily is a Professor of Conservation Biology developing new theory and tools for improved conservation outcomes, built on multidisciplinary collaboration, scientific excellence and impact on policy and practice.
 interests:
 - Conservation Science
+- Ecosystem science
 
 education: #please leave blank
   # courses:
@@ -36,6 +38,9 @@ education: #please leave blank
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
+- icon: envelope
+  icon_pack: fas
+  link: 'mailto:emily.nicholson@unimelb.edu.au'
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/n_ylime
@@ -62,9 +67,9 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups: #(please choose one from below and remove the others that aren't needed)
-
-- Affiliates
+- Principal Investigators
 ---
 
+I am a Professor of Conservation Biology at The University of Melbourne, in the School of Agriculture, Food and Ecosystem Sciences (SAFES). Prior to this, I worked at Deakin University form 2015 to 2023, and from 2012 until Feb 2015, I was a Centenary Research Fellow at The University of Melbourne, in QAEco. Before that, I was a Marie Curie postdoctoral fellow at Imperial College London, working with E.J. Milner-Gulland and her group (2007-2012), and a postdoc in the Woodrow Wilson School at Princeton University, working with David Wilcove (2006-2007).
 
-Emily was a postdoc with Qaeco from 2012-2015, when she moved to Deakin to take up a lectureship. 
+I develop new theory and tools for improved conservation outcomes, built on multidisciplinary collaboration, scientific excellence and impact on policy and practice. My interests include global conservation policy, predicting the impacts of change on biodiversity and dependent human well-being, and making better conservation decisions. A major focus over the last decade has been the development of a new framework for understanding, quantifying and predicting risks to ecosystems, the IUCN Red List of Ecosystems, with demonstrated impacts on conservation policy and practice, at global and local levels.

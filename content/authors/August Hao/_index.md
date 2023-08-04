@@ -6,12 +6,15 @@ title: August (Tianxiao) Hao (he/him)
 superuser: FALSE
 
 # Role/position
-role: PhD Candidate
+role: PhD Candidate alumni
 
 # Organizations/Affiliations
 organizations:
+- name: Telethon Kids Institute
+  url: "https://www.telethonkids.org.au/contact-us/our-people/h/tianxiao-august-hao/"
 - name: University of Melbourne
   url: "https://www.unimelb.edu.au/"
+  
 
 # Short bio (displayed in user profile at end of posts)
 bio: August is a PhD student working on describing the biogeographic patterns of terrestrial Fungi in Australia. He is interested in the use of species distribution model-based methods for studying biogeography, particularly for discovering biogeographic regions and their boundaries.
@@ -65,8 +68,8 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups: #(please choose one from below and remove the others that aren't needed)
-- Researchers
+- Affiliates
 ---
 
 
-August is a PhD student working on describing the biogeographic patterns of terrestrial Fungi in Australia. He is interested in the use of species distribution model-based methods for studying biogeography, particularly for discovering biogeographic regions and their boundaries. He is also interested in exploring the best uses of citizen science data and soil environmental DNA data in studies of biogeography, as these are increasingly important sources of biodiversity information for understudied taxa like Fungi.
+August undertook their PhD describing the biogeographic patterns of terrestrial Fungi in Australia. He is interested in the use of species distribution model-based methods for studying biogeography, particularly for discovering biogeographic regions and their boundaries. He is also interested in exploring the best uses of citizen science data and soil environmental DNA data in studies of biogeography, as these are increasingly important sources of biodiversity information for understudied taxa like Fungi.

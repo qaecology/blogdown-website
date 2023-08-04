@@ -6,7 +6,7 @@ title: Kylle Quinn (he/him)
 superuser: FALSE
 
 # Role/position
-role: Master's Student
+role: Master's Student alumni
 
 # Organizations/Affiliations
 organizations:
@@ -61,11 +61,10 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups: #(please choose one from below and remove the others that aren't needed)
-
-- Researchers
+- Affiliates
 
 ---
 
-Kylle Quinn completed a Bachelor of Science majoring in Zoology at the University of Melbourne in 2018. He is currently a research Master's student creating a spatially-explicit population viability analysis for the endangered black-throated finch under the supervision of Professor Brendan Wintle and Dr April Reside from the University of Queensland. 
+Kylle Quinn completed a Bachelor of Science majoring in Zoology at the University of Melbourne in 2018. He completed his masters creating a spatially-explicit population viability analysis for the endangered black-throated finch under the supervision of Professor Brendan Wintle and Dr April Reside from the University of Queensland. 
 
 He hopes to help create more effective management for Australia's endangered animal species using field data and ecological modelling.

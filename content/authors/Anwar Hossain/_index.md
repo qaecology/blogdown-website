@@ -5,7 +5,7 @@ title: Md Anwar Hossain (he/him)
 superuser: FALSE
 
 # Role/position
-role: PhD Candidate
+role: PhD Candidate alumni
 
 # Organizations/Affiliations
 organizations:
@@ -70,8 +70,8 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups: #(please choose one from below and remove the others that aren't needed)
-- Researchers
+- Affiliates
 ---
 
 
-Anwar is studying the distribution and ecology of Australian grasshoppers for his PhD. He is interested in understanding factors that underlie species distribution at different spatial scales. He is transcribing and geocoding field notebooks of the Australian orthopterist Ken H. L. Key and using them to in spatial analyses to understand their distributional patterns. He is also doing empirical work on grasshopper ecophysiology and habitat use to better understand their ecological requirements and to develop detection models.
+Anwar studyied the distribution and ecology of Australian grasshoppers for his PhD. He is interested in understanding factors that underlie species distribution at different spatial scales. He is transcribing and geocoding field notebooks of the Australian orthopterist Ken H. L. Key and using them to in spatial analyses to understand their distributional patterns. He is also doing empirical work on grasshopper ecophysiology and habitat use to better understand their ecological requirements and to develop detection models.

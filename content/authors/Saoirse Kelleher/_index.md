@@ -1,12 +1,12 @@
 ---
 # Display name
-title: Libby Rumpff (she/her)
+title: Saoirse Kelleher (she/her)
 
 # Is this the primary user of the site?
 superuser: FALSE
 
 # Role/position
-role: Research Fellow alumni
+role: PhD candidate
 
 # Organizations/Affiliations
 organizations:
@@ -17,9 +17,10 @@ organizations:
 bio: 
 
 interests:
-- Decision Analysis for Conservation and Research Management
-- Threatened Species and Communities
-- Fire Management
+- Species Distribution Modelling
+- Conservation Technology
+- Remote Sensing
+- Bioacoustics
 
 education: #please leave blank
   # courses:
@@ -40,13 +41,7 @@ education: #please leave blank
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:lrumpff@unimelb.edu.au'
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/LibbyRumpff
-- icon: address-card
-  icon_pack: fas
-  link: https://rumpffresearch.wordpress.com
+  link: 'mailto:saoirse.kelleher@student.unimelb.edu.au'
 
   
 # Link to a PDF of your resume/CV from the About widget.
@@ -64,8 +59,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups: #(please choose one from below and remove the others that aren't needed)
-- Affiliates
+- Researchers
 ---
 
-
-Libby's work draws upon the practices of structured decision-making, adaptive management, and risk assessment. She works closely with management agencies to develop qualitative and quantitative models, facilitate expert elicitation workshops, and apply decision-making frameworks to various contexts. 
+Saoirse Kelleher is a PhD student studying the performance of correlative and mechanistic species distribution models using simulated testing systems. She is also interested in conservation technology and remote sensing, particularly for non-invasive wildlife monitoring and efficient data collection. Saoirse has previously worked on projects involving bat-mosquito interactions, sound pollution in national parks, and crustacean signaling pathways.

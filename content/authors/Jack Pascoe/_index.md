@@ -65,7 +65,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups: #(please choose one from below and remove the others that aren't needed)
-- Affiliates
+- Researchers
 ---
 
 Jack is a Yuin man who grew up on Gadabanut Country before leaving to study Environmental Science at Deakin University. Jack completed a PhD with the University of Western Sydney where he studied the predators of the Blue Mountains. His key fields of interest are fire ecology and biocultural landscapes. Jack was previously Chairperson of the Board of Directors of Black Duck Foods, an NGO whose objective include the restoration of indigenous food production systems on Country. Jack is currently the Conservation and Research Manager for the Conservation Ecology Centre (CEC) and is passionate about restoring productive ecosystems on Maar country where CEC operations are based. Jack is currently a member on the Independent Expert Panel reviewing the Wildlife Act 1975 on behalf of the Minister for Energy, Environment and Climate Change. Jack is also a member of the Department of Environment, Land, Water and Planning's Scientific Reference Panel and Zoos Victoria's Scientific Advisory Committee. 
