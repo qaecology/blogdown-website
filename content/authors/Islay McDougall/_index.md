@@ -6,7 +6,7 @@ title: Islay McDougall (she/her)
 superuser: FALSE
 
 # Role/position
-role: Master's Student
+role: Master's Student alumni
 
 # Organizations/Affiliations
 organizations:
@@ -58,8 +58,8 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups: #(please choose one from below and remove the others that aren't needed)
-- Researchers
+- Affiliates
 
 ---
 
-Islay is a Master's student building species distribution models for Plains-wanderers. Her research is developing temporally explicit species distribution models, including dynamic variables such as NDVI, which aim to make more ecologically relevant predictions for species, that like Plains-wanderers, have variable distributions over time. She is a Kiwi who came to Melbourne to study and holds a Bachelor of Science majoring in ecology.
+Islay was a Master's student building species distribution models for Plains-wanderers. Her research developed temporally explicit species distribution models, including dynamic variables such as NDVI, which aim to make more ecologically relevant predictions for species, that like Plains-wanderers, have variable distributions over time. She is a Kiwi who came to Melbourne to study and holds a Bachelor of Science majoring in ecology.

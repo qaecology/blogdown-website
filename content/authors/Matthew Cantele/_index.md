@@ -64,9 +64,9 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups: #(please choose one from below and remove the others that aren't needed)
- - Researchers
+ - Affiliates
 
 ---
 
 
-Before joining QAEco, Matthew participated as a Coordinating Lead Author, Lead Author, and Contributing Author for three separate Intergovernmental Science-Policy Platforms on Biodiversity and Ecosystem Services Assessments. His current research straddles economic and environmental science disciplines, a vital yet often overlooked area crucial to better understanding how anthropogenic drivers impact our natural world. Matthew has focused specifically on modifying and improving GTAP variants, constrained optimization models used for economic and policy analysis as well as energy, and more recently, environmental science applications.
+Before joining QAEco, Matthew participated as a Coordinating Lead Author, Lead Author, and Contributing Author for three separate Intergovernmental Science-Policy Platforms on Biodiversity and Ecosystem Services Assessments. His PhD research straddled economic and environmental science disciplines, a vital yet often overlooked area crucial to better understanding how anthropogenic drivers impact our natural world. Matthew  focused specifically on modifying and improving GTAP variants, constrained optimization models used for economic and policy analysis as well as energy, and more recently, environmental science applications.

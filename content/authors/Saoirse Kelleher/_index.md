@@ -6,7 +6,7 @@ title: Saoirse Kelleher (she/her)
 superuser: FALSE
 
 # Role/position
-role: PhD student
+role: PhD candidate
 
 # Organizations/Affiliations
 organizations:
@@ -41,7 +41,7 @@ education: #please leave blank
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:kelleherj@student.unimelb.edu.au'
+  link: 'mailto:saoirse.kelleher@student.unimelb.edu.au'
 
   
 # Link to a PDF of your resume/CV from the About widget.

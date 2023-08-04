@@ -6,7 +6,7 @@ title: Ezra Janetzki (he/him)
 superuser: FALSE
 
 # Role/position
-role: Master's Student
+role: Master's Student alumni
 
 # Organizations/Affiliations
 organizations:
@@ -59,9 +59,8 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups: #(please choose one from below and remove the others that aren't needed)
-
-- Researchers
+- Affiliates
 
 ---
 
-Ezra Janetzki has completed a Bachelor of Science with a major in Plant Science at the University of Melbourne. Currently, he is undertaking a Master of Science within the University's Quantitative and Applied Ecology lab (QAEco). For his research project, he is working under the supervision of Professor Peter Vesk and Matt White from the Arthur Rylah Institute for Environmental Research, as well as other researchers from within and outside QAEco. His project aims to use eucalypt species functional traits to predict fire-induced mortality and resprout vigour of trees in East Gippsland following the 2020 Black Summer fires.
+Ezra Janetzki has completed a Bachelor of Science with a major in Plant Science at the University of Melbourne and a Master of Science with the Quantitative and Applied Ecology lab (QAEco). For his research project, he worked under the supervision of Professor Peter Vesk and Matt White from the Arthur Rylah Institute for Environmental Research, as well as other researchers from within and outside QAEco. His project used eucalypt species functional traits to predict fire-induced mortality and resprout vigour of trees in East Gippsland following the 2020 Black Summer fires.

@@ -6,10 +6,12 @@ title: David Duncan (he/him)
 superuser: FALSE
 
 # Role/position
-role: Research Fellow
+role: Research Fellow alumni
 
 # Organizations/Affiliations
 organizations:
+- name: Telethon Kids Institute
+  url: "https://www.telethonkids.org.au/contact-us/our-people/d/david-duncan/"
 - name: University of Melbourne
   url: "http://unimelb.edu.au"
 
@@ -65,8 +67,8 @@ highlight_name: true
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups: #(please choose one from below and remove the others that aren't needed)
-- Researchers
+- Affiliates
 
 ---
 
-David rejoined QAEco as a Research Fellow in 2017. He is a plant ecologist and survival skills in ecological modelling. David has considerable experience in the design of monitoring and evaluation of conservation investment by government agencies, and has worked on themes of ecosystem assessment and conservation across semi-arid, temperate and tropical ecosystems in Australia, Ecuador and Spain.
+David was a QAEco as a Research Fellow from 2017 to 2022. He is a plant ecologist and survival skills in ecological modelling. David has considerable experience in the design of monitoring and evaluation of conservation investment by government agencies, and has worked on themes of ecosystem assessment and conservation across semi-arid, temperate and tropical ecosystems in Australia, Ecuador and Spain.

@@ -20,7 +20,7 @@ bio:
 
 interests:
 - Species Distribution Modelling
-- Remote-sensing data
+- Remote-sensing
 - Indigenous Ecological Knowledge
 
 education:
