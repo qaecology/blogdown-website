@@ -6,18 +6,20 @@ title: Saras Windecker (she/her)
 superuser: FALSE
 
 # Role/position
-role: Research Fellow
+role: Research Fellow alumni
 
 # Organizations/Affiliations
 organizations:
+- name: Telethon Kids Institute
+  url: "https://www.telethonkids.org.au/"
 - name: University of Melbourne
   url: "http://www.unimelb.edu.au/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Saras is a Research Fellow working on trait-based distribution models of Eucalypt species, and is interested in ecological forecasting, reproducible science, and research software.
+bio: Saras was a Research Fellow working on trait-based distribution models of Eucalypt species, and is interested in ecological forecasting, reproducible science, and research software.
 
 interests:
-- Species Distriubtion Modelling
+- Species Distribution Modelling
 - Functional Traits
 - Forecasting
 - Reproducible Research
@@ -65,8 +67,8 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups: #(please choose one from below and remove the others that aren't needed)
-- Researchers
+- Affiliates
 ---
 
 
-Saras is a Research Fellow working on trait-based distribution models of Eucalypt species, and is interested in ecological forecasting, reproducible science, and research software. She is an Associate Editor of applications at Methods in Ecology and Evolution and a committee member for the Ecological Society of Australia's Quantitative Ecology Research Chapter. 
+Saras was a Research Fellow working on trait-based distribution models of Eucalypt species, and is interested in ecological forecasting, reproducible science, and research software. She is an Associate Editor of applications at Methods in Ecology and Evolution and a committee member for the Ecological Society of Australia's Quantitative Ecology Research Chapter. 
