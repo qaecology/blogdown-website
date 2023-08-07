@@ -1,8 +1,8 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Threatened Species and Communities"
-summary: "We are passionate about conservation. We undertake fieldwork to understand management implications and apply the principles of our other research themes to threatened species and communities."
+title: "Threatened Species, Communities and Ecosystems"
+summary: "We are passionate about conservation. We undertake fieldwork to understand management implications and apply the principles of our other research themes to threatened species, communities and ecosystems."
 date: 2021-08-26
 weight: 1
 tags: []
@@ -42,13 +42,13 @@ url_video: ""
 Globally, biodiversity is declining. Australia has the highest rate of mammal extinctions with many more species at risk of extinction. At QAEco, we are passionate about conservation. We apply the principles and methods of our other research themes to threatened species and ecosystems. We also have a strong applied ecology focus for threatened species on threat management, particularly invasive predators (the red fox and feral cats) and inappropriate fire regimes. Understanding the impact of management actions of invasive predators and changed fire regions, and the subsequent outcomes for conservation, is important when making effective decisions.
 
 #### Researchers: 
-[Brendan Wintle]({{< ref "/authors/Brendan Wintle" >}}), [Dave Duncan]({{< ref "/authors/Dave Duncan" >}}), [Peter Vesk]({{< ref "/authors/Peter Vesk" >}}), [Mick McCarthy]({{< ref "/authors/Mick McCarthy" >}}), [Libby Rumpff]({{< ref "/authors/Libby Rumpff" >}}), [Bronwyn Hradsky]({{< ref "/authors/Bronwyn Hradsky" >}}), [Anja Skroblin]({{< ref "/authors/Anja Skroblin" >}}), [Natalie Briscoe]({{< ref "/authors/Natalie Briscoe" >}}), Darren Southwell, Linda Riquelme, Kate Giljohann, [Kylie Soanes]({{< ref "/authors/Kylie Soanes" >}}), [Matt Rees]({{< ref "/authors/Matt Rees" >}}), David Wilkinson, [Rebecca Groenewegen]({{< ref "/authors/Rebecca Groenewegen" >}}), Adam Smart, [Vishnu Menon]({{< ref "/authors/Vishnu Menon" >}}), Islay McDougall, Olivia Tunney, Matthew Whitney, [Shih Wen Huang]({{< ref "/authors/Shih Wen Huang" >}}), [Ezra Janetzki]({{< ref "/authors/Ezra Janetzki" >}})
+[Brendan Wintle]({{< ref "/authors/Brendan Wintle" >}}), [Emily Nicholson]({{< ref "/authors/Emily NIcholson" >}}), [Dave Duncan]({{< ref "/authors/Dave Duncan" >}}), [Peter Vesk]({{< ref "/authors/Peter Vesk" >}}), [Mick McCarthy]({{< ref "/authors/Mick McCarthy" >}}), [Libby Rumpff]({{< ref "/authors/Libby Rumpff" >}}), [Bronwyn Hradsky]({{< ref "/authors/Bronwyn Hradsky" >}}), [Anja Skroblin]({{< ref "/authors/Anja Skroblin" >}}), [Natalie Briscoe]({{< ref "/authors/Natalie Briscoe" >}}), Darren Southwell, Linda Riquelme, Kate Giljohann, [Kylie Soanes]({{< ref "/authors/Kylie Soanes" >}}), [Matt Rees]({{< ref "/authors/Matt Rees" >}}), [David Wilkinson]({{< ref "/authors/David Wilkinson" >}}), [Rebecca Groenewegen]({{< ref "/authors/Rebecca Groenewegen" >}}), Adam Smart, [Vishnu Menon]({{< ref "/authors/Vishnu Menon" >}}), [Islay McDougall]({{< ref "/authors/Islay McDougall" >}}), Olivia Tunney, Matthew Whitney, [Shih Wen Huang]({{< ref "/authors/Shih Wen Huang" >}}), [Ezra Janetzki]({{< ref "/authors/Ezra Janetzki" >}})
 
 #### Affiliate researchers:
-Ami Bennett, Pia Lentini, Kat Selwood, Luke Kelly, [Jack Pascoe]({{< ref "/authors/Jack Pascoe" >}}), Erica Marshall, Kate Senior, [Naomi Indigo]({{< ref "/authors/Naomi Indigo" >}}), Hugh Davies
+Ami Bennett, [Pia Lentini]({{< ref "/authors/Pia Lentini" >}}), Kat Selwood, Luke Kelly, [Jack Pascoe]({{< ref "/authors/Jack Pascoe" >}}), Erica Marshall, [Kate Senior]({{< ref "/authors/Kate Senior" >}}), [Naomi Indigo]({{< ref "/authors/Naomi Indigo" >}}), [Hugh Davies]({{< ref "/authors/Hugh Davies" >}})
 
 #### Selected publications:
-[Senior, K.L., Giljohann, K.M., McCarthy, M.A., Rainsford, F.W. and Kelly, L.T., 2021.](https://doi.org/10.1016/j.biocon.2021.109031) Predicting mammal responses to pyrodiversity: From microbats to macropods. Biological Conservation, 256, p.109031.
+[Nicholson, E., Keith, D.A., and Wilcove, D.S. 2009](https://conbio.onlinelibrary.wiley.com/doi/abs/10.1111/j.1523-1739.2008.01158.x) Assessing the Threat Status of Ecological Communities. Conservation Biology.
 
 [Bennett, A., Duncan, D.H., Rumpff, L. and Vesk, P.A., 2020.](https://doi.org/10.1002/ecs2.2998) Disentangling chronic regeneration failure in endangered woodland ecosystems. Ecosphere, 11(1), p.e02998.
 
@@ -56,7 +56,6 @@ Ami Bennett, Pia Lentini, Kat Selwood, Luke Kelly, [Jack Pascoe]({{< ref "/autho
 
 [Soanes, K. and Lentini, P.E., 2019.](https://doi.org/10.1002/fee.2032) When cities are the last chance for saving species. Frontiers in Ecology and the Environment, 17(4), pp.225-231.
 
-[Rees, M.W., Pascoe, J.H., Wintle, B.A., Le Pla, M., Birnbaum, E.K. and Hradsky, B.A., 2019.](https://doi.org/10.1016/j.biocon.2019.108287) Unexpectedly high densities of feral cats in a rugged temperate forest. Biological Conservation, 239, p.108287.
 
 [Wintle, B.A., Cadenhead, N.C., Morgain, R.A., Legge, S.M., Bekessy, S.A., Cantele, M., Possingham, H.P., Watson, J.E., Maron, M., Keith, D.A. and Garnett, S.T., 2019.](https://doi.org/10.1111/conl.12682) Spending to save: What will it cost to halt Australia's extinction crisis?. Conservation Letters, 12(6), p.e12682.
 
