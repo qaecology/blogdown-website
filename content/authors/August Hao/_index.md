@@ -44,7 +44,7 @@ education: #please leave blank
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:tianxiaoh@student.unimelb.edu.au'
+  link: 'mailto:august.hao@unimelb.edu.au'
 - icon: github
   icon_pack: fab
   link: https://github.com/AugustHao

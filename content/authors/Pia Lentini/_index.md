@@ -6,10 +6,12 @@ title: Pia Lentini (she/her)
 superuser: FALSE
 
 # Role/position
-role: Research Fellow
+role: Senior scientist. Former research fellow
 
 # Organizations/Affiliations
 organizations:
+- name: Arthur Rylah Institute for Environmental Research
+  url: "www.ari.vic.gov.au"
 - name: RMIT University
   url: "https://www.rmit.edu.au/"
 - name: University of Melbourne
@@ -43,7 +45,7 @@ education: #please leave blank
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:pia.lentini@rmit.edu.au'
+  link: 'mailto:pia.lentini@delwp.vic.gov.au'
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/pelentini
@@ -70,11 +72,12 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups: #(please choose one from below and remove the others that aren't needed)
-
 - Affiliates
 ---
 
 
-Pia is a Senior Research Fellow with the ICON Science group at RMIT University, and an Honorary Fellow with QAECO whose interests' span ecology, conservation and the social sciences. Her research explores human-wildlife coexistence and how our management decisions and behaviours are linked to conservation outcomes. 
+Pia is a Senior Scientist in Wildlife Ecology at the Arthur Rylah Institute for Environmental Research.
+
+Pia's interests' span ecology, conservation and the social sciences. Her research explores human-wildlife coexistence and how our management decisions and behaviours are linked to conservation outcomes. She was a Senior Research Fellow with the ICON Science group at RMIT University, and an Honorary Fellow with QAECO. 
 
 Whenever possible she works directly with decision makers and agency stakeholders, and although she loves all aspects of nature, she particularly enjoys working on questions related to bats. Pia also sits on the DELWP Scientific Advisory Committee and the Board of Wildlife Victoria.
