@@ -19,7 +19,9 @@ organizations:
 bio: Emily is a Professor of Conservation Biology developing new theory and tools for improved conservation outcomes, built on multidisciplinary collaboration, scientific excellence and impact on policy and practice.
 interests:
 - Conservation Science
-- Ecosystem science
+- Ecosystem Science
+- Biodiversity indicators
+- Conservation policy
 
 education: #please leave blank
   # courses:
