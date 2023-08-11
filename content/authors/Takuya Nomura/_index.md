@@ -62,5 +62,5 @@ Takuya is undertaking a Master of Ecosystem Management and Conservation in the S
 
 
 #### Supervisors:
-Prof [Emily Nicholson]({{< ref "/authors/Emily Nicholson" >}})
+Prof [Emily Nicholson]({{< ref "/authors/Emily Nicholson" >}})  
 A/Prof Luke Kelly  

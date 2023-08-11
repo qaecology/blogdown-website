@@ -11,7 +11,7 @@ role: Research Fellow alumni
 # Organizations/Affiliations
 organizations:
 - name: Telethon Kids Institute
-  url: "https://www.telethonkids.org.au/"
+  url: "https://www.telethonkids.org.au/contact-us/our-people/w/saras-m.-windecker/"
 - name: University of Melbourne
   url: "http://www.unimelb.edu.au/"
 
@@ -71,4 +71,6 @@ user_groups: #(please choose one from below and remove the others that aren't ne
 ---
 
 
-Saras was a Research Fellow working on trait-based distribution models of Eucalypt species, and is interested in ecological forecasting, reproducible science, and research software. She is an Associate Editor of applications at Methods in Ecology and Evolution and a committee member for the Ecological Society of Australia's Quantitative Ecology Research Chapter. 
+Dr. Saras Windecker is a quantitative ecologist with expertise in statistical modelling, data visualisation, and software development. She joins Telethon Kids Institute from the University of Melbourne where she did a PhD and worked for several years as a research fellow doing ecological modelling. Dr. Windecker’s ecological research has focused on predicting plant species’ distributions across space and time. She is also interested in spatial risk modelling for disease and public health, previously collaborating with the Doherty Institute, the Department of Health and Human Services, and Menzies Institute of Health.
+
+Dr. Windecker is actively involved in the open research community and interested in promoting reproducible research practices. She enjoys spending time outdoors, especially in wetland ecosystems such as the freshwater systems that were the focus of her PhD research. She is based in Brisbane.
