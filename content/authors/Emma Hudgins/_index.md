@@ -14,12 +14,12 @@ organizations:
   url: "https://findanexpert.unimelb.edu.au/profile/1051177-emma-hudgins"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Emma's interested in the ecology, impacts, and management of species that are changing their distributions due to humans. She works on the optimization of management and surveillance for species with dynamic ranges, includng for invasive pests and trees undergoing climate-induced range shifts.
+bio: Emma's interested in the ecology, impacts, and management of species that are changing their distributions due to humans. She works on the optimisation of management and surveillance for species with dynamic ranges, including for invasive pests and trees undergoing climate-induced range shifts.
 
 interests:
 - Invasive Species
 - Spread modelling
-- Spatial prioritization
+- Spatial prioritisation
 - Urban wellbeing
 - Forest management
 
@@ -76,7 +76,7 @@ user_groups: #(please choose one from below and remove the others that aren't ne
 ---
 
 
-Emma's interested in the ecology, impacts, and management of species that are changing their distributions due to humans. She works on the optimization of management and surveillance for species with dynamic ranges, includng for invasive pests and trees undergoing climate-induced range shifts.
+Emma's interested in the ecology, impacts, and management of species that are changing their distributions due to humans. She works on optimising the management and surveillance of species with dynamic ranges, including for invasive pests and trees undergoing climate-induced range shifts.
 
 She is interested in creating better forecasts of future species distributional patterns, and better recommendations for invasive species management at large scales. 
 
