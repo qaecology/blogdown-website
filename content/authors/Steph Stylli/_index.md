@@ -6,7 +6,7 @@ title: Stephanie Stylli (she/her)
 superuser: FALSE
 
 # Role/position
-role: Master's student 
+role: Masters student 
 
 # Organizations/Affiliations
 organizations:

@@ -6,7 +6,7 @@ title: Hannah Fraser (she/her)
 superuser: FALSE
 
 # Role/position
-role: Researcher
+role: Research Fellow
 
 # Organizations/Affiliations
 organizations:
