@@ -6,7 +6,7 @@ title: Gabrielle Cleary (she/her)
 superuser: FALSE
 
 # Role/position
-role: Master's Student
+role: Masters Student
 
 # Organizations/Affiliations
 organizations:

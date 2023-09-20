@@ -6,7 +6,7 @@ title: Emily Nicholson (she/her)
 superuser: FALSE
 
 # Role/position
-role: Professor, Conservation Science
+role: Professor of Conservation Science
 
 # Organizations/Affiliations
 organizations:

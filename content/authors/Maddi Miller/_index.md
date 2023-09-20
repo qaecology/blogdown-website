@@ -6,7 +6,7 @@ title: Maddi Miller (she/they)
 superuser: FALSE
 
 # Role/position
-role: Research Fellow, Ecological Knowledges of Country
+role: Research Fellow
 
 # Organizations/Affiliations
 organizations:

@@ -6,7 +6,7 @@ title: Alys Young (she/her)
 superuser: true
 
 # Role/position
-role: PhD Candidate / Research Assistant
+role: PhD Candidate
 
 # Organizations/Affiliations
 organizations:
