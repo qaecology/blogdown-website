@@ -6,7 +6,7 @@ title: Matthew Cantele (he/him)
 superuser: FALSE
 
 # Role/position
-role: PhD Candidate
+role: Research Fellow
 
 # Organizations/Affiliations
 organizations:
