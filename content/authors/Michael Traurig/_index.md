@@ -22,8 +22,8 @@ interests:
 - Marine connectivity and biophyiscal modelling
 - Ecosystem services and economic accounting
 
-education: 
-   courses:
+education:  
+   courses: 
    - course: PhD linking ecosystem health to human well-being
      institution: Deakin University
      year: 2020 - ongoing
