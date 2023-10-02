@@ -11,10 +11,10 @@ role: Masters student
 # Organizations/Affiliations
 organizations:
 - name: University of Melbourne
-  url: "(safes.unimelb.edu.au)"
+  url: "https://safes.unimelb.edu.au/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: (short 1 - 2 sentence bio)
+bio: Hannah is a masters student investigating tree growth models using data collected for the city of Melbourne's Urban Forest.
 
 interests:
 - Ecological modelling
