@@ -20,7 +20,7 @@ interests:
 - Microcosms
 - Ecology
 - Wildlife
-- (General topic areas of interest)
+
 
 education: #please leave blank
   # courses:
