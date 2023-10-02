@@ -18,13 +18,13 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio:  
 
-interests:
+interests: 
 - Species Distribution Modelling
 - Remote-sensing
 - Indigenous Ecological Knowledge
 
-education:
-  courses:
+education: 
+  courses: 
   - course: PhD on modelling the biodiversity of the Tiwi Islands
     institution: Deakin University
     year: 2020 - ongoing
