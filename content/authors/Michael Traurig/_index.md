@@ -30,7 +30,7 @@ education:
    - course: Masters of Conservation science
      institution: The university of Queensland
      year: 2017-2018
-   - course:Bachelor of Environmental Science
+   - course: Bachelor of Environmental Science
      institution: Monash University
      year: 2014-2016
 
