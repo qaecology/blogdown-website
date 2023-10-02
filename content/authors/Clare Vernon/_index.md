@@ -12,15 +12,13 @@ role: PhD Candidate
 organizations:
 - name: Deakin University
   url: "https://www.deakin.edu.au/life-environmental-sciences"
-  
 - name: eXtreme Plant Ecology Research Team
   url: "https://www.extremeplantecology.com/""
-
 - name: Conservation Science Research Lab
   url: "https://conservationscience.org.au/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: (short 1 - 2 sentence bio)
+bio: Clare is studying a PhD in Red List of Ecosystems, Australian alpine ecology and indicators. 
 
 interests:
 - Ecosystem science
@@ -79,6 +77,6 @@ highlight_name: false
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups: #(please choose one from below and remove the others that aren't needed)
 - Researchers
---
+---
 
 Clare is a PhD candidate with the Conservation Science research lab at Deakin University. Her current interests are in the Red List of Ecosystems, Australian alpine ecology and indicators. 
