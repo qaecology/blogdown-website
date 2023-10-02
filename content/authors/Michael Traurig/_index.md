@@ -16,12 +16,6 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: Michael is a PhD student at Deakin university with supervisors from Deakin, The University of Melbourne, CSIRO and ACT government. Michael works on finding links between changes of ecosystems due to both natural and anthropogenic pressure and how those changes impact human well-being through their changed capacity to provide ecosystem services. Michael's skills and interests are centered around data analysis, modelling and spatial analysis. Michael is also a research assistant where he works on impacts of plastic debris on coastal environments and is supervising an honours student in this field of research. 
 
-#### Supervisors:
-Professor Emily Nichloson (University of Melbourne)
-Dr Kay Critchell (Deakin University)
-Dr Chloe Sato (ACT government)
-Dr Hui Xiao (CSIRO)
-
 interests:
 - Spatial mapping and analysis
 - Statistical analysis and modelling
@@ -74,5 +68,12 @@ user_groups: #(please choose one from below and remove the others that aren't ne
 - Researchers
 ---
 
+Michael is a PhD student at Deakin university with supervisors from Deakin, The University of Melbourne, CSIRO and ACT government. Michael works on finding links between changes of ecosystems due to both natural and anthropogenic pressure and how those changes impact human well-being through their changed capacity to provide ecosystem services. Michael's skills and interests are centered around data analysis, modelling and spatial analysis. Michael is also a research assistant where he works on impacts of plastic debris on coastal environments and is supervising an honours student in this field of research. 
 
+
+#### Supervisors:
+Professor Emily Nichloson (University of Melbourne)
+Dr Kay Critchell (Deakin University)
+Dr Chloe Sato (ACT government)
+Dr Hui Xiao (CSIRO)
 Insert Bio Here (one paragraph, in 3rd person narrative style)
