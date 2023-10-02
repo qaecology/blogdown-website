@@ -41,13 +41,13 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:(michael.traurig@gmail.com)'
+  link: 'mailto:michael.traurig@gmail.com'
 - icon: github
   icon_pack: fab
-  link: https://github.com/(githuburl)
+  link: https://github.com/
 - icon: book
   icon_pack: fas
-  link: (https://www.researchgate.net/profile/Michael-Traurig)
+  link: https://www.researchgate.net/profile/Michael-Traurig
     
   
 # Link to a PDF of your resume/CV from the About widget.
