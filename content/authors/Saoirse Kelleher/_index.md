@@ -62,4 +62,4 @@ user_groups: #(please choose one from below and remove the others that aren't ne
 - Researchers
 ---
 
-Saoirse Kelleher is a PhD student studying the performance of correlative and mechanistic species distribution models using simulated testing systems. She is also interested in conservation technology and remote sensing, particularly for non-invasive wildlife monitoring and efficient data collection. Saoirse has previously worked on projects involving bat-mosquito interactions, sound pollution in national parks, and crustacean signaling pathways.
+Saoirse Kelleher is a PhD student working on dynamic occupancy models, particularly how their performance can be improved in applied ecological studies. She is also interested in conservation technology and remote sensing, particularly for non-invasive wildlife monitoring. She has previously worked on projects involving bat-mosquito interactions, sound pollution in national parks, and crustacean signaling pathways.
