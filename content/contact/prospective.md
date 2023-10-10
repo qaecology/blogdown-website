@@ -24,6 +24,6 @@ We welcome enquiries from prospective students. If you'd like to join us as a st
 - Your academic transcript(s); 
 - A recent example of your work, such as a publication, dissertation/thesis or essay.  
 
-For further information about programs that are available and how to apply (including financial support), go to [https://ecosystemforest.unimelb.edu.au/study](https://ecosystemforest.unimelb.edu.au/study).
+For further information about programs that are available and how to apply (including financial support), go to [https://safes.unimelb.edu.au/study](https://safes.unimelb.edu.au/study).
 
 {{< figure library="true" src="photos1.jpg" title="_(left to right)_ K Knights, pale sundew _Drosera peltata_, 2021; Pia Lentini, grey-headed flying foxes _Pteropus poliocephalus_, 2020; Islay McDougall, _Banksia_ cone, Cobboboonee NP, 2021." >}}
