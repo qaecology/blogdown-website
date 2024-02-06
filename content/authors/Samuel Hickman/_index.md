@@ -6,7 +6,7 @@ title: Samuel Hickman (he/him)
 superuser: true
 
 # Role/position
-role: Project Manager/Research Assistant/Associate Researcher
+role: Project Manager
 
 # Organizations/Affiliations
 organizations:
