@@ -9,7 +9,7 @@ role: Senior Research Fellow
 
 # Organizations/Affiliations
 organizations:
--name: University of Melbourne
+- name: University of Melbourne
  url: "http://unimelb.edu.au"
 - name: Conservation Ecology Centre
   url: "https://www.conservationecologycentre.org/"
