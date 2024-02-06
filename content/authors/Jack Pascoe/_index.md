@@ -5,22 +5,26 @@ title: Jack Pascoe (he/him)
 superuser: FALSE
 
 # Role/position
-role: Conservation and Research Manager
+role: Senior Research Fellow
 
 # Organizations/Affiliations
 organizations:
+-name: University of Melbourne
+ url: "http://unimelb.edu.au"
 - name: Conservation Ecology Centre
   url: "https://www.conservationecologycentre.org/"
+- name: Biodiversity Council
+  url: "https://biodiversitycouncil.org.au/"
 
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
 
 interests:
-- Traditional Ecological Knowledge
-- Bio Cultural Landscapes
+- Biocultural Landscapes
 - Fire Ecology
-- Ecology
+- Wildlife Ecology
+- Vertebrate Pest Management
 
 education: #please leave blank
   # courses:
@@ -41,7 +45,7 @@ education: #please leave blank
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:jack@conservationecologycentre.org'
+  link: 'mailto:jack.pascoe@unimelb.edu.au'
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/JackHPascoe
@@ -65,7 +69,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups: #(please choose one from below and remove the others that aren't needed)
-- Researchers
+- Principal Investigators
 ---
 
-Jack is a Yuin man who grew up on Gadabanut Country before leaving to study Environmental Science at Deakin University. Jack completed a PhD with the University of Western Sydney where he studied the predators of the Blue Mountains. His key fields of interest are fire ecology and biocultural landscapes. Jack was previously Chairperson of the Board of Directors of Black Duck Foods, an NGO whose objective include the restoration of indigenous food production systems on Country. Jack is currently the Conservation and Research Manager for the Conservation Ecology Centre (CEC) and is passionate about restoring productive ecosystems on Maar country where CEC operations are based. Jack is currently a member on the Independent Expert Panel reviewing the Wildlife Act 1975 on behalf of the Minister for Energy, Environment and Climate Change. Jack is also a member of the Department of Environment, Land, Water and Planning's Scientific Reference Panel and Zoos Victoria's Scientific Advisory Committee. 
+Jack is a Yuin man living on Gadabanut Country. Jack completed a PhD at the University of Western Sydney where he studied predator ecology in the Blue Mountains. For the last decade he has led the Conservation Ecology Centre’s Research Program which delivers adaptive management and applied ecological research across the Otway region. His interests are in understanding and managing biocultural landscapes. He currently sits on scientific reference groups for Zoos Victoria and the Department of Energy, Environment and Climate Action (formerly DELWP) and he was a member of the Expert Panel which recently reviewed the Victorian Wildlife Act 1975.
