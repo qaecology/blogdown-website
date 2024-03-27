@@ -43,9 +43,6 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 'mailto:tina.parkhurst@unimelb.edu.au'
-- icon: github
-  icon_pack: fab
-  link: 
 - icon: book
   icon_pack: fas
   link: https://www.researchgate.net/profile/Tina-Parkhurst
