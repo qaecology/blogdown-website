@@ -18,6 +18,7 @@ content:
   user_groups:
   - Principal Investigators
   - Researchers
+  - Students
   - Administrators
   - Affiliates
 design:
