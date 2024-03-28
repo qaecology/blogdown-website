@@ -17,7 +17,7 @@ organizations:
 bio: 
 
 interests:
-- Ecoogical Forecasting
+- Ecological Forecasting
 - Global Change Ecology
 - Process-explicit Models
 - Conservation Planning
