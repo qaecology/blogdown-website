@@ -62,8 +62,8 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups: 
-- Affiliates
+- Affiliates and Alumni
 ---
 
 
-Jane  is broadly interested in biodiversity modelling. She has specialised in species distribution models, focussing on the technical aspects of models, and the interface between the science and its applications. She is interested in how well common methods predict given typical data types, how to test predictive performance in ways relevant to end-use, developing new methods for typical scenarios, how to deal with uncertainty in decision-making based on these models, combining pattern- and process-based methods, and explaining methods well for end-users so they know the strengths and limitations of their models. She is now retired, but still holds an honorary position. Current topics she's focussing on include process-based models, modelling on the Tiwi Islands, and  data-intensive science in Australia. 
+Jane is broadly interested in biodiversity modelling. She has specialised in species distribution models, focussing on the technical aspects of models, and the interface between the science and its applications. She is interested in how well common methods predict given typical data types, how to test predictive performance in ways relevant to end-use, developing new methods for typical scenarios, how to deal with uncertainty in decision-making based on these models, combining pattern- and process-based methods, and explaining methods well for end-users so they know the strengths and limitations of their models. She is now retired but still holds an honorary position. Current topics she's focussing on include process-based models, modelling on the Tiwi Islands, and  data-intensive science in Australia. 
