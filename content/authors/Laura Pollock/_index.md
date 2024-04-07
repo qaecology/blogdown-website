@@ -66,8 +66,8 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups: #(please choose one from below and remove the others that aren't needed)
+- Affiliates and Alumni
 
-- Affiliates
 ---
 
 Laura Pollock is an Assistant Professor at McGill University and co-director of the Biodiversity Prediction axis for the Québec Centre for Biodiversity Science. She is a macroecologist with a focus on improving biodiversity prediction with more ecologically relevant metrics and models. She also works on incorporating macroecological research into conservation planning.
