@@ -6,7 +6,7 @@ title: David E. Uribe-Rivera (he/him)
 superuser: true
 
 # Role/position
-role: PhD Candidate alumni
+role: PhD candidate alumni
 
 # Organizations/Affiliations
 organizations:
@@ -14,7 +14,7 @@ organizations:
   url: "http://unimelb.edu.au"
 
 # Short bio (displayed in user profile at end of posts)
-bio: 
+bio: David is a quantitative and spatial ecologist specialising in global change ecology.
 
 interests:
 - Ecological Forecasting
@@ -71,10 +71,10 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Affiliates
+- Affiliates and Alumni
 ---
 
 
-David is a quantitative and spatial ecologist specialising in global change ecology. He is interested in the processes that drive species range changes under human-induced global change. Currently investigating how to generate more reliable predictions of biodiversity redistribution under future global change scenarios to better inform conservation decision making. 
+David is a quantitative and spatial ecologist specialising in global change ecology. He is interested in the processes that drive species range changes under human-induced global change. He is currently investigating how to generate more reliable predictions of biodiversity redistribution under future global change scenarios to better inform conservation decision-making. 
 
 Other research interests include disequilibrium in range dynamics under recent climatic change, emerging infectious diseases, monitoring global change effects on biodiversity, and spatial dynamics of biological invasions.
