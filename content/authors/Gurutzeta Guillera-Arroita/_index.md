@@ -68,8 +68,8 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups: #(please choose one from below and remove the others that aren't needed)
-- Affiliates
+- Affiliates and Alumni
 ---
 
 
-Guru is Senior Research Fellow at the Pyrenean Institute of Ecology (IPE), within the Spanish National Research Council (CSIC). She formerly was Senior Lecturer/Researcher at QAECO, and a Principal Investigator in the group, where she worked for almost a decade. Guru specialises in ecological modelling, with a focus on the advancement, evaluation, and application of wildlife monitoring methods and of approaches for predicting current and future species distributions.
+Guru is Senior Research Fellow at the Pyrenean Institute of Ecology (IPE), within the Spanish National Research Council (CSIC). She was formerly a Senior Lecturer/Researcher at QAECO and a Principal Investigator in the group where she worked for almost a decade. Guru specialises in ecological modelling, with a focus on the advancement, evaluation, and application of wildlife monitoring methods and approaches for predicting current and future species distributions.
