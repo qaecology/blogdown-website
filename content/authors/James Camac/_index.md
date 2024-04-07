@@ -68,7 +68,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups: #(please choose one from below and remove the others that aren't needed)
-- Affiliates
+- Affiliates and Alumni
 ---
 
 James is a Chief Investigator within the Centre of Excellence for Biosecurity Risk Analysis (CEBRA). He is a quantitative and applied ecologist with extensive experience in field ecology, long-term ecological monitoring, experimental design, ecological statistics, reproducible data science, biosecurity risk analysis and project management. James' research focuses on two primary areas: 1) understanding and forecasting changes in biodiversity, especially under climate change; and 2) enhancing post-border surveillance networks to protect Australia's environmental, social and economic values from exotic pests and diseases.
