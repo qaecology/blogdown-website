@@ -16,7 +16,7 @@ organizations:
   url: "https://www.unimelb.edu.au/"
 
 # Short bio (displayed in user profile at end of posts)
-bio:  Casey models the effects of the built environment on nature and then mitigate using collaborative design solutions.
+bio:  Casey models the effects of the built environment on nature and then mitigates these effects using collaborative design solutions.
 
 interests:
 - Wildlife Conservation
@@ -76,7 +76,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups: #(please choose one from below and remove the others that aren't needed)
-- Affiliates
+- Affiliates and Alumni
 ---
 
 
