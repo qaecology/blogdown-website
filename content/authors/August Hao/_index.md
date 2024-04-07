@@ -17,7 +17,7 @@ organizations:
   
 
 # Short bio (displayed in user profile at end of posts)
-bio: August is a PhD student working on describing the biogeographic patterns of terrestrial Fungi in Australia. He is interested in the use of species distribution model-based methods for studying biogeography, particularly for discovering biogeographic regions and their boundaries.
+bio: August was a PhD student working on describing the biogeographic patterns of terrestrial Fungi in Australia. He is interested in the use of species distribution model-based methods for studying biogeography, particularly for discovering biogeographic regions and their boundaries.
 
 interests:
 - Species Distribution Modelling
@@ -68,7 +68,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups: #(please choose one from below and remove the others that aren't needed)
-- Affiliates
+- Affiliates and Alumni
 ---
 
 
