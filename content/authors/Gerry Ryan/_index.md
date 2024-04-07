@@ -71,8 +71,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups: #(please choose one from below and remove the others that aren't needed)
-
-- Affiliates
+- Affiliates and Alumni
 ---
 
 Gerry is a Senior Research Officer with the Infectious Disease Ecology and Modelling team at the Perth-based Telethon Kids Institute, and an Honorary Research Fellow in the Infectious Disease Dynamics Unit in the Melbourne School of Global and Population Health at the University of Melbourne.
