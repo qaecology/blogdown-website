@@ -14,7 +14,6 @@ organizations:
   url: "https://www.unimelb.edu.au/"
 
 # Short bio (displayed in user profile at end of posts)
-
 bio: 
 
 interests:
@@ -72,7 +71,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups: #(please choose one from below and remove the others that aren't needed)
-- Affiliates
+- Affiliates and Alumni
 ---
 
-Jutta is interested in decision-making processes and judgments during conservation planning. She is conducting a literature review on the use of different criteria of robust decision making in conservation planning, and investigates the impact of different values and objectives when planning clean up activities for marine plastic debris.
+Jutta is interested in decision-making processes and judgments during conservation planning. She reviewed the use of different criteria in robust decision making for conservation planning, and investigated the impact of different values and objectives when planning clean-up activities for marine plastic debris.
