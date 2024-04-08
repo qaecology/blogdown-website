@@ -72,14 +72,14 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups: #(please choose one from below and remove the others that aren't needed)
-- Principal Investigators
+- Research Staff
 ---
 
 
-Emma's interested in the ecology, impacts, and management of species that are changing their distributions due to humans. She works on optimising the management and surveillance of species with dynamic ranges, including for invasive pests and trees undergoing climate-induced range shifts.
+Emma is interested in the ecology, impacts, and management of species that are changing their distributions due to humans. She works on optimising the management and surveillance of species with dynamic ranges, including for invasive pests and trees undergoing climate-induced range shifts.
 
-She is interested in creating better forecasts of future species distributional patterns, and better recommendations for invasive species management at large scales. 
+She is interested in creating better forecasts of future species distributional patterns and better recommendations for managing invasive species at large scales. 
 
-Emma is a recent arrival to QAECO from Canada, and continues to work in collaboration with Canadian government agencies, including Natural Resources Canada- Canadian Forest Service (NRCan-CFS) and Environment and Climate Change Canada (ECCC). She has longstanding partnerships with researchers at the United States Forest Service (USDA-FS).
+Emma is a recent arrival to QAECO from Canada and continues to collaborate with Canadian government agencies, including Natural Resources Canada—Canadian Forest Service (NRCan-CFS) and Environment and Climate Change Canada (ECCC). She also has longstanding partnerships with researchers at the United States Forest Service (USDA-FS).
 
 She's also a member of the [InvaCost project](https://invacost.fr/en/accueil/) - a living database and global working group that quantifies the economic toll of invasive species.
