@@ -65,8 +65,8 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups: #(please choose one from below and remove the others that aren't needed)
-- Researchers
+- Research Staff
 ---
 
 
-David is a Research Fellow sitting across the QAEco and MetaMelb research labs. He leads the Data Management and Analysis team for the repliCATS project evaluating the credibility of science. His own research focusses on joint species distribution models, and he collaborates on several SDM-based projects around the globe.
+David is a Research Fellow sitting across the QAEco and MetaMelb research labs. He leads the Data Management and Analysis team for the repliCATS project evaluating the credibility of science. His own research focuses on joint species distribution models, and he collaborates on several SDM-based projects around the globe.

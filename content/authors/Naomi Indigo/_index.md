@@ -67,8 +67,8 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups: #(please choose one from below and remove the others that aren't needed)
-- Affiliates
+- Affiliates and Alumni
 ---
 
-Naomi is a PhD graduate in Ecology and is currently employed as a Science Communications Officer/ Post-Doctoral Research Assistant for the Threatened Species Recovery Hub. She is also the president of the Greater Melbourne SCB Chapter.
+Naomi is a PhD graduate in Ecology and was a Science Communications Officer/ Post-Doctoral Research Assistant for the Threatened Species Recovery Hub. She was also the president of the Greater Melbourne SCB Chapter.
 Naomi is particularly passionate about conservation, ecological research, animal welfare and two-way-science. She endeavours to work with groups collaboratively, building capacity to address the social, economic, and environmental registers of biodiversity conservation. 

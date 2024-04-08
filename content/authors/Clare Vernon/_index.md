@@ -76,7 +76,8 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups: #(please choose one from below and remove the others that aren't needed)
-- Researchers
+- Research Students and Research Assistants
+  
 ---
 
-Clare is a PhD candidate with the Conservation Science research lab at Deakin University. Her current interests are in the Red List of Ecosystems, Australian alpine ecology and indicators. 
+Clare is a PhD candidate with the Conservation Science research lab with Prof Emily Nicholson, based at Deakin University. Her current interests are in the Red List of Ecosystems, Australian alpine ecology and indicators. 

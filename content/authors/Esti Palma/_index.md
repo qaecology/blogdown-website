@@ -6,7 +6,7 @@ title: Esti Palma (she/her)
 superuser: FALSE
 
 # Role/position
-role: Former PhD Candidate
+role: Former PhD candidate
 
 # Organizations/Affiliations
 organizations:
@@ -14,7 +14,7 @@ organizations:
   url: https://www.unimelb.edu.au/
 
 # Short bio (displayed in user profile at end of posts)
-bio: 
+bio: Esti is a plant ecologist.
 
 interests:
 - Biological Invasions
@@ -68,7 +68,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups: #(please choose one from below and remove the others that aren't needed)
-- Affiliates
+- David is a quantitative and spatial ecologist specialising in global change ecology.
 ---
 
 

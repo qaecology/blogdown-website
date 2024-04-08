@@ -16,7 +16,7 @@ organizations:
   url: "https://www.uq.edu.au/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Natasha is a senior research assistant in QAEco and a PhD candidate at The University of Queensland. She has a background in spatial analysis and decision making that she uses to investigate pathways to mainstreaming biodiversity in the finance sector.
+bio: Natasha is a senior research assistant in QAEco and a PhD candidate at The University of Queensland. She has a background in spatial analysis and decision-making that she uses to investigate pathways to mainstream biodiversity in the finance sector.
 
 interests:
 - Sustainable Finance
@@ -67,7 +67,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups: #(please choose one from below and remove the others that aren't needed)
-- Researchers
+- Research Students and Research Assistants
 
 ---
 

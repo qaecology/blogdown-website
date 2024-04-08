@@ -6,7 +6,7 @@ title: Gabrielle Cleary (she/her)
 superuser: FALSE
 
 # Role/position
-role: Masters Student
+role: Masters Student alumni
 
 # Organizations/Affiliations
 organizations:
@@ -14,7 +14,7 @@ organizations:
   url: "https://unimelb.edu.au"
 
 # Short bio (displayed in user profile at end of posts)
-bio: (short 1 - 2 sentence bio)
+bio: 
 
 interests:
 - Plant Functional Traits
@@ -54,10 +54,9 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups: #(please choose one from below and remove the others that aren't needed)
-
-- Researchers
+- Affiliates and Alumni
 
 ---
 
 
-Gabrielle's research will use functional traits to better understand Eucalypt seedling regeneration after fire in East Gippsland.
+Gabrielle's research used functional traits to better understand Eucalypt seedling regeneration after fire in East Gippsland.

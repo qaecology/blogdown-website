@@ -6,7 +6,7 @@ title: Kinjia Munkara-Murray (she/her)
 superuser: FALSE
 
 # Role/position
-role: Former Student
+role: Former Masters Student
 
 # Organizations/Affiliations
 organizations:
@@ -58,9 +58,8 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups: #(please choose one from below and remove the others that aren't needed)
-
-- Affiliates
+- Affiliates and Alumni
 
 ---
 
-Kinjia studied native ant biodiversity on Bathurst Island, and she is interested in how Species Distribution Modelling can be used to reinforce Indigenous knowledge practices.
+Kinjia studied native ant biodiversity on Bathurst Island, NT and she is interested in how Species Distribution Modelling can be used to reinforce Indigenous knowledge practices.

@@ -67,9 +67,9 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Affiliates
+- Affiliates and Alumni
 ---
 
-Kate is a research fellow in the Biodiversity Dynamics Research Group. Her current research focuses on the effects of fire on plant resilience in fire-prone ecosystems in Victoria, as part of a state-wide ecosystem resilience monitoring program implemented by the state government. 
+Kate was a research fellow in the Biodiversity Dynamics Research Group. Her research focused on the effects of fire on plant resilience in fire-prone ecosystems in Victoria, as part of a state-wide ecosystem resilience monitoring program implemented by the state government. 
 
 She completed her PhD with QAECO from 2017-2020, exploring drivers of mammal and reptile abundance in fire-prone, 'mallee' woodlands of south-eastern Australia. She is a keen field ecologist and has a particular love for small mammals. Kate aims to conduct applied research that can inform environmental management and works closely with land managers to achieve this.

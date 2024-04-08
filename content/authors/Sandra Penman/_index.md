@@ -14,7 +14,7 @@ organizations:
   url: "http://unimelb.edu.au"
 
 # Short bio (displayed in user profile at end of posts)
-bio: (short 1 - 2 sentence bio)
+bio:
 
 interests:
 - Fire Ecology
@@ -66,7 +66,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups: #(please choose one from below and remove the others that aren't needed)
-- Affiliates
+- Affiliates and Alumni
 ---
 
-Sandra is completing a PhD on how bat communities are affected by fire. Her work focusses on the indirect impacts of fire, specifically changes in vegetation structure and prey availability. Sandra's work is based in forests of SE Australia where she likes to look at trees and contemplate future fire regimes.
+Sandra is completing a PhD on how bat communities are affected by fire. Her work focuses on the indirect impacts of fire, specifically changes in vegetation structure and prey availability. Sandra's work is based in forests of SE Australia where she likes to look at trees and contemplate future fire regimes.

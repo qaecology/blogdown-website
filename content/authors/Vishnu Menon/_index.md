@@ -64,7 +64,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Researchers
+- Research Students and Research Assistants
 ---
 
 Vishnu's PhD looks at threatened native mammal responses to fire across fox-controlled landscapes in south-west Victoria. Working closely with DELWP and Parks Victoria, his PhD will help inform integrated fire management and fox control approaches and so design efficient strategies for conserving native mammals. 

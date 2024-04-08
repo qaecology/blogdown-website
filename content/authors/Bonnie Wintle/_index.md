@@ -70,10 +70,9 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups: #(please choose one from below and remove the others that aren't needed)
-
-- Researchers
+- Research Staff
 
 ---
 
 
-Bonnie has a Bachelor of Science (Hons), majoring in plant ecology. Her PhD was on improving environmental judgements and decision making, with the environmental science group at the University of Melbourne. Her postdoctoral work was on horizon scanning for biodiversity conservation (University of Melbourne) and existential risks (CSER, University of Cambridge). Now working in the area of 'metascience' (with MetaMelb), Bonnie develops structured methods for eliciting and aggregating quantitative and qualitative judgements from groups of experts, to support better decision and policy making.
+Bonnie has a Bachelor of Science (Hons), majoring in plant ecology. Her PhD was on improving environmental judgements and decision-making, with the environmental science group at the University of Melbourne. Her postdoctoral work was on horizon scanning for biodiversity conservation (University of Melbourne) and existential risks (CSER, University of Cambridge). Now working in the area of 'metascience' (with MetaMelb), Bonnie develops structured methods for eliciting and aggregating quantitative and qualitative judgements from groups of experts, to support better decision and policy making.

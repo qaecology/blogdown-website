@@ -60,7 +60,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Researchers
+- Research Staff
 ---
 
-Anja Skroblin is an applied wildlife biologist who has worked extensively to bridge academic and on-ground conservation practice. Her background includes working for and with NGOs, university, Indigenous groups and government, and her research focus spans designing monitoring for threatened species, understanding how partnerships improve conservation outcomes, and combining knowledges for environmental outcomes. Anja is committed to working with Traditional Owners and communities to support caring for Country. 
+Anja Skroblin is an applied wildlife biologist who has worked extensively to bridge academic and on-ground conservation practices. Her background includes working for and with NGOs, university, Indigenous groups and government, and her research focus spans designing monitoring for threatened species, understanding how partnerships improve conservation outcomes, and combining knowledges for environmental outcomes. Anja is committed to working with Traditional Owners and communities to support caring for Country. 

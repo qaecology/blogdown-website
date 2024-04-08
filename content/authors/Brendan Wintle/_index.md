@@ -68,8 +68,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups: #(please choose one from below and remove the others that aren't needed)
-- Principal Investigators
+- Research Staff
 ---
-
 
 Brendan specializes in modelling and analysis to support decision making and policy in conservation, particularly under uncertainty. He was the recent Director of the National Environmental Science Program's Threatened Species Recovery Hub, has served on Forest Stewardship Council reference committees, and various Commonwealth and State science advisory bodies including the Regional Sustainability Planning Advisory Committee, the Monitoring and Evaluation (MERI) advisory group, and the 'Save the Tasmanian Devil' Science Advisory Group. He is obsessed with arboreal marsupials and soccer. 

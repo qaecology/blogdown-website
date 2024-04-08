@@ -44,8 +44,6 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 'mailto:shickman@student.unimelb.edu.au'
-
-    
   
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -62,7 +60,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Researchers
+- Research Students and Research Assistants
 ---
 
 Sam Hickman is a student and Wattle Fellow at the University of Melbourne. He has a keen interest in biodiversity conservation and corporate sustainability. Recently, Sam led the University of Melbourne's biodiversity footprint project, aiming to assess how the University of Melbourne’s direct and upstream activities impact nature.

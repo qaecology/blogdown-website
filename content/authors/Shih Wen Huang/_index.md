@@ -44,8 +44,6 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/JennyHuangEcol
-
-
   
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -62,7 +60,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Affiliates
+- Affiliates and Alumni
 ---
 
 Jenny Huang holds a Bachelor of Science degree majoring in Environmental Science from the University of Melbourne. She completed her Master's thesis in QAEco with Dr Libby Rumpff, Dr Hannah Fraser and Dr Josephine MacHunter on the use of expert knowledge in supporting bushfire management for animal conservation. 

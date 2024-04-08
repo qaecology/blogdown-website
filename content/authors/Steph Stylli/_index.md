@@ -6,7 +6,7 @@ title: Stephanie Stylli (she/her)
 superuser: FALSE
 
 # Role/position
-role: Masters student 
+role: Former Masters student 
 
 # Organizations/Affiliations
 organizations:
@@ -14,7 +14,7 @@ organizations:
   url: "https://www.unimelb.edu.au/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Stephanie completed a Bachelor of Science majoring in Zoology at the University of Melbourne. She is currently undertaking a Master of Science (BioSciences) in conjunction with the Conservation Ecology Centre, under the supervision of Dr Julian Di Stefano, Dr Bronwyn Hradsky and Dr Jack Pascoe. She is exploring the impact of prescribed fire on Long-nosed Potoroo population density and survival in the Otway Ranges.
+bio: Stephanie completed a Bachelor of Science (Zoology) and Master of Science (BioSciences) at the University of Melbourne. She is exploring the impact of prescribed fire on Long-nosed Potoroo population density and survival in the Otway Ranges.
 
 interests:
 - Threatened Species Conservation
@@ -59,8 +59,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups: #(please choose one from below and remove the others that aren't needed)
-
-- Researchers
+- Affiliates and Alumni
 ---
 
 

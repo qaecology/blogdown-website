@@ -63,12 +63,8 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Researchers
+- Research Staff
+  
 ---
 
-
-Tina is an ecologist and loves wild places. Most of her research has spanned across arid and semi arid landscapes in Australia. Tina completed her PhD at Murdoch University in 2022. Her thesis examined the biodiversity co-benefits of tree and shrub planting projects in an agricultural landscape. Her current work is focused on using ecosystem information from IUCN risk assessments and ecosystem accounting frameworks to inform nature-related disclosure documentation in the private sector.
-
-
-  
-
+Tina is an ecologist who loves wild places. Most of her research has been in arid and semi-arid landscapes in Australia. Tina completed her Ph.D. at Murdoch University in 2022. Her thesis examined the biodiversity co-benefits of tree and shrub planting projects in an agricultural landscape. Her current work is focused on using ecosystem information from IUCN risk assessments and ecosystem accounting frameworks to inform nature-related disclosure documentation in the private sector.
