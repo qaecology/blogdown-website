@@ -70,10 +70,11 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Researchers
+- Research Students and Research Assistants
+  
 ---
 
 
-Kevin Newman holds a Bachelor of Science majoring in Zoology and Statistics from La Trobe University and Honours in Biosciences at the University of Melbourne Quantitative and Applied Ecology lab (QAEco) with Professor Mick McCarthy on optimal surveillance for Leadbeater's Possum. He is currently undertaking a PhD into Imperfect Detection and species surveillance with Professor Michael McCarthy and Dr Gurutzeta Guillera-Arroita.
+Kevin Newman holds a Bachelor of Science majoring in Zoology and Statistics from La Trobe University and Honours in Biosciences at the University of Melbourne Quantitative and Applied Ecology lab (QAEco) with Professor Mick McCarthy on optimal surveillance for Leadbeater's Possum. He is currently undertaking a PhD in Imperfect Detection and species surveillance with Professor Michael McCarthy and Dr Gurutzeta Guillera-Arroita.
 
 His career goal is to assist in the development of sustainable conservation strategies for Australia's unique biodiversity through statistical analysis with meaningful and accessible results.
