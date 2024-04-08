@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Teagan Goolmeer (She/her) 
+title: Teagan Goolmeer (she/her) 
 
 # Is this the primary user of the site?
 superuser: FALSE
@@ -14,7 +14,7 @@ organizations:
   url: "https://www.unimelb.edu.au/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: (short 1 - 2 sentence bio)
+bio: 
 
 interests:
 - Indigenous Knowledge
@@ -23,14 +23,14 @@ interests:
 
 education: #please leave blank
   # courses:
-  # - course:Msc Marine Science and Management 
-  #   institution:Southern Cross University 
+  # - course: Msc Marine Science and Management 
+  #   institution: Southern Cross University 
   #   year: 2011
-  # - course:BA Applied Science - Fisheries and Aquaculture 
+  # - course: BA Applied Science - Fisheries and Aquaculture 
   #   institution: Southern Cross University 
   #   year: 2007
-  # - course:BA Education - Secondary 
-  #   institution:Southern Cross University 
+  # - course: BA Education - Secondary 
+  #   institution: Southern Cross University 
   #   year:2007
 
 # Social/Academic Networking
@@ -58,7 +58,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups: #(please choose one from below and remove the others that aren't needed)
-- Researchers
+- Research Students and Research Assistants
 
 ---
 
