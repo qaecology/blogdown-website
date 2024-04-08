@@ -65,7 +65,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups: #(please choose one from below and remove the others that aren't needed)
-- Affiliates
+- Affiliates and Alumni
 ---
 
 Reid leads the Macroecology Research Group at Monash University. Reid and his group study how environmental change influences the dual processes of invasion and extinction at macroecological scales. Most of Reid's work focuses on Australian amphibians and reptiles.
