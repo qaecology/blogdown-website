@@ -64,7 +64,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Researchers
+- Research Students and Research Assistants
 ---
 
-K is a PhD student working on efficiency in wildlife monitoring methods. She is particularly interested in cost efficient survey design and distance sampling. Her work can be applied in a variety of monitoring contexts (plant or animal surveys in various habitats) but she is particularly keen on forests with big trees.
+K is a PhD student working on efficiency in wildlife monitoring methods. She is particularly interested in cost-efficient survey design and distance sampling. Her work can be applied in a variety of monitoring contexts (plant or animal surveys in various habitats) but she is particularly keen on forests with big trees.
