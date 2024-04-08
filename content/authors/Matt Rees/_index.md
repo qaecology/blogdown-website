@@ -73,7 +73,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups: #(please choose one from below and remove the others that aren't needed)
-- Affiliates
+- Affiliates and Alumni
 ---
 
 Matt is a Postdoctoral Fellow at CSIRO, where he models the population dynamics of invasive species. He completed his PhD with QAECO, detailing the interactions between introduced foxes, feral cats and threatened prey, set against a backdrop of intensive fox control and prescribed fire. Matt’s research interests span ecological statistics, structured decision-making, as well as conservation and agricultural management. 
