@@ -1,6 +1,7 @@
 ---
 # Display name
 title: Jack Pascoe (he/him)
+
 # Is this the primary user of the site?
 superuser: FALSE
 
@@ -69,7 +70,8 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups: #(please choose one from below and remove the others that aren't needed)
-- Principal Investigators
+- Research Staff
+- 
 ---
 
-Jack is a Yuin man living on Gadabanut Country. Jack completed a PhD at the University of Western Sydney where he studied predator ecology in the Blue Mountains. For the last decade he has led the Conservation Ecology Centre’s Research Program which delivers adaptive management and applied ecological research across the Otway region. His interests are in understanding and managing biocultural landscapes. He currently sits on scientific reference groups for Zoos Victoria and the Department of Energy, Environment and Climate Action (formerly DELWP) and he was a member of the Expert Panel which recently reviewed the Victorian Wildlife Act 1975.
+Jack is a Yuin man living on Gadabanut Country. Jack completed a PhD at the University of Western Sydney where he studied predator ecology in the Blue Mountains. For the last decade, he has led the Conservation Ecology Centre’s Research Program, which delivers adaptive management and applied ecological research across the Otway region. His interests are in understanding and managing biocultural landscapes. He currently sits on scientific reference groups for Zoos Victoria and the Department of Energy, Environment and Climate Action (formerly DELWP), and he was a member of the Expert Panel that recently reviewed the Victorian Wildlife Act 1975.
