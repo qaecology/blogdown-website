@@ -66,7 +66,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups: #(please choose one from below and remove the others that aren't needed)
-- Researchers
+- Research Students and Research Assistants
 ---
 
-Mishal is a coral reef ecologist with 7 years experience working as a scientist for CORDIO East Africa in Kenya under the tutelage of Dr David Obura. He is pursuing his PhD to evaluate and apply established indicators and ecosystem assessment frameworks such as the Red List of Ecosystems, to measure the health and resilience of coral reefs in East Africa. He is interested in data analysis, coding, data visualisation and applying research to support decision making and management.
+Mishal is a coral reef ecologist with 7 years of experience working as a scientist for CORDIO East Africa in Kenya under the tutelage of Dr David Obura. He is pursuing his PhD to evaluate and apply established indicators and ecosystem assessment frameworks such as the Red List of Ecosystems, to measure the health and resilience of coral reefs in East Africa. He is interested in data analysis, coding, data visualisation and applying research to support decision-making and management.
