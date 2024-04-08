@@ -6,7 +6,7 @@ title: Rohan Khot (he/him)
 superuser: FALSE
 
 # Role/position
-role: Former Student
+role: Former Master's Student
 
 # Organizations/Affiliations
 organizations:
@@ -41,8 +41,6 @@ social:
   icon_pack: fas
   link: 'mailto:rkhot@student.unimelb.edu.au'
 
-    
-  
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -58,9 +56,8 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups: #(please choose one from below and remove the others that aren't needed)
-
-- Affiliates
+- Affiliates and Alumni
 
 ---
 
-Rohan is completed his Masters degree at QAEco, working on a project modelling the distributions of Eucalypt species in the Grampians-Gariwerd National Park using Functional Traits. Outside of the university, Rohan works on the Forest Protection Survey Program doing Flora and Fauna Surveys around Victoria. He also enjoys playing Soccer on the weekend, riding bicycles, and losing chess games on the internet.
+Rohan completed his Master's degree at QAEco, working on a project modelling the distributions of Eucalypt species in the Grampians-Gariwerd National Park using Functional Traits. Outside of the university, Rohan works on the Forest Protection Survey Program, conducting Flora and Fauna Surveys around Victoria. He also enjoys playing Soccer on the weekend, riding bicycles, and playing chess on the internet.
