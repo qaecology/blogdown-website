@@ -6,7 +6,7 @@ title: Saoirse Kelleher (she/her)
 superuser: FALSE
 
 # Role/position
-role: PhD candidate
+role: PhD Candidate
 
 # Organizations/Affiliations
 organizations:
@@ -59,7 +59,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups: #(please choose one from below and remove the others that aren't needed)
-- Students
+- Research Students and Research Assistants
 ---
 
-Saoirse Kelleher is a PhD student working on dynamic occupancy models, particularly how their performance can be improved in applied ecological studies. She is also interested in conservation technology and remote sensing, particularly for non-invasive wildlife monitoring. She has previously worked on projects involving bat-mosquito interactions, sound pollution in national parks, and crustacean signaling pathways.
+Saoirse Kelleher is a PhD candidate working on dynamic occupancy models, particularly how their performance can be improved in applied ecological studies. She is also interested in conservation technology and remote sensing, particularly for non-invasive wildlife monitoring. She has previously worked on projects involving bat-mosquito interactions, sound pollution in national parks, and crustacean signalling pathways.
