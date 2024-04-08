@@ -3,7 +3,7 @@
 title: Takuya Nomura (he/him)
 
 # Is this the primary user of the site?
-superuser: true
+superuser: FALSE
 
 # Role/position
 role: Masters student
@@ -55,10 +55,10 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Researchers
+- Research Students and Research Assistants
 ---
 
-Takuya is undertaking a Master of Ecosystem Management and Conservation in the School of Agriculture, Food and Ecosystem Sciences. He has about 10 years of experience as a consultant in forest management and environmental conservation, with much of that work focused in Asia and including Vietnam, Indonesia and India. His research focuses on developing and comparing ecosystem and biodiversity metrics to assist the private sector in evaluating their ecological footprint, through a case study in South Africa. Takuya is supervised by Prof Emily Nicholson and A/Prof Luke Kelly.
+Takuya is undertaking a Master of Ecosystem Management and Conservation in the School of Agriculture, Food and Ecosystem Sciences. He has about 10 years of experience as a consultant in forest management and environmental conservation, with much of that work focused in Asia including Vietnam, Indonesia and India. His research focuses on developing and comparing ecosystem and biodiversity metrics to assist the private sector in evaluating their ecological footprint, through a case study in South Africa. Takuya is supervised by Prof Emily Nicholson and A/Prof Luke Kelly.
 
 
 #### Supervisors:
