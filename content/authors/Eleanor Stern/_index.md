@@ -59,8 +59,9 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups: #(please choose one from below and remove the others that aren't needed)
-- Researchers
+- Research Students and Research Assistants
+  
 ---
 
 
-Eleanor is a PhD student, currently working on a project to use paramecium microcosms to experimentally test SDM performance under different conditions. Previously, she studied at McGill University where she studied moose habitat selection in logged landscapes, and at the University of Alberta where she studied Chronic Wasting Disease in mule deer and microclimate impacts of forest fragmentation.
+Eleanor is a PhD candidate currently working on a project to use paramecium microcosms to experimentally test SDM performance under different conditions. Previously, she studied at McGill University, where she studied moose habitat selection in logged landscapes, and at the University of Alberta, where she studied Chronic Wasting Disease in mule deer and microclimate impacts of forest fragmentation.
