@@ -6,7 +6,7 @@ title: Stephanie Stylli (she/her)
 superuser: FALSE
 
 # Role/position
-role: Former Masters student 
+role: Research Assistant
 
 # Organizations/Affiliations
 organizations:
@@ -14,7 +14,7 @@ organizations:
   url: "https://www.unimelb.edu.au/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Stephanie completed a Bachelor of Science (Zoology) and Master of Science (BioSciences) at the University of Melbourne. She is exploring the impact of prescribed fire on Long-nosed Potoroo population density and survival in the Otway Ranges.
+bio: Stephanie completed a Bachelor of Science (Zoology) and Master of Science (BioSciences) at the University of Melbourne. She explored the impact of prescribed fire on Long-nosed Potoroo population density and survival in the Otway Ranges.
 
 interests:
 - Threatened Species Conservation
