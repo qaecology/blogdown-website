@@ -6,7 +6,7 @@ title: Eleanor Stern (she/her)
 superuser: FALSE
 
 # Role/position
-role: PhD Student
+role: PhD Candidate
 
 # Organizations/Affiliations
 organizations:
