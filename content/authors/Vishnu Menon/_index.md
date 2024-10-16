@@ -6,7 +6,7 @@ title: Vishnu Ramachandran Menon (he/him)
 superuser: false
 
 # Role/position
-role: PhD Candidate
+role: PhD Candidate Alumni
 
 # Organizations/Affiliations
 organizations:
@@ -64,9 +64,9 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Research Students and Research Assistants
+- Affiliates and Alumni
 ---
 
-Vishnu's PhD looks at threatened native mammal responses to fire across fox-controlled landscapes in south-west Victoria. Working closely with DELWP and Parks Victoria, his PhD will help inform integrated fire management and fox control approaches and so design efficient strategies for conserving native mammals. 
+Vishnu's PhD looked at threatened native mammal responses to fire across fox-controlled landscapes in south-west Victoria. Working closely with DELWP and Parks Victoria, his PhD will help inform integrated fire management and fox control approaches and so design efficient strategies for conserving native mammals. 
 
 Having done his undergrad in Electronics Engineering in India, his interest in wildlife management stemmed through his Masters on Sustainable Resource Management in TU Munich, Germany. Vishnu has previously worked on leopard-stray dog interactions in Mumbai, tracking Eurasian wolves in Poland and various other projects in Europe and India. 
