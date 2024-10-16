@@ -68,8 +68,8 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups: #(please choose one from below and remove the others that aren't needed)
-- Research Staff
+- Affiliates and Alumni
 ---
 
 
-Ella is a Research Fellow working with Emily Nicholson and colleagues. She is currently contributing to an existing team effort to assess risk to Australian Alpine Ecosystems using the IUCN Red List of Ecosystems framework, with a particular focus on fire. Ella completed her PhD in November 2023 at the University of Melbourne. She worked with Luke Kelly, Matt Swan, and Trent Penman to investigate the influence of fire across the life cycle of heathland plants. 
+Ella was a Research Fellow working with Emily Nicholson and colleagues. She is currently contributing to an existing team effort to assess risk to Australian Alpine Ecosystems using the IUCN Red List of Ecosystems framework, with a particular focus on fire. Ella completed her PhD in November 2023 at the University of Melbourne. She worked with Luke Kelly, Matt Swan, and Trent Penman to investigate the influence of fire across the life cycle of heathland plants. 
