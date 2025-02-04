@@ -6,7 +6,7 @@ title: Emily McColl-Gausden (she/her)
 superuser: FALSE
 
 # Role/position
-role: Research Fellow
+role: Research Fellow alumni
 
 # Organizations/Affiliations
 organizations:
@@ -65,7 +65,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups: #(please choose one from below and remove the others that aren't needed)
-- Research Staff
+- Affiliates and Alumni
 
 ---
 Emily is a research fellow developing a Victorian Biodiversity Index and spatial gap analysis with DEECA. She is particularly interested in applying ecological modelling methods to different ecological questions, including imperfect detection and site occupancy-detection models, environmental DNA sampling and large-scale sampling projects. 
