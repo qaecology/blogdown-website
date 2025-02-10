@@ -69,4 +69,4 @@ user_groups: #(please choose one from below and remove the others that aren't ne
 ---
 
 
-David is a Research Fellow sitting across the QAEco and MetaMelb research labs. He leads the Data Management and Analysis team for the repliCATS project evaluating the credibility of science. His own research focuses on joint species distribution models, and he collaborates on several SDM-based projects around the globe.
+David is a Research Fellow sitting across the QAEco and MetaMelb research labs. He works across a bunch of projects involving species distribution modelling, occupancy modelling, population viability analysis, and the replicability and reproducibility of published research. His own research focuses on joint species distribution models, and he collaborates on several SDM-based projects around the globe.
