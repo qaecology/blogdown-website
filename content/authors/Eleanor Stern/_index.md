@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Eleanor Stern (she/her)
+title: Eleanor R. Stern (she/her)
 
 # Is this the primary user of the site?
 superuser: FALSE
@@ -14,22 +14,25 @@ organizations:
   url: "https://safes.unimelb.edu.au/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: I'm a PhD Student using paramecium microcosms to experimentally test and assess SDMs and other models.
+bio: Eleanor is a PhD student supervised by Mick McCarthy, currently using microcosm experiments to test SDMs. In the past, she worked at McGill University interweaving Indigenous knowledge into moose habitat analyses, and at the University of Alberta modelling CWD spread in deer.
 
 interests:
-- Microcosms
-- Ecology
-- Wildlife
-
+- Species Distribution Modelling
+- Experimental Ecology
+- Microcosm Experiments
+- Past Research: Quantitative Indigenous Knowledge Interweaving, Wildlife Conservation, Wildlife Epidemiology
 
 education: #please leave blank
   # courses:
-  # - course: Bachelor of Science in Environmental and Conservation Sciences
-  #   institution: University of Alberta
-  #   year: 2019
-  # - course: Master of Science in Renewable Resources
-  #   institution: McGill University
-  #   year: 2022
+  # - course:
+  #   institution:
+  #   year:
+  # - course:
+  #   institution:
+  #   year:
+  # - course:
+  #   institution:
+  #   year:
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -38,17 +41,26 @@ education: #please leave blank
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:estern@student.unimelb.edu.au'
+  link: 'mailto:(estern@student.unimelb.edu.au)'
+- icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/(twitterurl)
+- icon: github
+  icon_pack: fab
+  link: https://github.com/(githuburl)
+- icon: address-card
+  icon_pack: fas
+  link: (https://www.webofscience.com/wos/author/record/IAM-7139-2023)
 - icon: book
   icon_pack: fas
-  link: https://scholar.google.com/citations?user=wuzF3WAAAAAJ&hl=en
+  link: (https://scholar.google.com/citations?user=wuzF3WAAAAAJ&hl=en)
     
   
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+ - icon: cv
+   icon_pack: ai
+   link: files/eleanorsterncv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -59,9 +71,11 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups: #(please choose one from below and remove the others that aren't needed)
-- Research Students and Research Assistants
-  
+- Principal Investigators
+- Researchers
+- Administrators
+- Affiliates
 ---
 
 
-Eleanor is a PhD candidate currently working on a project to use paramecium microcosms to experimentally test SDM performance under different conditions. Previously, she studied at McGill University, where she studied moose habitat selection in logged landscapes, and at the University of Alberta, where she studied Chronic Wasting Disease in mule deer and microclimate impacts of forest fragmentation.
+Eleanor is a PhD Candidate at the University of Melbourne supervised by Mick McCarthy, Peter Vesk, and Chris Clements. Currently, she works in experimental ecology, using laboratory microcosms to test performance of SDMs in non-equilibrium conditions. Previously, she recieved her MSc from McGill University in Canada where she interwove scientific data and Indigenous knowledge into a mixed-methods moose habitat analysis. She recieved her BSc from the University of Alberta where she did research in the fields of geophysics, ecology, and wildlife epidemiology. 
