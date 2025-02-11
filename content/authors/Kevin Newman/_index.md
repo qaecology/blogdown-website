@@ -41,9 +41,6 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 'mailto:kdnewman87@gmail.com'
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/kdnewman87
 - icon: github
   icon_pack: fab
   link: https://github.com/kdnewman87
