@@ -75,6 +75,6 @@ user_groups:
 ---
 
 
-Kevin Newman holds a Bachelor of Science majoring in Zoology and Statistics from La Trobe University and Honours in Biosciences at the University of Melbourne Quantitative and Applied Ecology lab (QAEco) with Professor Mick McCarthy on optimal surveillance for Leadbeater's Possum. He is currently undertaking a PhD in Imperfect Detection and species surveillance with Professor Michael McCarthy and Dr Gurutzeta Guillera-Arroita.
+Kevin Newman holds a Bachelor of Science majoring in Zoology and Statistics from La Trobe University and Honours in Biosciences at the University of Melbourne Quantitative and Applied Ecology lab (QAEco) with Professor Micheal McCarthy on optimal surveillance for Leadbeater's Possum. He is currently undertaking a PhD in Imperfect Detection and species surveillance with Professor Michael McCarthy and Dr Gurutzeta Guillera-Arroita.
 
 His career goal is to assist in the development of sustainable conservation strategies for Australia's unique biodiversity through statistical analysis with meaningful and accessible results.
