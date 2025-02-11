@@ -20,7 +20,6 @@ interests:
 - Species Distribution Modelling
 - Experimental Ecology
 - Microcosm Experiments
-- Past Research: Quantitative Indigenous Knowledge Interweaving, Wildlife Conservation, Wildlife Epidemiology
 
 education: #please leave blank
   # courses:
