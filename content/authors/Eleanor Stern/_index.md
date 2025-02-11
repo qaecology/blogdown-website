@@ -42,18 +42,12 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 'mailto:(estern@student.unimelb.edu.au)'
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/(twitterurl)
-- icon: github
-  icon_pack: fab
-  link: https://github.com/(githuburl)
 - icon: address-card
   icon_pack: fas
-  link: (https://www.webofscience.com/wos/author/record/IAM-7139-2023)
+  link: (www.webofscience.com/wos/author/record/IAM-7139-2023)
 - icon: book
   icon_pack: fas
-  link: (https://scholar.google.com/citations?user=wuzF3WAAAAAJ&hl=en)
+  link: (scholar.google.com/citations?user=wuzF3WAAAAAJ&hl=en)
     
   
 # Link to a PDF of your resume/CV from the About widget.
