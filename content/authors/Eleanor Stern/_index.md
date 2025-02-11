@@ -41,13 +41,13 @@ education: #please leave blank
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:(estern@student.unimelb.edu.au)'
+  link: 'mailto:estern@student.unimelb.edu.au'
 - icon: address-card
   icon_pack: fas
-  link: (www.webofscience.com/wos/author/record/IAM-7139-2023)
+  link: http://www.webofscience.com/wos/author/record/IAM-7139-2023
 - icon: book
   icon_pack: fas
-  link: (scholar.google.com/citations?user=wuzF3WAAAAAJ&hl=en)
+  link: http://scholar.google.com/citations?user=wuzF3WAAAAAJ&hl=en
     
   
 # Link to a PDF of your resume/CV from the About widget.
