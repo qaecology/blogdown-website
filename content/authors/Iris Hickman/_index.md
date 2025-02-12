@@ -44,7 +44,7 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 'mailto:ithickman@student.unimelb.edu.au'
-- icon: twitter
+- icon: bluesky
   icon_pack: fab
   link: https://bsky.app/profile/iris-hickman.bsky.social
 - icon: github
