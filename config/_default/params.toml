@@ -272,11 +272,5 @@ plugins_js  = []
 ############################
 [icon.pack]
   ai = true  # Academicons icon pack https://jpswalsh.github.io/academicons/
-  fab = true
-  fa-brands = true
- 
-[[params.plugins.css]]
-  
-link = "plugins/font-awesome/v6/brands.css"
-lazy = true
+  custom = true
 
