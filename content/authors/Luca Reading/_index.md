@@ -41,18 +41,6 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 'mailto:lreading@student.unimelb.edu.au'
-- icon: twitter
-  icon_pack: fab
-  link: 
-- icon: github
-  icon_pack: fab
-  link: 
-- icon: address-card
-  icon_pack: fas
-  link: 
-- icon: book
-  icon_pack: fas
-  link: 
     
   
 # Link to a PDF of your resume/CV from the About widget.
