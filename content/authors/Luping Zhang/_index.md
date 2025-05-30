@@ -6,7 +6,7 @@ title: Luping Zhang (she/her)
 superuser: FALSE
 
 # Role/position
-role: PhD Student
+role: PhD Candidate
 
 # Organizations/Affiliations
 organizations:
