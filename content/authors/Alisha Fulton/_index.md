@@ -1,0 +1,69 @@
+---
+# Display name
+title: Alisha Fulton (she/her)
+
+# Is this the primary user of the site?
+superuser: false
+
+# Role/position
+role: PhD Candidate
+
+# Organizations/Affiliations
+organizations:
+- name: University of Melbourne
+  url: "http://unimelb.edu.au"
+
+# Short bio (displayed in user profile at end of posts)
+bio:  
+
+interests:
+- Invertebrates
+- Fire Ecology
+- Decomposition
+- Community Ecology
+
+education:
+  # courses:
+  # - course:
+  #   institution:
+  #   year:
+  # - course:
+  #   institution:
+  #   year:
+  # - course:
+  #   institution:
+  #   year:
+
+# Social/Academic Networking
+# For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
+#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
+#   form "mailto:your-email@example.com" or "#contact" for contact widget.
+social:
+- icon: envelope
+  icon_pack: fas
+  link: 'mailto:alisha.fulton@student.unimelb.edu.au'
+
+    
+  
+# Link to a PDF of your resume/CV from the About widget.
+# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
+# - icon: cv
+#   icon_pack: ai
+#   link: files/cv.pdf
+
+# Enter email to display Gravatar (if Gravatar enabled in Config)
+email: ""
+
+# Highlight the author in author lists? (true/false)
+highlight_name: false
+
+# Organizational groups that you belong to (for People widget)
+#   Set this to `[]` or comment out if you are not using People widget.
+user_groups:
+- Research Students and Research Assistants 
+---
+
+
+Alisha is an early-career ecologist who has an interest in understudied taxa, such as invertebrates and fungi. She holds a Bachelor of Ecology and Conservation Biology (Honours) from Monash University. She is currently undertaking a PhD aiming to determine the role that decomposer organisms play in regulating surface fuels in pyrodiverse landscapes of the Otways, Victoria. 
+
+This research will be conducted in collaboration with Eastern Maar as part of a larger project aiming to incorporate cultural values into adaptive management. Her research is supervised by Dr Jack Pascoe, Dr Megan Good and Dr Sarah McColl-Gausden. 
