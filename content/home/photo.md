@@ -18,7 +18,7 @@ subtitle:
 design:
   columns: "1"
   background:
-    image: Qaeco_photo_2023.jpg
+    image: QAEcoGroup.png
     image_darken: 0
     image_parallax: false
     image_position: center
