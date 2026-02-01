@@ -6,7 +6,7 @@ title: Hugh Davies (he/him)
 superuser: FALSE
 
 # Role/position
-role: Research Associate
+role: Research Associate alumni
 
 # Organizations/Affiliations
 organizations:

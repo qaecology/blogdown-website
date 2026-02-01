@@ -6,7 +6,7 @@ title: Olivia Tunney (she/her)
 superuser: FALSE
 
 # Role/position
-role: Masters student alumni
+role: Masters Student alumni
 
 # Organizations/Affiliations
 organizations:

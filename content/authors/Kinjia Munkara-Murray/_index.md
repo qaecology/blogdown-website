@@ -6,7 +6,7 @@ title: Kinjia Munkara-Murray (she/her)
 superuser: FALSE
 
 # Role/position
-role: Former Masters Student
+role: Masters Student alumni
 
 # Organizations/Affiliations
 organizations:

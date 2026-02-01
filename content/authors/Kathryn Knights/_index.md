@@ -6,7 +6,7 @@ title: Kathryn Knights (she/her)
 superuser: true
 
 # Role/position
-role: PhD Candidate Alumni
+role: PhD Candidate alumni
 
 # Organizations/Affiliations
 organizations:

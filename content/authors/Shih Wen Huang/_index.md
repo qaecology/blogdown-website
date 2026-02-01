@@ -6,7 +6,7 @@ title: Jenny Huang (she/her)
 superuser: false
 
 # Role/position
-role: Former Student
+role: Masters Student alumni and Research Assistant alumni
 
 # Organizations/Affiliations
 organizations:

@@ -6,7 +6,7 @@ title: Casey Visintin (he/him)
 superuser: FALSE
 
 # Role/position
-role: Research Fellow
+role: Research Fellow alumni
 
 # Organizations/Affiliations
 organizations:

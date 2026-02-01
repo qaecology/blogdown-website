@@ -6,7 +6,7 @@ title: Natasha Cadenhead (she/her)
 superuser: FALSE
 
 # Role/position
-role: Research Assistant, PhD Candidate
+role: Research Assistant and PhD Candidate alumni
 
 # Organizations/Affiliations
 organizations:
@@ -67,9 +67,9 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups: #(please choose one from below and remove the others that aren't needed)
-- Research Students and Research Assistants
+- Affiliates and Alumni
 
 ---
 
 
-Natasha is a senior research assistant in QAEco and a PhD candidate at The University of Queensland. Her research primarily focuses on how we can create practical conservation tools to better incorporate biodiversity into finanical decision-making processes, mainstreaming biodiversity in the finance sector. Her background is in spatial analysis, population modelling and scenario analysis to support decision making involving threatened species. She also has a strong background in brunch. 
+Natasha was a senior research assistant in QAEco and a PhD candidate at The University of Queensland. Her research primarily focuses on how we can create practical conservation tools to better incorporate biodiversity into finanical decision-making processes, mainstreaming biodiversity in the finance sector. Her background is in spatial analysis, population modelling and scenario analysis to support decision making involving threatened species. She also has a strong background in brunch. 

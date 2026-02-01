@@ -6,7 +6,7 @@ title: Vishnu Ramachandran Menon (he/him)
 superuser: false
 
 # Role/position
-role: PhD Candidate Alumni
+role: PhD Candidate alumni
 
 # Organizations/Affiliations
 organizations:

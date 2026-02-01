@@ -6,7 +6,7 @@ title: Matthew Rees (he/him)
 superuser: FALSE
 
 # Role/position
-role: Postdoctoral Fellow
+role: PhD Candidate alumni
 
 # Organizations/Affiliations
 organizations:

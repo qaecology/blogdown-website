@@ -6,7 +6,7 @@ title: Ezra Janetzki (he/him)
 superuser: FALSE
 
 # Role/position
-role: Master's student alumni
+role: Masters Student alumni
 
 # Organizations/Affiliations
 organizations:

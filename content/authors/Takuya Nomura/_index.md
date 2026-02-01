@@ -6,7 +6,7 @@ title: Takuya Nomura (he/him)
 superuser: FALSE
 
 # Role/position
-role: Masters Student Alumni
+role: Masters Student alumni
 
 # Organizations/Affiliations
 organizations:

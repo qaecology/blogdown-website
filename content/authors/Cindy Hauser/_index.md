@@ -6,7 +6,7 @@ title: Cindy Hauser (she/her)
 superuser: FALSE
 
 # Role/position
-role: Research Fellow
+role: Research Fellow alumni
 
 # Organizations/Affiliations
 organizations:

@@ -6,7 +6,7 @@ title: Rohan Khot (he/him)
 superuser: FALSE
 
 # Role/position
-role: Former Master's Student
+role: Masters Student alumni
 
 # Organizations/Affiliations
 organizations:

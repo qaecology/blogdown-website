@@ -6,7 +6,7 @@ title: Clare Vernon (she/her)
 superuser: FALSE
 
 # Role/position
-role: PhD Candidate
+role: PhD Candidate alumni
 
 # Organizations/Affiliations
 organizations:
@@ -76,8 +76,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups: #(please choose one from below and remove the others that aren't needed)
-- Research Students and Research Assistants
-  
+- Affiliates and Alumni  
 ---
 
-Clare is a PhD candidate with the Conservation Science research lab with Prof Emily Nicholson, based at Deakin University. Her current interests are in the Red List of Ecosystems, Australian alpine ecology and indicators. 
+Clare was a PhD candidate with the Conservation Science research lab with Prof Emily Nicholson, originally based at Deakin University. Her current interests are in the Red List of Ecosystems, Australian alpine ecology and indicators. 
