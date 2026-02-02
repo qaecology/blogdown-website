@@ -67,9 +67,9 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups: #(please choose one from below and remove the others that aren't needed)
-- Research Staff
+- Affiliates and Alumni
   
 ---
 
 
-Payal is developing an integrated modelling approach to assess the impacts of economic trade on land-use and biodiversity on a global scale. She has previously worked with principles of decision theory and optimal monitoring to help improve the use and selection of biodiversity indicators for conservation decision-making.
+Payal developed an integrated modelling approach to assess the impacts of economic trade on land-use and biodiversity on a global scale. She has previously worked with principles of decision theory and optimal monitoring to help improve the use and selection of biodiversity indicators for conservation decision-making.
