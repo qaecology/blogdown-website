@@ -6,7 +6,7 @@ title: Kylle Quinn (he/him)
 superuser: FALSE
 
 # Role/position
-role: Master's Student alumni
+role: Masters Student alumni
 
 # Organizations/Affiliations
 organizations:

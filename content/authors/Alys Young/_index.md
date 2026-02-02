@@ -6,14 +6,17 @@ title: Alys Young (she/her)
 superuser: true
 
 # Role/position
-role: PhD Candidate
+role: PhD Candidate alumni
 
 # Organizations/Affiliations
 organizations:
+- name: James Cook University 
+  url: "https://www.globalecologylab.org/lab-members/alys-rhiannon-young"
 - name: Deakin University 
-  url: "https://www.deakin.edu.au/cie"
+  url: "https://www.deakin.edu.au/faculty-of-science-engineering-and-built-environment/school-of-life-and-environmental-sciences"
 - name: University of Melbourne 
-  url: "https://unimelb.edu.au"
+  url: "https://safes.unimelb.edu.au/"
+
 
 # Short bio (displayed in user profile at end of posts)
 bio:  
@@ -27,7 +30,7 @@ education:
   courses: 
   - course: PhD on modelling the biodiversity of the Tiwi Islands
     institution: Deakin University
-    year: 2020 - ongoing
+    year: 2020 - 2025
   - course: Master of Science (Biosciences)
     institution: University of Melbourne
     year: 2018 - 2019
@@ -42,7 +45,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:aryo@deakin.edu.au'
+  link: 'mailto:alys.young@jcu.edu.au'
 - icon: github
   icon_pack: fab
   link: https://github.com/AlysY
@@ -61,11 +64,11 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Research Students and Research Assistants
+- Affiliates and Alumni
 ---
 
 
-Alys is a PhD student at Deakin University with supervisors from Deakin, the University of Melbourne, and Charles Darwin University. Working with the Tiwi people and Land Council on the Tiwi Islands, Alys investigates ecosystem and biodiversity modelling, particularly using remote sensing and quantitative tools. More generally, she is interested in data analysis, modelling, and coding. She is also a Research Assistant undertaking data management, visualisation and developing shiny apps.
+Alys was a PhD candidate at Deakin University in the Conservation Science lab led by Prof Emily Nicholson. Working with the Tiwi people and Land Council on the Tiwi Islands, Alys investigates ecosystem and biodiversity modelling, particularly using remote sensing and quantitative tools. More generally, she is interested in data analysis, modelling, and coding. She is also a Research Assistant undertaking data management, visualisation and developing shiny apps at The University of Melbourne, and previously at CSIRO. After her PhD, she joined the Global Ecology Lab at James Cook University as a postdoctoral research fellow with Prof Nicholas Murray.
 
 
 #### Supervisors:

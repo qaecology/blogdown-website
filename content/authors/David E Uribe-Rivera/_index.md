@@ -6,7 +6,7 @@ title: David E. Uribe-Rivera (he/him)
 superuser: true
 
 # Role/position
-role: PhD candidate alumni
+role: PhD Candidate alumni
 
 # Organizations/Affiliations
 organizations:

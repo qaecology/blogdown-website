@@ -6,7 +6,7 @@ title: Teagan Goolmeer (she/her)
 superuser: FALSE
 
 # Role/position
-role: PhD Candidate
+role: PhD Candidate alumni
 
 # Organizations/Affiliations
 organizations:
@@ -58,10 +58,10 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups: #(please choose one from below and remove the others that aren't needed)
-- Research Students and Research Assistants
+- Affiliates and Alumni
 
 ---
 
 
 Teagan is a proud Arabana descendant from Lake Eyre. She grew up in Newcastle (Awabakal country) and has recently moved to Port Macquarie with her young family. Teagan has worked in the community engagement and environmental sector for 15 years including in NSW, QLD and WA as well as at an international level as an ambassador to the World Indigenous Network. She believes the answer to the conservation issues facing Australia lie in the Indigenous-led use of Traditional Knowledge. 
-She is currently undertaking a PhD in Investigating systemic changes to empower Indigenous land and sea managers in biodiversity management. 
+She undertook a PhD in Investigating systemic changes to empower Indigenous land and sea managers in biodiversity management. 

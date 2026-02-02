@@ -6,7 +6,7 @@ title: Gurutzeta Guillera Arroita (she/her)
 superuser: FALSE
 
 # Role/position
-role: Senior Researcher / Former QAEco PI
+role: Senior Research and Former QAEco PI alumni
 
 # Organizations/Affiliations
 organizations:

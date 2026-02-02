@@ -6,7 +6,7 @@ title: Esti Palma (she/her)
 superuser: FALSE
 
 # Role/position
-role: Former PhD candidate
+role: PhD Candidate alumni
 
 # Organizations/Affiliations
 organizations:

@@ -6,7 +6,7 @@ title: Pia Lentini (she/her)
 superuser: FALSE
 
 # Role/position
-role: Senior scientist. Former research fellow
+role: Research Fellow alumni
 
 # Organizations/Affiliations
 organizations:

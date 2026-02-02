@@ -6,7 +6,7 @@ title: Linda Riquelme (she/her)
 superuser: FALSE
 
 # Role/position
-role: Former PhD Candidate
+role: PhD Candidate alumni
 
 # Organizations/Affiliations
 organizations:

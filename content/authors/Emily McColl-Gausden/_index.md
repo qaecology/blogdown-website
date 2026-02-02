@@ -6,7 +6,7 @@ title: Emily McColl-Gausden (she/her)
 superuser: FALSE
 
 # Role/position
-role: Research Fellow alumni
+role: Research Fellow alumni and PhD Candidate alumni
 
 # Organizations/Affiliations
 organizations:

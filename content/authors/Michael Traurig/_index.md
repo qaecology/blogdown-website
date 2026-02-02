@@ -6,7 +6,7 @@ title: Michael Traurig (he/him)
 superuser: FALSE
 
 # Role/position
-role: PhD Candidate
+role: PhD Candidate alumni
 
 # Organizations/Affiliations
 organizations:
@@ -67,10 +67,11 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups: #(please choose one from below and remove the others that aren't needed)
-- Research Students and Research Assistants
+- Affiliates and Alumni
+
 ---
 
-Michael is a PhD student at Deakin University with supervisors from Deakin, The University of Melbourne, CSIRO and ACT government. Michael works on finding links between changes in ecosystems due to both natural and anthropogenic pressure and how those changes impact human well-being through their changed capacity to provide ecosystem services. Michael's skills and interests are centred around data analysis, modelling and spatial analysis. Michael is also a research assistant where he works on the impacts of plastic debris on coastal environments and is supervising an honours student in this field of research. 
+Michael was a PhD student at Deakin University with supervisors from Deakin, The University of Melbourne, CSIRO and ACT government. Michael works on finding links between changes in ecosystems due to both natural and anthropogenic pressure and how those changes impact human well-being through their changed capacity to provide ecosystem services. Michael's skills and interests are centred around data analysis, modelling and spatial analysis. Michael is also a research assistant where he works on the impacts of plastic debris on coastal environments and is supervising an honours student in this field of research. 
 
 
 #### Supervisors:

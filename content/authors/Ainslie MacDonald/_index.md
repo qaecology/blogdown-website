@@ -6,7 +6,7 @@ title: Ainslie Macdonald (she/her)
 superuser: FALSE
 
 # Role/position
-role: PhD student
+role: PhD Student
 
 # Organizations/Affiliations
 organizations:

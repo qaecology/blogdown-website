@@ -6,7 +6,7 @@ title: Hannah Mikkelson (she/her)
 superuser: FALSE
 
 # Role/position
-role: Masters student
+role: Masters Student alumni
 
 # Organizations/Affiliations
 organizations:
@@ -14,7 +14,7 @@ organizations:
   url: "https://safes.unimelb.edu.au/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Hannah is a Masters student investigating tree growth models using data collected for the city of Melbourne's Urban Forest.
+bio: Hannah was a Masters student who investigated tree growth models using data collected for the city of Melbourne's Urban Forest.
 
 interests:
 - Ecological modelling
@@ -56,8 +56,8 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups: #(please choose one from below and remove the others that aren't needed)
-- Research Students and Research Assistants
+- Affiliates and Alumni
 ---
 
 
-Hannah completed a Bachelor of Science, majoring in Engineering Physics and minoring in Biology, at the Colorado School of Mines in the United States. She is now undertaking a research project supervised by Dr Peter Vesk to complete her Master of Environmental Science. She is investigating tree growth models using data collected for the city of Melbourne's urban forest.
+Hannah completed a Bachelor of Science, majoring in Engineering Physics and minoring in Biology, at the Colorado School of Mines in the United States. She undertook a research project supervised by Dr Peter Vesk to complete her Master of Environmental Science. She investigated tree growth models using data collected for the city of Melbourne's urban forest.
