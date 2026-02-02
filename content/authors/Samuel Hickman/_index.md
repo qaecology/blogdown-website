@@ -6,7 +6,7 @@ title: Samuel Hickman (he/him)
 superuser: true
 
 # Role/position
-role: Research Associate and Biodiversity Footprint Project Manager
+role: Research Associate
 
 # Organizations/Affiliations
 organizations:
