@@ -78,4 +78,4 @@ user_groups: #(please choose one from below and remove the others that aren't ne
   
 ---
 
-Mick builds and evaluates models that can assist improved environmental managers. He has worked across a range of ecosystems (aquatic to terrestrial) and species (plants, fungi, invertebrates, vertebrates). He likes combining mathematics with ecology, and has interests in statistical ecology. He is also currently the Deputy Dean of the Faculty of Science.
+Mick builds and evaluates models that can assist improved environmental managers. He has worked across a range of ecosystems (aquatic to terrestrial) and species (plants, fungi, invertebrates, vertebrates). He likes combining mathematics with ecology, and has interests in statistical ecology.
