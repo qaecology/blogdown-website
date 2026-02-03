@@ -6,7 +6,7 @@ title: Mishal Gudka (he/him)
 superuser: FALSE
 
 # Role/position
-role: Research fellow
+role: Research Fellow
 
 # Organizations/Affiliations
 organizations:
@@ -69,4 +69,4 @@ user_groups: #(please choose one from below and remove the others that aren't ne
 - Research Staff
 ---
 
-Mishal is a coral reef ecologist with 7 years of experience working as a scientist for CORDIO East Africa in Kenya under the tutelage of Dr David Obura. He pursued his PhD to evaluate and apply established indicators and ecosystem assessment frameworks such as the Red List of Ecosystems, to measure the health and resilience of coral reefs in East Africa. He is interested in data analysis, coding, data visualisation and applying research to support decision-making and management.
+Mishal is a coral reef ecologist with 7 years of experience working as a scientist for CORDIO East Africa in Kenya under the tutelage of Dr David Obura. He pursued his PhD to evaluate and apply established indicators and ecosystem assessment frameworks such as the Red List of Ecosystems, to measure the health and resilience of coral reefs in East Africa. He is interested in data analysis, coding, data visualisation and applying research to support decision-making and management. He is now the Science Lead of the IUCN Global Red List of Coral Reef Ecosystems.
