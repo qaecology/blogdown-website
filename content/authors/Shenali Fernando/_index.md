@@ -6,7 +6,7 @@ title: Shenali Fernando (she/her)
 superuser: FALSE
 
 # Role/position
-role: Master's Student
+role: Research Assistant
 
 # Organizations/Affiliations
 organizations:
@@ -66,4 +66,4 @@ user_groups: #(please choose one from below and remove the others that aren't ne
 ---
 
 
-Shenali completed a Bachelor of Science majoring in Ecology at the University of Melbourne. She is currently undertaking a Master of Science (Biosciences), where she is completing a research project under the supervision of Peter Vesk, Ian Flint and Patrick Baker. She is investigating how individual trees are arranged in mixed-Eucalyptus temperate forests using ecological modelling. 
+Shenali completed a Bachelor of Science majoring in Ecology at the University of Melbourne. She undertook a Master of Science (Biosciences) with QAEco, where she is completed a research project under the supervision of Peter Vesk, Ian Flint and Patrick Baker. She investigated how individual trees are arranged in mixed-Eucalyptus temperate forests using ecological modelling. She now works as a research assistant.
