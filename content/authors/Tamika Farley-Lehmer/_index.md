@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Tamika Farley-Lehmer (she/her) (insert name here followed by pronouns in (they/them) format)
+title: Tamika Farley-Lehmer (she/her)
 
 # Is this the primary user of the site?
 superuser: FALSE
