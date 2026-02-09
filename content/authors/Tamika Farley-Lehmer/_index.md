@@ -10,9 +10,9 @@ role: PhD Candidate (Insert role here ie. PhD Candidate/Research Fellow/Alumni/e
 
 # Organizations/Affiliations
 organizations:
-- name: University of Melbourne
+- name: University of Melbourne 
   url: "https://safes.unimelb.edu.au/"
-- Conservation Ecology Centre
+- Conservation Ecology Centre 
   url: "https://www.conservationecologycentre.org/"
 
 # Short bio (displayed in user profile at end of posts)
