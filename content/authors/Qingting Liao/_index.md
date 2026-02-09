@@ -1,27 +1,28 @@
 ---
 # Display name
-title: Luca Reading (he/him)
+title: Qingting Liao (she/her)
 
 # Is this the primary user of the site?
-superuser: false
+superuser: FALSE
 
 # Role/position
-role: Masters Student alumni
+role: PhD Candidate
 
 # Organizations/Affiliations
 organizations:
 - name: University of Melbourne
-  url: "https://safes.unimelb.edu.au/"
+  url: "https://unimelb.edu.au"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include imperfect detection, species surveillance and the optimisation of detection of species. 
+bio: 
 
 interests:
-- Invasive Species
-- Threatened Species Conservation
-- Ecological Modelling
+- Biodiversity footprinting	
+- Life Cycle Assessment	
+- Spatial analysis	
+- Species distribution modelling	
 
-education:
+education: #please leave blank
   # courses:
   # - course:
   #   institution:
@@ -38,10 +39,6 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-- icon: envelope
-  icon_pack: fas
-  link: 'mailto:lreading@student.unimelb.edu.au'
-    
   
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -57,9 +54,9 @@ highlight_name: false
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-user_groups:
-- Affiliates and Alumni
+user_groups: #(please choose one from below and remove the others that aren't needed)
+- Research Students and Research Assistants
 ---
 
-
-Luca previously completed a Bachelor of Science with a major in Physics at the University of Melbourne. He is now working with supervisors Dr. Billy Geary and Dr. Emma Hudgins to complete a research project as part of the Master of Environment course. Luca's research is focused on assessing the threat posed to threatened forest mammals of Australia by high-risk forest pests through spread modelling and trait-based analyses.
+Qingting is a PhD candidate supervised by Brendan Wintle and Billy Geary. Her research focuses on spatialising business impacts on biodiversity by integrating Life Cycle Assessment (LCA) with ecological modelling approaches.
+Qingting has interdisciplinary training across land resource management, data science, and conservation, and previously worked on urbanisation’s impacts on North China leopard conservation using both social and ecological perspectives. She is particularly interested in applying integrative modelling approaches to link human activities with biodiversity outcomes, supporting conservation planning, corporate biodiversity assessment, and environmental policy development.
