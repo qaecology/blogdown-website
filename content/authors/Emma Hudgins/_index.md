@@ -80,6 +80,6 @@ Emma is interested in the ecology, impacts, and management of species that are c
 
 She is interested in creating better forecasts of future species distributional patterns and better recommendations for managing invasive species at large scales. 
 
-Emma is a recent arrival to QAECO from Canada and continues to collaborate with Canadian government agencies, including Natural Resources Canada—Canadian Forest Service (NRCan-CFS) and Environment and Climate Change Canada (ECCC). She also has longstanding partnerships with researchers at the United States Forest Service (USDA-FS).
+Emma came to QAECO from Canada and continues to collaborate with Canadian government agencies, including Natural Resources Canada—Canadian Forest Service (NRCan-CFS) and Environment and Climate Change Canada (ECCC). She also has longstanding partnerships with researchers at the United States Forest Service (USDA-FS).
 
 She's also a member of the [InvaCost project](https://invacost.fr/en/accueil/) - a living database and global working group that quantifies the economic toll of invasive species.
