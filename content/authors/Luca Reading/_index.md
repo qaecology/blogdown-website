@@ -6,7 +6,7 @@ title: Luca Reading (he/him)
 superuser: false
 
 # Role/position
-role: Masters Student
+role: Masters Student alumni
 
 # Organizations/Affiliations
 organizations:
@@ -58,7 +58,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Research Students and Research Assistants
+- Affiliates and Alumni
 ---
 
 
