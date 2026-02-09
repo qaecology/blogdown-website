@@ -6,7 +6,7 @@ title: Tamika Farley-Lehmer (she/her)
 superuser: FALSE
 
 # Role/position
-role: PhD Candidate (Insert role here ie. PhD Candidate/Research Fellow/Alumni/etc.)
+role: PhD Candidate
 
 # Organizations/Affiliations
 organizations:
