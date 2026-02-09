@@ -66,7 +66,7 @@ highlight_name: false
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-user_groups: #(please choose one from below and remove the others that aren't needed)
+user_groups:
 - Affiliates and Alumni
 ---
 
