@@ -1,26 +1,28 @@
 ---
 # Display name
-title: (insert name here followed by pronouns in (they/them) format)
+title: Kendall Jones (he/him)
 
 # Is this the primary user of the site?
 superuser: FALSE
 
 # Role/position
-role: (Insert role here ie. PhD Candidate/Research Fellow/Alumni/etc.)
+role: Honorary Fellow
 
 # Organizations/Affiliations
 organizations:
-- name: (organisation name / affiliation)
-  url: "(url for organisation website)"
+- name: Wildlife Conservation Society
+  url: "wcs.org"
+- name: University of Melbourne
+  url: https://safes.unimelb.edu.au/
 
 # Short bio (displayed in user profile at end of posts)
-bio: (short 1 - 2 sentence bio)
+bio: 
 
 interests:
-- (General topic areas of interest)
-- (General topic areas of interest)
-- (General topic areas of interest)
-- (General topic areas of interest)
+- Conservation Planning	
+- Business and Biodiversity	
+- Remote Sensing	
+- Ecological Integrity
 
 education: #please leave blank
   # courses:
@@ -41,19 +43,13 @@ education: #please leave blank
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:(email address)'
+  link: 'mailto:krjones@wcs.org'
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/(twitterurl)
-- icon: github
-  icon_pack: fab
-  link: https://github.com/(githuburl)
-- icon: address-card
-  icon_pack: fas
-  link: (personal website URL)
+  link: https://x.com/JendallKones
 - icon: book
   icon_pack: fas
-  link: (research gate / google scholar URL)
+  link: https://scholar.google.com/citations?user=h6OKYjsAAAAJ&hl=en
     
   
 # Link to a PDF of your resume/CV from the About widget.
@@ -71,10 +67,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups: #(please choose one from below and remove the others that aren't needed)
-- Principal Investigators
-- Researchers
-- Administrators
-- Affiliates
+- Affiliates and Alumni
 ---
 
 

@@ -1,26 +1,27 @@
 ---
 # Display name
-title: (insert name here followed by pronouns in (they/them) format)
+title: Ilham Abywijaya (he/him)
 
 # Is this the primary user of the site?
 superuser: FALSE
 
 # Role/position
-role: (Insert role here ie. PhD Candidate/Research Fellow/Alumni/etc.)
+role: PhD Candidate
 
 # Organizations/Affiliations
 organizations:
-- name: (organisation name / affiliation)
-  url: "(url for organisation website)"
+- name: University of Melbourne
+  url: "https://safes.unimelb.edu.au/"
+- name: National Research and Innovation Agency (BRIN) - Indonesia
+  url: "https://www.brin.go.id/en"
 
 # Short bio (displayed in user profile at end of posts)
-bio: (short 1 - 2 sentence bio)
+bio:
 
 interests:
-- (General topic areas of interest)
-- (General topic areas of interest)
-- (General topic areas of interest)
-- (General topic areas of interest)
+- Plants and Vegetation	
+- Ecological Modelling	
+- Functional Traits
 
 education: #please leave blank
   # courses:
@@ -41,19 +42,13 @@ education: #please leave blank
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:(email address)'
+  link: 'mailto:iabywijaya@student.unimelb.edu.au'
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/(twitterurl)
-- icon: github
-  icon_pack: fab
-  link: https://github.com/(githuburl)
-- icon: address-card
-  icon_pack: fas
-  link: (personal website URL)
+  link: https://x.com/iabywijaya
 - icon: book
   icon_pack: fas
-  link: (research gate / google scholar URL)
+  link: https://www.researchgate.net/profile/Ilham-Abywijaya
     
   
 # Link to a PDF of your resume/CV from the About widget.
@@ -71,11 +66,9 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups: #(please choose one from below and remove the others that aren't needed)
-- Principal Investigators
-- Researchers
-- Administrators
-- Affiliates
+- Research Students and Research Assistants
 ---
 
 
-Insert Bio Here (one paragraph, in 3rd person narrative style)
+Ilham is a PhD Candidate under the supervision of Pete Vesk, Mick McCarthy, and Patrick Baker. His research focuses on investigating spatial arrangement of trees in a mixed Eucalypt forest in Victoria. He is interested in understanding how functional traits regulate habitat selection and interactions among trees which in turn influence forest spatial patterns.
+Ilham completed his Bachelor in Forestry at Bogor Agricultural Institute - Indonesia and Master of Science in BioSciences at the University of Melbourne - Australia with QAECO group. He has ten years of experience working in the field of plant ecology as a research and conservation officer in a Botanic Garden in Indonesia before pursuing his PhD degree.
