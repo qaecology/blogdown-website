@@ -71,4 +71,4 @@ user_groups: #(please choose one from below and remove the others that aren't ne
 ---
 
 
-Insert Bio Here (one paragraph, in 3rd person narrative style)
+Dr. Kendall Jones is Director of Ecosystem Science and Planning at the Wildlife Conservation Society, and an Honorary Fellow with QAECO. His work aims to understand the distribution and ecological integrity of ecosystems and design planning strategies to conserve and restore biodiversity. He works at multiple scales, from global scientific analyses aiming to influence high-level policy discussions to landscape-level planning in collaboration with local stakeholders. He has a PhD from the University of Queensland and has published and co-authored over 20 peer reviewed studies in journals including Science and Nature Communications.
