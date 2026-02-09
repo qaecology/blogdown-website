@@ -1,27 +1,28 @@
 ---
 # Display name
-title: Sandra Penman (she/her)
+title: Kendall Jones (he/him)
 
 # Is this the primary user of the site?
 superuser: FALSE
 
 # Role/position
-role: PhD Candidate
+role: Honorary Fellow
 
 # Organizations/Affiliations
 organizations:
+- name: Wildlife Conservation Society
+  url: "wcs.org"
 - name: University of Melbourne
-  url: "http://unimelb.edu.au"
+  url: https://safes.unimelb.edu.au/
 
 # Short bio (displayed in user profile at end of posts)
-bio:
+bio: 
 
 interests:
-- Fire Ecology
-- Community Ecology
-- Bats
-- Terrestrial LiDAR
-
+- Conservation Planning	
+- Business and Biodiversity	
+- Remote Sensing	
+- Ecological Integrity
 
 education: #please leave blank
   # courses:
@@ -42,13 +43,13 @@ education: #please leave blank
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:sandra.penman@unimelb.edu.au'
+  link: 'mailto:krjones@wcs.org'
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/shpenman
+  link: https://x.com/JendallKones
 - icon: book
   icon_pack: fas
-  link: https://scholar.google.com.au/citations?user=R-xFm5EAAAAJ&hl=en
+  link: https://scholar.google.com/citations?user=h6OKYjsAAAAJ&hl=en
     
   
 # Link to a PDF of your resume/CV from the About widget.
@@ -65,8 +66,9 @@ highlight_name: false
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-user_groups: #(please choose one from below and remove the others that aren't needed)
-- Affiliates and Alumni
+user_groups:
+- Research Staff
 ---
 
-Sandra is completing a PhD on how bat communities are affected by fire. Her work focuses on the indirect impacts of fire, specifically changes in vegetation structure and prey availability. Sandra's work is based in forests of SE Australia where she likes to look at trees and contemplate future fire regimes.
+
+Dr. Kendall Jones is Director of Ecosystem Science and Planning at the Wildlife Conservation Society, and an Honorary Fellow with QAECO. His work aims to understand the distribution and ecological integrity of ecosystems and design planning strategies to conserve and restore biodiversity. He works at multiple scales, from global scientific analyses aiming to influence high-level policy discussions to landscape-level planning in collaboration with local stakeholders. He has a PhD from the University of Queensland and has published and co-authored over 20 peer reviewed studies in journals including Science and Nature Communications.
