@@ -44,9 +44,6 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 'mailto:michael.traurig@gmail.com'
-- icon: github
-  icon_pack: fab
-  link: https://github.com/
 - icon: book
   icon_pack: fas
   link: https://www.researchgate.net/profile/Michael-Traurig
