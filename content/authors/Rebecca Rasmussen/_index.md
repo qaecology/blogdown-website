@@ -1,6 +1,6 @@
 ---
 # Display name
-title: James Nolan (he/him)
+title: Rebecca Rasmussen (she/her)
 
 # Is this the primary user of the site?
 superuser: false
@@ -11,16 +11,16 @@ role: PhD Student
 # Organizations/Affiliations
 organizations:
 - name: University of Melbourne
-  url: "https://conservationscience.org.au/#post-168"
+  url: "https://safes.unimelb.edu.au/"
 
 # Short bio (displayed in user profile at end of posts)
 bio:  
 
 interests:
-- Ecosystem Integrity	
-- Remote Sensing	
-- Biodiversity Indicators	
-- Environmental DNA
+- Agent-based modelling	
+- Invasive predator ecology	
+- Ecological modelling	
+- Decision support
 
 education:
   # courses:
@@ -41,14 +41,12 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:james.m.nolan@student.unimelb.edu.au'
-- icon: address-card
-  icon_pack: fas
-  link: https://www.researchgate.net/profile/James-Nolan-35?ev=hdr_xprf
-- icon: book
-  icon_pack: fas
-  link:https://scholar.google.com/citations?user=YK7wSs4AAAAJ&hl=en
-  
+  link: 'mailto:rasmussenr@student.unimelb.edu.au'
+- icon: github
+  icon_pack: fab
+  link: https://github.com/rrrasmussen
+
+    
   
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -69,6 +67,4 @@ user_groups:
 ---
 
 
-James is a PhD student supervised by Prof. Emily Nicholson, Dr. Tina Parkhurst and Dr. Julianna Santos. He is researching how ecosystem integrity can be measured and the threats that impact ecosystem integrity over time. The research is a collaboration with the IUCN and focuses on five key sites in the Global South aiming to support Nature Positive outcomes for ecosystems. James utilises both remote sensing, as well as field work data to study ecosystem change based on conceptual models developed for the ecosystems.
-
-James holds a BSc (Zoology) and a MSc (Biomolecular Science) from the University College Dublin, Ireland. His previous work focused on using eDNA to study Irish bat diets, trophic interactions and their habitat association.
+Rebecca Rasmussen is a PhD student supervised by Bronwyn Hradsky, Naomi Davis and Nic Geard. Her research explores agent-based modelling of invasive predators and their native Australian prey, and the technique's usefulness to both ecology and management. The goal of this research is to support land managers in making more informed decisions about invasive predator control to relieve predation pressure on threatened Australian fauna. Rebecca has an interdisciplinary background, with training in both mathematics and ecology. She has previously worked on topics such as hydrodynamical models of water bugs and compartmental models of infectious diseases.
