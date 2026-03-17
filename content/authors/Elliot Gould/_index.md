@@ -1,12 +1,12 @@
 ---
 # Display name
-title: Elliot Gould (they/them)
+title: Elliot Gould (they/them, he/him)
 
 # Is this the primary user of the site?
 superuser: FALSE
 
 # Role/position
-role: PhD Candidate and Research Assistant
+role: PhD Candidate and Research Assistant alumni
 
 # Organizations/Affiliations
 organizations:
@@ -72,7 +72,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups: #(please choose one from below and remove the others that aren't needed)
-- Research Students and Research Assistants
+- Affiliates and Alumni
 
 ---
 
