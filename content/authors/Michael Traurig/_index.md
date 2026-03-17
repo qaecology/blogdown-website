@@ -6,7 +6,7 @@ title: Michael Traurig (he/him)
 superuser: FALSE
 
 # Role/position
-role: PhD Candidate alumni
+role: Associate Lecturer
 
 # Organizations/Affiliations
 organizations:
@@ -64,7 +64,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups: #(please choose one from below and remove the others that aren't needed)
-- Affiliates and Alumni
+- Research Staff
 
 ---
 

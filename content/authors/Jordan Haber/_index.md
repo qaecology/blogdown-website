@@ -1,28 +1,30 @@
 ---
 # Display name
-title: Saoirse Kelleher (she/her)
+title: Jordan Haber (he/him)
 
 # Is this the primary user of the site?
-superuser: FALSE
+superuser: false
 
 # Role/position
-role: Research Fellow
+role: PhD Student
 
 # Organizations/Affiliations
 organizations:
 - name: University of Melbourne
-  url: "https://unimelb.edu.au"
+  url: "https://safes.unimelb.edu.au/"
+- name: Melbourne Biodiversity Institute
+  url: "https://biodiversity.unimelb.edu.au/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: 
+bio:  
 
 interests:
-- Species Distribution Modelling
-- Conservation Technology
-- Remote Sensing
-- Bioacoustics
+- Ecosystem Risk Assessment	
+- Decision Science	
+- Conservation Planning	
+- Ecological Modelling
 
-education: #please leave blank
+education:
   # courses:
   # - course:
   #   institution:
@@ -41,8 +43,7 @@ education: #please leave blank
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:saoirse.kelleher@student.unimelb.edu.au'
-
+  link: 'mailto:jordan.haber@student.unimelb.edu.au'
   
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -58,8 +59,9 @@ highlight_name: false
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-user_groups: #(please choose one from below and remove the others that aren't needed)
-- Research Staff
+user_groups:
+- Research Students and Research Assistants 
 ---
 
-Saoirse Kelleher is a PhD candidate working on dynamic occupancy models, particularly how their performance can be improved in applied ecological studies. She is also interested in conservation technology and remote sensing, particularly for non-invasive wildlife monitoring. She has previously worked on projects involving bat-mosquito interactions, sound pollution in national parks, and crustacean signalling pathways.
+
+Jordan holds dual master’s degrees in Ecosystem Science & Conservation (Duke University) and City & Regional Planning (UNC–Chapel Hill), and a B.S. in Biology and Environmental Science from Dickinson College. He is a PhD candidate in the Quantitative and Applied Ecology (QAEco) lab at the University of Melbourne, supervised by Bonnie Wintle and Emily Nicholson. His research advances ecosystem risk assessment and applications of the IUCN Red List of Ecosystems to improve evaluation and management of threatened ecological communities, integrating field data, decision science, and quantitative modelling. His broader goal is to bridge science and policy through transparent, decision-relevant conservation tools.
