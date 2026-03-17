@@ -6,7 +6,7 @@ title: Julianna Santos (she/her)
 superuser: FALSE
 
 # Role/position
-role: Research Fellow
+role: Lecturer in Ecosystem Conservation Science
 
 # Organizations/Affiliations
 organizations:

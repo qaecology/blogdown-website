@@ -1,28 +1,28 @@
 ---
 # Display name
-title: Saoirse Kelleher (she/her)
+title: Samuel Ho (he/him)
 
 # Is this the primary user of the site?
-superuser: FALSE
+superuser: false
 
 # Role/position
-role: Research Fellow
+role: PhD Student
 
 # Organizations/Affiliations
 organizations:
 - name: University of Melbourne
-  url: "https://unimelb.edu.au"
+  url: "https://conservationscience.org.au/#post-168"
 
 # Short bio (displayed in user profile at end of posts)
-bio: 
+bio:  
 
 interests:
-- Species Distribution Modelling
-- Conservation Technology
-- Remote Sensing
-- Bioacoustics
+- Freshwater Ecosystems 
+- Conservation Biology	
+- Herpetofauna	
+- Wildlife Trade 
 
-education: #please leave blank
+education:
   # courses:
   # - course:
   #   institution:
@@ -41,8 +41,11 @@ education: #please leave blank
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:saoirse.kelleher@student.unimelb.edu.au'
-
+  link: 'mailto:chaklamsamuel.ho.1@student.unimelb.edu.au'
+- icon: book
+  icon_pack: fas
+  link: https://scholar.google.com/citations?user=JehcjdEAAAAJ&hl=en
+  
   
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -58,8 +61,11 @@ highlight_name: false
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-user_groups: #(please choose one from below and remove the others that aren't needed)
-- Research Staff
+user_groups:
+- Research Students and Research Assistants 
 ---
 
-Saoirse Kelleher is a PhD candidate working on dynamic occupancy models, particularly how their performance can be improved in applied ecological studies. She is also interested in conservation technology and remote sensing, particularly for non-invasive wildlife monitoring. She has previously worked on projects involving bat-mosquito interactions, sound pollution in national parks, and crustacean signalling pathways.
+
+Sam's interests are in conservation biology, particularly but not confined to, freshwater fauna and herpetofauna. This includes their threats, ecology, and how they are being traded. 
+
+He is also an award-winning photographer, aiming to bridge research and education through photography and videography.
