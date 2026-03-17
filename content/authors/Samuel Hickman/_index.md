@@ -6,7 +6,7 @@ title: Samuel Hickman (he/him)
 superuser: true
 
 # Role/position
-role: Research Associate
+role: Research Associate alumni
 
 # Organizations/Affiliations
 organizations:
@@ -60,7 +60,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Research Students and Research Assistants
+- Affiliates and Alumni
 ---
 
 Sam Hickman is a student and Wattle Fellow at the University of Melbourne. He has a keen interest in biodiversity conservation and corporate sustainability. Recently, Sam led the University of Melbourne's biodiversity footprint project, aiming to assess how the University of Melbourne’s direct and upstream activities impact nature.
