@@ -6,7 +6,7 @@ title: Bronwyn Hradsky (she/her)
 superuser: FALSE
 
 # Role/position
-role: Research Fellow
+role: Senior Research Fellow
 
 # Organizations/Affiliations
 organizations:
