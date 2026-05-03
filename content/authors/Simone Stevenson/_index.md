@@ -1,26 +1,28 @@
 ---
 # Display name
-title: Bronwyn Hradsky (she/her)
+title: Simone Stevenson (she/her)
 
 # Is this the primary user of the site?
 superuser: FALSE
 
 # Role/position
-role: Senior Research Fellow
+role: Research Fellow
 
 # Organizations/Affiliations
 organizations:
 - name: University of Melbourne
-  url: "https://www.unimelb.edu.au/"
+  url: "https://conservationscience.org.au/"
+- name: Arthur Rylah Institute for Environmental Research
+  url: "https://www.ari.vic.gov.au/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: (short 1 - 2 sentence bio)
 
 interests:
-- Threatened Species Conservation
-- Invasive Predator Ecology
-- Fire Ecology
-- Agent-based Modelling
+- Biodiversity indicators	
+- Process-based modelling	
+- Marine conservation and biosecurity	
+- Conservation science & policy
 
 education: #please leave blank
   # courses:
@@ -41,20 +43,20 @@ education: #please leave blank
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:hradskyb@unimelb.edu.au'
+  link: 'mailto:simone.stevenson.1@unimelb.edu.au'
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/bron_hradsky
 - icon: github
   icon_pack: fab
-  link: https://github.com/bhradsky
+  link: https://github.com/Simonestevo
 - icon: address-card
   icon_pack: fas
-  link: https://wildzoologist.wordpress.com
+  link: https://simonestevenson.wordpress.com/
 - icon: book
   icon_pack: fas
-  link: https://scholar.google.com/citations?user=GXszTfUAAAAJ&hl=en&oi=ao
-    
+  link: https://scholar.google.com.au/citations?user=TopcjycAAAAJ&hl=en
+       
   
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -69,10 +71,10 @@ email: ""
 highlight_name: false
 
 # Organizational groups that you belong to (for People widget)
-#   Set this to `[]` or comment out if you are not using #People widget.
+#   Set this to `[]` or comment out if you are not using People widget.
 user_groups: #(please choose one from below and remove the others that aren't needed)
 - Research Staff
+  
 ---
 
-
-Bronwyn is a Research Fellow working on the conservation of Australia's native mammals.  Her research involves a mix of fieldwork, quantitative analyses and simulation modelling, with the aim of improving management of invasive predators and fire. She works with land management agencies to identify priority research questions, conduct landscape-scale field experiments and develop decision-support tools. Most of her fieldwork is conducted in the forests and heathlands of south-western Victoria. 
+Simone's research focuses on the development and evaluation of quantitative tools for conservation decision-making, in particular indicators and models in marine and terrestrial systems. She completed her PhD at Deakin University, where she extended new methods for evaluating global biodiversity indicators.   She also built a spread model for marine invasive species in New Zealand during her postdoc under the Marine Biosecurity Toolbox Project. Simone is currently contributing the IPBES Methodological assessment on monitoring biodiversity and nature’s contributions to people, and divides her week between the Community Ecology section at the Arthur Rylah Institute (Mon - Wed) and QAeCO (Thurs-Fri). 

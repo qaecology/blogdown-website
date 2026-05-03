@@ -1,26 +1,25 @@
 ---
 # Display name
-title: Bronwyn Hradsky (she/her)
+title: Natalie Briscoe (she/her)
 
 # Is this the primary user of the site?
 superuser: FALSE
 
 # Role/position
-role: Senior Research Fellow
+role: Research Fellow
 
 # Organizations/Affiliations
 organizations:
 - name: University of Melbourne
-  url: "https://www.unimelb.edu.au/"
+  url: "http://unimelb.edu.au"
 
 # Short bio (displayed in user profile at end of posts)
 bio: (short 1 - 2 sentence bio)
 
 interests:
+- Species Distribution Modelling
+- Ecophysiology
 - Threatened Species Conservation
-- Invasive Predator Ecology
-- Fire Ecology
-- Agent-based Modelling
 
 education: #please leave blank
   # courses:
@@ -41,19 +40,13 @@ education: #please leave blank
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:hradskyb@unimelb.edu.au'
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/bron_hradsky
-- icon: github
-  icon_pack: fab
-  link: https://github.com/bhradsky
+  link: 'mailto:nbriscoe@unimelb.edu.au'
 - icon: address-card
   icon_pack: fas
-  link: https://wildzoologist.wordpress.com
+  link: https://wordpress.com/pages/njbriscoeresearch.wordpress.com
 - icon: book
   icon_pack: fas
-  link: https://scholar.google.com/citations?user=GXszTfUAAAAJ&hl=en&oi=ao
+  link: https://scholar.google.com.au/citations?hl=en&user=E-GA72EAAAAJ&view_op=list_works&sortby=pubdate
     
   
 # Link to a PDF of your resume/CV from the About widget.
@@ -69,10 +62,10 @@ email: ""
 highlight_name: false
 
 # Organizational groups that you belong to (for People widget)
-#   Set this to `[]` or comment out if you are not using #People widget.
+#   Set this to `[]` or comment out if you are not using People widget.
 user_groups: #(please choose one from below and remove the others that aren't needed)
 - Research Staff
+  
 ---
 
-
-Bronwyn is a Research Fellow working on the conservation of Australia's native mammals.  Her research involves a mix of fieldwork, quantitative analyses and simulation modelling, with the aim of improving management of invasive predators and fire. She works with land management agencies to identify priority research questions, conduct landscape-scale field experiments and develop decision-support tools. Most of her fieldwork is conducted in the forests and heathlands of south-western Victoria. 
+Natalie's research aims to understand the factors that constrain species distributions and test and improve methods for forecasting species responses to environmental change. She has particular expertise in eco-physiological or mechanistic niche modelling and is fond of marsupials that live in trees.   

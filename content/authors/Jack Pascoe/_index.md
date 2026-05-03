@@ -6,7 +6,7 @@ title: Jack Pascoe (he/him)
 superuser: FALSE
 
 # Role/position
-role: Senior Research Fellow
+role: Senior Lecturer
 
 # Organizations/Affiliations
 organizations:

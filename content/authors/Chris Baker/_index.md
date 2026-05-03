@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Bronwyn Hradsky (she/her)
+title: Chris Baker (they/them)
 
 # Is this the primary user of the site?
 superuser: FALSE
@@ -17,10 +17,10 @@ organizations:
 bio: (short 1 - 2 sentence bio)
 
 interests:
-- Threatened Species Conservation
-- Invasive Predator Ecology
-- Fire Ecology
-- Agent-based Modelling
+- Mathematical Modelling	
+- Invasive Species	
+- Biosecurity	
+- Epidemiology
 
 education: #please leave blank
   # courses:
@@ -41,19 +41,13 @@ education: #please leave blank
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:hradskyb@unimelb.edu.au'
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/bron_hradsky
-- icon: github
-  icon_pack: fab
-  link: https://github.com/bhradsky
+  link: 'mailto:cbaker1@unimelb.edu.au'
 - icon: address-card
   icon_pack: fas
-  link: https://wildzoologist.wordpress.com
+  link: https://ms.unimelb.edu.au/research/groups/mathematical-ecology-epidemiology-and-biosecurity
 - icon: book
   icon_pack: fas
-  link: https://scholar.google.com/citations?user=GXszTfUAAAAJ&hl=en&oi=ao
+  link: https://scholar.google.com.au/citations?user=cpHRFV4AAAAJ&hl=en
     
   
 # Link to a PDF of your resume/CV from the About widget.
@@ -71,8 +65,8 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using #People widget.
 user_groups: #(please choose one from below and remove the others that aren't needed)
-- Research Staff
+- Affiliates and Alumni
 ---
 
 
-Bronwyn is a Research Fellow working on the conservation of Australia's native mammals.  Her research involves a mix of fieldwork, quantitative analyses and simulation modelling, with the aim of improving management of invasive predators and fire. She works with land management agencies to identify priority research questions, conduct landscape-scale field experiments and develop decision-support tools. Most of her fieldwork is conducted in the forests and heathlands of south-western Victoria. 
+Chris received their PhD from The University of Melbourne in 2017. Prior to re-joining The University of Melbourne in 2020, they worked in The School of Biology at The Pennsylvania State University, The School of Biological Sciences at The University of Queensland and The School of Mathematical Sciences at Queensland University of Technology. Chris' research interests primarily involve developing and using mathematics and statistics to improve decision-making in complex biological problems. 
