@@ -18,11 +18,11 @@ subtitle:
 design:
   columns: "1"
   background:
-    image: 
+    image: Alys Young - Malleefowl monitoring - smaller.jpg
     image_darken: 0
-    image_parallax: true
+    image_parallax: false
     image_position: center
-    image_size: 
+    image_size: 100%
     text_color_light: true
   spacing:
     padding: ["0", "0", "0", "0"]
