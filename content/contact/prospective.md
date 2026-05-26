@@ -17,7 +17,7 @@ advanced:
   css_class:
 ---
 
-We welcome enquiries from prospective students. If you'd like to join us as a student, you should find your potential supervisor on the [People]({{< relref "/people">}}) page and contact them directly.  You should include:
+We welcome enquiries from prospective students. If you'd like to join us as a student, you should find your potential supervisor on the [People]({{< relref "/people">}}) page under Research Staff and contact them directly.  You should include:
 
 - A brief description of your research interests; 
 - Your CV; 

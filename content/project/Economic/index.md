@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Bio-economic modelling and business/biodiversity trade-offs"
+title: "Business and Biodiversity"
 summary: "We address fundamental questions about the combined impacts of consumption, climate change and land use change on biodiversity to inform mitigation and adaptation measures for climate change and biodiversity loss."
 
 date: 2021-08-26

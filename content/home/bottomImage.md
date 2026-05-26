@@ -15,7 +15,7 @@ subtitle:
 design:
   columns: "1"
   background:
-    image: Presentation3.jpg
+    image: bottomimage.jpg
     image_darken: 0
     image_parallax: true
     image_position: center

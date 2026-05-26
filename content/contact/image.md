@@ -18,7 +18,7 @@ subtitle:
 design:
   columns: "1"
   background:
-    image: K Knights 2018_Murray Sunset NP.jpg
+    image: bottomimage.jpg
     image_darken: 0
     image_parallax: true
     image_position: center
