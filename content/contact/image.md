@@ -20,9 +20,9 @@ design:
   background:
     image: bottomimage.jpg
     image_darken: 0
-    image_parallax: true
+    image_parallax: false
     image_position: center
-    image_size: cover
+    image_size: 100%
     text_color_light: true
 
 advanced:
