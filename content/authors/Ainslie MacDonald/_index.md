@@ -42,8 +42,8 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 'mailto:ainslie@unimelb.edu.au'
-- icon: bluesky
-  icon_pack: fab
+- icon: fa-bluesky
+  icon_pack: fa-brands
   link: https://bsky.app/profile/ainsliem.bsky.social
 - icon: book
   icon_pack: fas
