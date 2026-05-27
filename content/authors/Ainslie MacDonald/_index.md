@@ -42,7 +42,7 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 'mailto:ainslie@unimelb.edu.au'
-- icon: twitter
+- icon: bluesky
   icon_pack: fab
   link: https://bsky.app/profile/ainsliem.bsky.social
 - icon: book
