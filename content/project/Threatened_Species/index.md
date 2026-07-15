@@ -1,8 +1,8 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Threatened Species, Communities and Ecosystems"
-summary: "We are passionate about conservation. We undertake fieldwork to understand management implications and apply the principles of our other research themes to threatened species, communities and ecosystems."
+title: "Species, Communities and Ecosystems"
+summary: "We are passionate about conservation. We undertake fieldwork to understand management implications and apply the principles of our other research themes to species, communities and ecosystems."
 date: 2021-08-26
 weight: 1
 tags: []
